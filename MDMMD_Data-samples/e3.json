@@ -1,0 +1,215 @@
+[
+    {
+        "text": "<@user> has joined the channel", 
+        "speaker": "user", 
+        "type": "message", 
+        "ts": "1561655022.000200", 
+        "subtype": "channel_join"
+    }, 
+    {
+        "type": "message", 
+        "ts": "1561655023.000400", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@system> has joined the channel", 
+        "inviter": "user"
+    }, 
+    {
+        "client_msg_id": "731a6b3c-14f0-41cb-a43a-697a279f7c64", 
+        "text": "Hola. I want to buy a Tv which can suit my big hall room.", 
+        "ts": "1561655352.000600", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "d25f1b58-48cd-40e1-8b9c-3ceedc347325", 
+        "text": "Hello my dear friend. Well in that case how do you want to help you?", 
+        "ts": "1561655590.001200", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "ee0b122e-33cd-4b06-9b38-e0712ca3abc6", 
+        "text": "To be honest, show me some big 45-55 inch smart tv.", 
+        "ts": "1561655602.001300", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "5b813bf5-dee3-4a55-9804-a4f693ee4d15", 
+        "text": "What about your budget, how much do you want to pay?", 
+        "ts": "1561655770.001600", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "66fc68c2-d146-45a1-962d-bf1d2f8ddce6", 
+        "text": "I can purchase on till Rs 30,000", 
+        "ts": "1561655976.002200", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "ccb88560-ce39-466b-a1a8-093bc3671cac", 
+        "text": "Is there any brand in your mind?", 
+        "ts": "1561655984.002300", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "6479b4fb-b5c8-474f-bd6a-5125a5165513", 
+        "text": "Yeah samsung and all are good. It is upto you.", 
+        "ts": "1561656004.002600", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "2b7f1dc2-2dac-48eb-a5a6-0c3f3c16c49c", 
+        "text": "the features are as follows: [[' Supported Apps:  Netflix|Prime Video|Youtube', 'Operating System: Linux', 'Resolution: Ultra HD (4K) 3840 x 2160 Pixels', 'Sound Output: 20 W', 'Refresh Rate: 60 Hz']]", 
+        "ts": "1561656044.003100", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "2f63cb56-2110-441c-a9db-28285630b5ee", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k1l1ea80/television/8/9/7/vu-50-qdv-50-qdv-original-imafh4gf6emskgut.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k1nw9zk0/television/t/a/x/vu-43-uh-43-uh-original-imafh4jgug563fyw.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k83dlzk0/television/6/v/h/lg-43um7290ptf-original-imafq6yp8fagh25s.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k3hmj680/television/e/b/r/motorola-65sauhdm-original-imafm59fztjjshhm.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k3hmj680/television/e/b/r/motorola-65sauhdm-original-imafm59fztjjshhm.jpeg"
+            ]
+        }, 
+        "text": "Please take a look at these pictures: ['  Vu Pixelight 126cm (50 inch) Ultra HD (4K) LED Smart TV  with cricket mode (50-QDV)']['  Vu Pixelight 108cm (43 inch) Ultra HD (4K) LED Smart TV  with Cricket Mode (43-UH)']['  LG 108cm (43 inch) Ultra HD (4K) LED Smart TV (43UM7290PTF)']['  Motorola 109cm (43 inch) Ultra HD (4K) LED Smart Android TV  with Wireless Gamepad (43SAUHDM)']['  Motorola 139cm (55 inch) Ultra HD (4K) LED Smart Android TV  with Wireless Gamepad (55SAUHDM)']", 
+        "ts": "1561656069.003500", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "481c8a77-510b-4753-b251-2bddf6197207", 
+        "text": "Ummmmm! I think the second one, show me more of it.", 
+        "ts": "1561656156.004100", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "ad27c7c3-4dd9-4d89-bbbb-047875a47002", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k1nw9zk0/television/t/a/x/vu-43-uh-43-uh-original-imafh4jgug563fyw.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jwkzwy80/television/t/a/x/vu-43-uh-43-uh-original-imafh8gyv3rxbbew.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jwkzwy80/television/t/a/x/vu-43-uh-43-uh-original-imafh8gxqdhnudrg.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jwkzwy80/television/t/a/x/vu-43-uh-43-uh-original-imafh8gyxrjdmmpf.jpeg"
+            ]
+        }, 
+        "text": "Here are some more images of the second one. I think this one will look so cool on your walls.", 
+        "ts": "1561656372.004700", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "5fd8ee9c-0f33-4065-9d41-51b73684e14c", 
+        "text": "Can you tell me about it's connectivity features?", 
+        "ts": "1561656440.005300", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "86f003a7-ff35-4e0f-b67e-d7f347290e7f", 
+        "text": "The Connectivity Features include: HDMI is on the 1st Side, 2nd Rear USB, 2 x Side", 
+        "ts": "1561656544.005500", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "43157eba-2b68-4ed1-afcb-01a7c1e302ec", 
+        "text": "Can you also show me some images of the first one?", 
+        "ts": "1561656663.006100", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "88887074-c3f6-490e-951b-6b213bdf5ed0", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k1nw9zk0/television/t/a/x/vu-43-uh-43-uh-original-imafh4jgug563fyw.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jwkzwy80/television/t/a/x/vu-43-uh-43-uh-original-imafh8gyv3rxbbew.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jwkzwy80/television/t/a/x/vu-43-uh-43-uh-original-imafh8gxqdhnudrg.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jwkzwy80/television/t/a/x/vu-43-uh-43-uh-original-imafh8gyxrjdmmpf.jpeg"
+            ]
+        }, 
+        "text": "Yeah ofcourse, I'm here to assist you! Kindly look at these please.", 
+        "ts": "1561656707.006600", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "969e567a-9860-4393-b6a2-e88d812e9e22", 
+        "text": "Can you show me the image of the remote?", 
+        "ts": "1561656845.007600", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "45615025-b3c2-44b9-8095-b37d46b9d195", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/352/352/remote-controller/h/p/f/airtel-hd-recording-original-original-imaefpqkwdaqbccc.jpeg?q=70"
+            ]
+        }, 
+        "text": "This is how the remote looks:. and it is a universal remote ", 
+        "ts": "1561656850.007700", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "3f52c8e7-ef43-4f61-a4d1-317968182184", 
+        "text": "Can you tell me its price?", 
+        "ts": "1561657102.008100", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "c56963df-93e0-47d3-9764-f31896a86f7c", 
+        "text": "I think it is a good variety and it is going to cost you around:  \u20b922,999", 
+        "ts": "1561657172.008400", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "c8c42631-a6a2-4a42-be16-7eeb3aa6fd61", 
+        "text": "Thanks for the information.", 
+        "ts": "1561657178.008600", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "5a87ec0e-e67f-4191-9710-ad97d9e4a645", 
+        "text": "Thank you visit again.", 
+        "ts": "1561657224.008800", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "exit-message"
+    }
+]

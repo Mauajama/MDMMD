@@ -1,0 +1,170 @@
+[
+    {
+        "text": "<@user> has joined the channel", 
+        "speaker": "user", 
+        "type": "message", 
+        "ts": "1561655324.000200", 
+        "subtype": "channel_join"
+    }, 
+    {
+        "type": "message", 
+        "ts": "1561655325.000500", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@system> has joined the channel", 
+        "inviter": "user"
+    }, 
+    {
+        "client_msg_id": "3de1c297-e553-4dc1-90ae-b622048e9c79", 
+        "text": "Hi. bot, I wish to buy a pair of headphones.", 
+        "ts": "1561655327.000600", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "4ed6ac26-349a-446b-9d57-0ff895f9a4d7", 
+        "text": "Good morning. By the way I didnot get you. Pair of headphones means?", 
+        "ts": "1561657361.001100", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "590646b6-a76d-44c0-b0c1-f31aa8a1c242", 
+        "text": "I want to buy one for me and one my sister. Show me the one which is less in cost.", 
+        "ts": "1561657374.001300", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "e556e660-8d3a-4f8c-90bc-2bf735b6c3ed", 
+        "text": "Okay. It is noted. And is there any brand you are looking for.?", 
+        "ts": "1561657487.001500", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "5e6a6e85-73b8-424c-9d59-c8ff43387e06", 
+        "text": "I think both of us agree on JBL. But let us first see some options.", 
+        "ts": "1561657516.001900", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "2c91da92-f3a3-47d0-9f54-5500251e23e3", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k0y6cnk0/headphone/k/2/c/flipkart-smartbuy-18ly75bk-original-imafkmzyq6hguzk2.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k79dd3k0/headphone/j/y/w/flipkart-smartbuy-bt534-original-imafpj67j4kxfs6e.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k73nlow0/headphone/t/e/e/boat-rockerz-370-original-imafpef5gnphxhzf.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k73nlow0/headphone/h/9/z/boat-rockerz-370-original-imafpef5cszgwxmx.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k34rki80/headphone/r/s/4/mi-sports-basic-original-imafmbuqnxhfzrer.jpeg"
+            ]
+        }, 
+        "text": "Please take a look at these pictures: ['  Flipkart SmartBuy 18LY75BK Bluetooth Headset (Black, Wireless in the ear)']['  Flipkart SmartBuy Wireless Headphone with High Bass (Grey, Wireless over the head)']['  boAt Rockerz 370 Bluetooth Headset (Gregarious Green, Wireless over the head)']['  boAt Rockerz 370 Bluetooth Headset (Fiery Red, Wireless over the head)']['  Mi Sports Basic Bluetooth Headset (Black, Purple, Wireless in the ear)']", 
+        "ts": "1561657630.002300", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "d31cb357-6604-4110-83cc-c01091c9dd31", 
+        "text": "Quite happening! Each one of them is amazing. show me more of the fifth one na!", 
+        "ts": "1561657946.003100", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "777038b0-8a6e-4456-8eb9-87080a03713e", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k73nlow0/headphone/h/9/z/boat-rockerz-370-original-imafpef5cszgwxmx.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k73nlow0/headphone/h/9/z/boat-rockerz-370-original-imafpef5cnqf6zcy.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k73nlow0/headphone/h/9/z/boat-rockerz-370-original-imafpef5pdhbgjmn.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k7jdg280/headphone/h/9/z/boat-rockerz-370-original-imafpr3tdyfjzkh9.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k7jdg280/headphone/h/9/z/boat-rockerz-370-original-imafpr3tsccbdkk5.jpeg"
+            ]
+        }, 
+        "text": "Pretty good choice! Here it is!", 
+        "ts": "1561657956.003200", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "d1631082-3944-496d-a585-86bfbd44a450", 
+        "text": "Even the second one looks cool. how does it looks from different orientationS?", 
+        "ts": "1561658172.003800", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "4251d846-3b3b-42d4-bc6d-941f1c53c47e", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k0y6cnk0/headphone/k/2/c/flipkart-smartbuy-18ly75bk-original-imafkmzyq6hguzk2.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k0y6cnk0/headphone/k/2/c/flipkart-smartbuy-18ly75bk-original-imafkmzytyc7fzyz.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k0y6cnk0/headphone/k/2/c/flipkart-smartbuy-18ly75bk-original-imafkmzyznwzyxhu.jpeg"
+            ]
+        }, 
+        "text": "Sure! I'm glad that you like these. Do you consider this for buying?", 
+        "ts": "1561658238.004300", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "388498ae-bb82-472b-a6e3-51b6682b2681", 
+        "text": "Buddy, Do you have any information about these please  'Warranty Summary Covered Warranty 'Water amp Physical Damage ] of the 2 and the 5?", 
+        "ts": "1561658400.004600", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "1fc34b06-acfd-453a-a888-a507eda52329", 
+        "text": "the information is as follows: 2 [{'Warranty': {'Warranty Summary': '1 Year Warranty', 'Covered in Warranty': 'Manufacturing Defects', 'Not Covered in Warranty': 'Physical Damage'}}] 5 [{'Sound Features': {'Minimum Frequency Response': '20 Hz', 'Maximum Frequency Response': '200 Hz'}}]", 
+        "ts": "1561658661.005100", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "9fedab44-4e38-4e7f-868f-40ba20b60037", 
+        "text": "hey bot, also tell me about theprice of both 2 and 5 please?", 
+        "ts": "1561658690.005600", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "90aeaec6-3518-40dc-8d5c-33955e0f3c2a", 
+        "text": "hey bot, also tell me about the \u20b9899 and  \u20b91,299 respectively.", 
+        "ts": "1561658773.006200", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "059820f6-7fdb-4ac2-877c-4d01f6636539", 
+        "text": "All of them were nice. I think I'll come again to try more. Thanks", 
+        "ts": "1561658949.006500", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "4a5cea21-f280-46ed-b8b8-959c88ba1a55", 
+        "text": "I wish to help you more! You are always welcome! COme here again.", 
+        "ts": "1561658954.006700", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "exit-message"
+    }
+]

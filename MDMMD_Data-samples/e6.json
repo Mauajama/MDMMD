@@ -1,0 +1,162 @@
+[
+    {
+        "text": "<@user> has joined the channel", 
+        "subtype": "channel_join", 
+        "speaker": "user", 
+        "ts": "1561655229.000200", 
+        "type": "message"
+    }, 
+    {
+        "type": "message", 
+        "ts": "1561655231.000400", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@system> has joined the channel", 
+        "inviter": "user"
+    }, 
+    {
+        "client_msg_id": "6174f159-dcae-4020-b3e7-943826191c8f", 
+        "text": "Hey bot! I am planning to buy a smart phone for my mum.!", 
+        "ts": "1561655237.000600", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "ef538525-711d-405d-9b68-24842ee0f0eb", 
+        "text": "Hello! dear. That is so lovely! Awww! Tell me what kind of smart phones are you into apple/ android/ windows?", 
+        "ts": "1561655388.001100", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "7eee4164-6d56-4c21-98ac-1850219d5279", 
+        "text": "I think she can understand better of the iphones. Please show me more of that variety!.", 
+        "ts": "1561655704.001600", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "0598b65e-065c-492d-bd1d-0ec2d404ba66", 
+        "text": "Can you specify any color of your choice.?", 
+        "ts": "1561655779.002400", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "da48d679-c4b3-4981-a645-b69bfde76afb", 
+        "text": "I don't think there is any such color in my mind. But black is my mothers favourite.", 
+        "ts": "1561655810.002700", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "9271b05b-3840-41c1-b579-5c674b9fe3cb", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k2jbyq80pkrrdj/mobile-refurbished/z/a/f/iphone-11-pro-max-256-u-mwhm2hn-a-apple-0-original-imafkg2ftc5cze5n.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/j9d3bm80/mobile/f/y/v/apple-iphone-x-mqa92hn-a-original-imaeyysgqbg8qmhn.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k2jbyq80pkrrdj/mobile-refurbished/c/u/e/iphone-11-pro-512-u-mwcd2hn-a-apple-0-original-imafkg2fhzhzzh5s.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/j7ksia80/mobile/2/r/q/apple-iphone-8-mq6m2hn-a-original-imaexsbzyvydzgzw.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jm9hfgw0/mobile/y/4/u/apple-iphone-xs-mt9l2hn-a-original-imaf97f65bqbdycy.jpeg"
+            ]
+        }, 
+        "text": " Would you mind looking at those items: ['  Apple iPhone 11 Pro Max (Midnight Green, 64 GB)']['  Apple iPhone X (Silver, 64 GB)']['  Apple iPhone 11 Pro Max (Space Grey, 256 GB)']['  Apple iPhone 8 (Gold, 64 GB)']['  Apple iPhone XS (Space Grey, 512 GB)']", 
+        "ts": "1561655939.003100", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "da2d93fc-ed42-411f-9d48-8fbed0a4bdbc", 
+        "text": "I like the first one more. Do you have more images of it?", 
+        "ts": "1561656219.003500", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "7057bfaa-ac75-4b81-9f01-676a46a20b68", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/j9d3bm80/mobile/f/y/v/apple-iphone-x-mqa92hn-a-original-imaeyysgqbg8qmhn.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/j9d3bm80/mobile/f/y/v/apple-iphone-x-mqa92hn-a-original-imaeyzzvaqggkygg.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/j9d3bm80/mobile/g/x/j/apple-iphone-x-mqa62hn-a-original-imaeyzzc2akw459y.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/j9d3bm80/mobile/g/x/j/apple-iphone-x-mqa62hn-a-original-imaeyysgjbe3qzwz.jpeg"
+            ]
+        }, 
+        "text": "I think these are the images that I could find.", 
+        "ts": "1561656410.004100", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "050c3028-87e0-4a31-bf81-01aea75a66fd", 
+        "text": "Do you mind telling me about the Memory &amp; Storage Features features please?", 
+        "ts": "1561656475.004600", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "1896eab8-a7a1-4330-812b-674e69b4ae27", 
+        "text": "Yes please, They are mentioned below [{'Memory &amp; Storage Features': {'Internal Storage': '32 GB', 'Phone Book Memory': 'Yes', 'Call Log Memory': 'Yes', 'SMS Memory': 'Yes'}}]", 
+        "ts": "1561656567.005000", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "34603e09-2680-454a-9107-2ce870dafab8", 
+        "text": "bot, please guide me through this price of both 2 and 5 please?", 
+        "ts": "1561656608.005100", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "d2822002-5eae-4197-9cd4-a5418055e1e7", 
+        "text": "bot, please guide me through this  \u20b980,539 and  \u20b91,34,900 respectively.", 
+        "ts": "1561656735.005500", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "166dd645-8f9e-49ab-8115-f06a13797f77", 
+        "text": "Can you tell me it's price?", 
+        "ts": "1561656789.005600", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "8c79e1f4-d78b-4e87-8316-01d72e792dbf", 
+        "text": "for this one has to pay:  \u20b980,539", 
+        "ts": "1561656916.005800", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "6a7c8d58-1755-40f7-b1fa-5cdcd5cb5d6e", 
+        "text": "I think I'll get this phone for my mother! Thanks buddy", 
+        "ts": "1561657131.006000", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "b5e20307-89c2-4833-ae89-a0ac6d14f709", 
+        "text": "You are welcome. Love you!", 
+        "ts": "1561657147.006300", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "exit-message"
+    }
+]

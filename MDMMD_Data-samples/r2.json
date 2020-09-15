@@ -1,0 +1,507 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1566915293.000200",
+        "user": "UJ5UQPN21",
+        "text": "<@UJ5UQPN21> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1566915294.000400",
+        "user": "UJ7RN7BQF",
+        "text": "<@UJ7RN7BQF> has joined the channel",
+        "inviter": "UJ5UQPN21"
+    },
+    {
+        "client_msg_id": "98783de2-ac90-4ed4-ab76-b2e2089c75fa",
+        "type": "message",
+        "text": "Good evening!!! Can you help?",
+        "user": "UJ7RN7BQF",
+        "ts": "1566915329.000900",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "322d5ae1-73bf-4773-b3fe-e2be7dc50767",
+        "type": "message",
+        "text": "Hello!! What are you looking for?",
+        "user": "UJ5UQPN21",
+        "ts": "1566915358.001300",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "45938e99-c9b2-4ba6-906c-35493bf7319d",
+        "type": "message",
+        "text": "I am looking for some great parathas, can you suggest some?",
+        "user": "UJ7RN7BQF",
+        "ts": "1566915386.001900",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b6a26c19-5c0f-4dc8-97ae-c8fb4e157924",
+        "type": "message",
+        "text": "Yes! Here are some parathas for you: Pan fried paratha\n<http:\/\/www.ndtv.com\/cooks\/images\/Cabbage-Stuffed-Paratha_620.jpg> aloo paratha\n<https:\/\/holycowvegan.net\/wp-content\/uploads\/2017\/03\/easy-aloo-paratha-2.jpg>\n\npalak paratha\n<https:\/\/www.tarladalal.com\/members\/9306\/big\/big_methi_paneer_parathas-8015.jpg?size=696X905> Stuffed Paratha\n<https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQ0QW-DzP6fwRNG7d8wv_OIRaW4fGuDlqUMjQWLHpCKWOWkGh3xuw>\n\nMethi Paratha\n<https:\/\/www.thespruceeats.com\/thmb\/ApWJugkQDMeEK8P_cYxq93Lujvw=\/450x0\/filters:no_upscale():max_bytes(150000):strip_icc()\/GettyImages-844199458-5ab5b93d875db9003717e8be.jpg>\n\nEgg Paratha\n<https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRmd2GnRRb7TYqfZDG2-SNHm-p-YjNj99W_npz5m7IMYHnxTB1lpQ>\n\nSattu Paratha\n<https:\/\/www.deliciousmagazine.co.uk\/wp-content\/uploads\/2018\/07\/776079-1-eng-GB_parathas-768x960.jpg>",
+        "user": "UJ5UQPN21",
+        "ts": "1566915470.002700",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ5UQPN21",
+            "ts": "1566915503.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "620x330px image",
+                "image_url": "http:\/\/www.ndtv.com\/cooks\/images\/Cabbage-Stuffed-Paratha_620.jpg",
+                "image_width": 620,
+                "image_height": 330,
+                "image_bytes": 51030,
+                "from_url": "http:\/\/www.ndtv.com\/cooks\/images\/Cabbage-Stuffed-Paratha_620.jpg",
+                "id": 1,
+                "original_url": "http:\/\/www.ndtv.com\/cooks\/images\/Cabbage-Stuffed-Paratha_620.jpg"
+            },
+            {
+                "fallback": "680x786px image",
+                "image_url": "https:\/\/holycowvegan.net\/wp-content\/uploads\/2017\/03\/easy-aloo-paratha-2.jpg",
+                "image_width": 680,
+                "image_height": 786,
+                "image_bytes": 48231,
+                "from_url": "https:\/\/holycowvegan.net\/wp-content\/uploads\/2017\/03\/easy-aloo-paratha-2.jpg",
+                "id": 2,
+                "original_url": "https:\/\/holycowvegan.net\/wp-content\/uploads\/2017\/03\/easy-aloo-paratha-2.jpg"
+            },
+            {
+                "fallback": "696x905px image",
+                "image_url": "https:\/\/www.tarladalal.com\/members\/9306\/big\/big_methi_paneer_parathas-8015.jpg?size=696X905",
+                "image_width": 696,
+                "image_height": 905,
+                "image_bytes": 51077,
+                "from_url": "https:\/\/www.tarladalal.com\/members\/9306\/big\/big_methi_paneer_parathas-8015.jpg?size=696X905",
+                "id": 3,
+                "original_url": "https:\/\/www.tarladalal.com\/members\/9306\/big\/big_methi_paneer_parathas-8015.jpg?size=696X905"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "20a8f8d0-699b-47c4-b688-9955e94c2570",
+        "type": "message",
+        "text": "I prefer the 2nd and 6th image. Can you tell what will these go with?",
+        "user": "UJ7RN7BQF",
+        "ts": "1566915576.003500",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ7RN7BQF",
+            "ts": "1566915644.000000"
+        }
+    },
+    {
+        "client_msg_id": "3a4ce481-965f-4f98-b951-84b8c0b6bb4c",
+        "type": "message",
+        "text": "Sure, both of them will taste best with these\n<https:\/\/i2.wp.com\/pipingpotcurry.com\/wp-content\/uploads\/2019\/01\/Paratha.-Indian-flatbread-Piping-Pot-Curry-7-683x1024.jpg>\n<https:\/\/www.archanaskitchen.com\/images\/archanaskitchen\/0-Weekend_Meals\/carrot_matar_sabzi_Palak_paratha_avarekalu_sweet_corn_Sundal_paneer_gassi>\n<http:\/\/tingleyourtastebuds.in\/wp-content\/uploads\/2014\/04\/muliparatha3A-300x233.jpg>\n<https:\/\/www.sailusfood.com\/wp-content\/uploads\/2014\/01\/recipe-aloo-matar.jpg>\n<https:\/\/www.archanaskitchen.com\/images\/archanaskitchen\/1-Author\/swathynandhini\/Meal_Plate_Palak_Paratha_Lemonrice_Moong_Phali_Mirchi_Ki_Sabzi_Panchmel_Dal_Tomato_Onion_Raita-4.jpg>",
+        "user": "UJ5UQPN21",
+        "ts": "1566915770.005100",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "683x1024px image",
+                "image_url": "https:\/\/i2.wp.com\/pipingpotcurry.com\/wp-content\/uploads\/2019\/01\/Paratha.-Indian-flatbread-Piping-Pot-Curry-7-683x1024.jpg",
+                "image_width": 683,
+                "image_height": 1024,
+                "image_bytes": 37840,
+                "from_url": "https:\/\/i2.wp.com\/pipingpotcurry.com\/wp-content\/uploads\/2019\/01\/Paratha.-Indian-flatbread-Piping-Pot-Curry-7-683x1024.jpg",
+                "id": 1,
+                "original_url": "https:\/\/i2.wp.com\/pipingpotcurry.com\/wp-content\/uploads\/2019\/01\/Paratha.-Indian-flatbread-Piping-Pot-Curry-7-683x1024.jpg"
+            },
+            {
+                "fallback": "300x233px image",
+                "image_url": "http:\/\/tingleyourtastebuds.in\/wp-content\/uploads\/2014\/04\/muliparatha3A-300x233.jpg",
+                "image_width": 300,
+                "image_height": 233,
+                "image_bytes": 32658,
+                "from_url": "http:\/\/tingleyourtastebuds.in\/wp-content\/uploads\/2014\/04\/muliparatha3A-300x233.jpg",
+                "id": 2,
+                "original_url": "http:\/\/tingleyourtastebuds.in\/wp-content\/uploads\/2014\/04\/muliparatha3A-300x233.jpg"
+            },
+            {
+                "fallback": "500x750px image",
+                "image_url": "https:\/\/www.sailusfood.com\/wp-content\/uploads\/2014\/01\/recipe-aloo-matar.jpg",
+                "image_width": 500,
+                "image_height": 750,
+                "image_bytes": 287684,
+                "from_url": "https:\/\/www.sailusfood.com\/wp-content\/uploads\/2014\/01\/recipe-aloo-matar.jpg",
+                "id": 3,
+                "original_url": "https:\/\/www.sailusfood.com\/wp-content\/uploads\/2014\/01\/recipe-aloo-matar.jpg"
+            },
+            {
+                "fallback": "1300x975px image",
+                "image_url": "https:\/\/www.archanaskitchen.com\/images\/archanaskitchen\/1-Author\/swathynandhini\/Meal_Plate_Palak_Paratha_Lemonrice_Moong_Phali_Mirchi_Ki_Sabzi_Panchmel_Dal_Tomato_Onion_Raita-4.jpg",
+                "image_width": 1300,
+                "image_height": 975,
+                "image_bytes": 129067,
+                "from_url": "https:\/\/www.archanaskitchen.com\/images\/archanaskitchen\/1-Author\/swathynandhini\/Meal_Plate_Palak_Paratha_Lemonrice_Moong_Phali_Mirchi_Ki_Sabzi_Panchmel_Dal_Tomato_Onion_Raita-4.jpg",
+                "id": 4,
+                "original_url": "https:\/\/www.archanaskitchen.com\/images\/archanaskitchen\/1-Author\/swathynandhini\/Meal_Plate_Palak_Paratha_Lemonrice_Moong_Phali_Mirchi_Ki_Sabzi_Panchmel_Dal_Tomato_Onion_Raita-4.jpg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "3adf8c3a-3696-41b1-adce-b06a7cbec035",
+        "type": "message",
+        "text": "Can you show some variety of the 3rd image?",
+        "user": "UJ7RN7BQF",
+        "ts": "1566915826.005700",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d2f39355-2cb5-470c-9e9f-b22a33e4006b",
+        "type": "message",
+        "text": "Hey, here are some varieties in 3rd iamge. <https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/8\/12018\/9222d8f4a404cc3a2b03b1d50c613a2f.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A>  <https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/8\/12018\/bd9cba6005109872b9f337e030755fec.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A> <https:\/\/b.zmtcdn.com\/data\/reviews_photos\/19b\/284b1bfeb3f0a509ef69011d9d81b19b_1544008695.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A> <https:\/\/b.zmtcdn.com\/data\/reviews_photos\/ac5\/c5d0161675178db337ca01ac2bdecac5_1525207127.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A>",
+        "user": "UJ5UQPN21",
+        "ts": "1566915960.006600",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ5UQPN21",
+            "ts": "1566916061.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "200x200px image",
+                "image_url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/8\/12018\/9222d8f4a404cc3a2b03b1d50c613a2f.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "image_width": 200,
+                "image_height": 200,
+                "image_bytes": 12019,
+                "from_url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/8\/12018\/9222d8f4a404cc3a2b03b1d50c613a2f.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "id": 1,
+                "original_url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/8\/12018\/9222d8f4a404cc3a2b03b1d50c613a2f.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A"
+            },
+            {
+                "fallback": "200x200px image",
+                "image_url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/8\/12018\/bd9cba6005109872b9f337e030755fec.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "image_width": 200,
+                "image_height": 200,
+                "image_bytes": 14018,
+                "from_url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/8\/12018\/bd9cba6005109872b9f337e030755fec.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "id": 2,
+                "original_url": "https:\/\/b.zmtcdn.com\/data\/pictures\/chains\/8\/12018\/bd9cba6005109872b9f337e030755fec.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A"
+            },
+            {
+                "fallback": "200x200px image",
+                "image_url": "https:\/\/b.zmtcdn.com\/data\/reviews_photos\/19b\/284b1bfeb3f0a509ef69011d9d81b19b_1544008695.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "image_width": 200,
+                "image_height": 200,
+                "image_bytes": 20040,
+                "from_url": "https:\/\/b.zmtcdn.com\/data\/reviews_photos\/19b\/284b1bfeb3f0a509ef69011d9d81b19b_1544008695.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "id": 3,
+                "original_url": "https:\/\/b.zmtcdn.com\/data\/reviews_photos\/19b\/284b1bfeb3f0a509ef69011d9d81b19b_1544008695.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A"
+            },
+            {
+                "fallback": "200x200px image",
+                "image_url": "https:\/\/b.zmtcdn.com\/data\/reviews_photos\/ac5\/c5d0161675178db337ca01ac2bdecac5_1525207127.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "image_width": 200,
+                "image_height": 200,
+                "image_bytes": 15763,
+                "from_url": "https:\/\/b.zmtcdn.com\/data\/reviews_photos\/ac5\/c5d0161675178db337ca01ac2bdecac5_1525207127.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A",
+                "id": 4,
+                "original_url": "https:\/\/b.zmtcdn.com\/data\/reviews_photos\/ac5\/c5d0161675178db337ca01ac2bdecac5_1525207127.jpg?fit=around%7C200%3A200&amp;crop=200%3A200%3B%2A%2C%2A"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6ab3e6fc-6675-46ea-9dfb-2179b9cd8890",
+        "type": "message",
+        "text": "I like the second image. Also can you suggest some chutneys with it?",
+        "user": "UJ7RN7BQF",
+        "ts": "1566916113.007600",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e9dd54ca-67d6-4c5d-b907-4025338255ac",
+        "type": "message",
+        "text": "<https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQq7VY4UrN8aozsqexTPanqvw4uSa1rBzVNljynBGJb8kiK23MP> It will go best with these <https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQq7VY4UrN8aozsqexTPanqvw4uSa1rBzVNljynBGJb8kiK23MPhttps:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQq7VY4UrN8aozsqexTPanqvw4uSa1rBzVNljynBGJb8kiK23MP>\n<https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRhX2xbEJPWjgMjRFQgDAo70V5Aeyyshc1USiBaUSKI_ExrlA30> It will go best with these <https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQq7VY4UrN8aozsqexTPanqvw4uSa1rBzVNljynBGJb8kiK23MPhttps:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQq7VY4UrN8aozsqexTPanqvw4uSa1rBzVNljynBGJb8kiK23MP>\n<https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRhX2xbEJPWjgMjRFQgDAo70V5Aeyyshc1USiBaUSKI_ExrlA30https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRhX2xbEJPWjgMjRFQgDAo70V5Aeyyshc1USiBaUSKI_ExrlA30>\n<https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQM6nc5NAsLQc2Xn86tsxmOaVgJFiClaBkFPnbg-A7zZ2uuElAE> It will go best with these <https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQq7VY4UrN8aozsqexTPanqvw4uSa1rBzVNljynBGJb8kiK23MPhttps:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQq7VY4UrN8aozsqexTPanqvw4uSa1rBzVNljynBGJb8kiK23MP>\n<https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRhX2xbEJPWjgMjRFQgDAo70V5Aeyyshc1USiBaUSKI_ExrlA30https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRhX2xbEJPWjgMjRFQgDAo70V5Aeyyshc1USiBaUSKI_ExrlA30>\n<https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQM6nc5NAsLQc2Xn86tsxmOaVgJFiClaBkFPnbg-A7zZ2uuElAEhttps:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQM6nc5NAsLQc2Xn86tsxmOaVgJFiClaBkFPnbg-A7zZ2uuElAE>\n<https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSOdXEjQ8coD0JY9of4RVhakPOPRY_ih9egaXQHaSx2bJEMexRTyghttps:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSOdXEjQ8coD0JY9of4RVhakPOPRY_ih9egaXQHaSx2bJEMexRTyg>\n<https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSLOTB7fnn8xI_rPtwKPJ9ZCCRUckKDVVZt-kP1ZnAx3pFbrTJ1wQ>",
+        "user": "UJ5UQPN21",
+        "ts": "1566916243.008200",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ce1b4f6f-869d-4eae-ada0-235108d0d2df",
+        "type": "message",
+        "text": "I like the 1st one. Can you suggest some restaurants that can deliver at my place in Pune?",
+        "user": "UJ7RN7BQF",
+        "ts": "1566916314.008900",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "55653aef-e00b-40f6-a61c-06cc38b3719c",
+        "type": "message",
+        "text": "Here some restaurants selling these items Amar Paratha &amp; Biryani House\n<https:\/\/content3.jdmagicbox.com\/comp\/pune\/v4\/020pxx20.xx20.130404133850.f3v4\/catalogue\/amars-paratha-biryani-house-kothrud-pune-home-delivery-restaurants-wi6s1a.jpg> One Way Foods\n<https:\/\/content3.jdmagicbox.com\/comp\/pune\/v1\/020pxx20.xx20.170524150719.k8v1\/catalogue\/one-way-foods-sinhagad-road-vadgaon-budruk-pune-fast-food-ny7ycipjh0.jpg>\nParatha King\n<https:\/\/content3.jdmagicbox.com\/comp\/pune\/j1\/020pxx20.xx20.160830112638.h3j1\/catalogue\/paratha-king-wakad-pune-restaurants-1ichnxi.jpg>",
+        "user": "UJ5UQPN21",
+        "ts": "1566916370.009200",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ5UQPN21",
+            "ts": "1566916420.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "2000x1500px image",
+                "image_url": "https:\/\/content3.jdmagicbox.com\/comp\/pune\/v4\/020pxx20.xx20.130404133850.f3v4\/catalogue\/amars-paratha-biryani-house-kothrud-pune-home-delivery-restaurants-wi6s1a.jpg",
+                "image_width": 2000,
+                "image_height": 1500,
+                "image_bytes": 354418,
+                "from_url": "https:\/\/content3.jdmagicbox.com\/comp\/pune\/v4\/020pxx20.xx20.130404133850.f3v4\/catalogue\/amars-paratha-biryani-house-kothrud-pune-home-delivery-restaurants-wi6s1a.jpg",
+                "id": 1,
+                "original_url": "https:\/\/content3.jdmagicbox.com\/comp\/pune\/v4\/020pxx20.xx20.130404133850.f3v4\/catalogue\/amars-paratha-biryani-house-kothrud-pune-home-delivery-restaurants-wi6s1a.jpg"
+            },
+            {
+                "fallback": "800x598px image",
+                "image_url": "https:\/\/content3.jdmagicbox.com\/comp\/pune\/j1\/020pxx20.xx20.160830112638.h3j1\/catalogue\/paratha-king-wakad-pune-restaurants-1ichnxi.jpg",
+                "image_width": 800,
+                "image_height": 598,
+                "image_bytes": 74525,
+                "from_url": "https:\/\/content3.jdmagicbox.com\/comp\/pune\/j1\/020pxx20.xx20.160830112638.h3j1\/catalogue\/paratha-king-wakad-pune-restaurants-1ichnxi.jpg",
+                "id": 2,
+                "original_url": "https:\/\/content3.jdmagicbox.com\/comp\/pune\/j1\/020pxx20.xx20.160830112638.h3j1\/catalogue\/paratha-king-wakad-pune-restaurants-1ichnxi.jpg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "394e63d7-edb0-4698-a1f2-1a049119fc9f",
+        "type": "message",
+        "text": "Okay thanks for the information. Can you please provide the contact details of the 3rd image?",
+        "user": "UJ7RN7BQF",
+        "ts": "1566916426.010500",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "928e69b9-4158-4392-9495-2bc01405b1e1",
+        "type": "message",
+        "text": "Yeah here are their contact details <tel:02024457799|020 24457799>\n+91 9890733895. Should we order this for you?",
+        "user": "UJ5UQPN21",
+        "ts": "1566916517.011800",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "b6bc828e-f5a5-49de-8ceb-b2694ae457a0",
+        "type": "message",
+        "text": "That would be great!!",
+        "user": "UJ7RN7BQF",
+        "ts": "1566916527.012000",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "29584418-6557-47bd-9585-5e3229e16d6b",
+        "type": "message",
+        "text": "Your welcome. Happy meal :slightly_smiling_face: !!!",
+        "user": "UJ5UQPN21",
+        "ts": "1566916558.012700",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

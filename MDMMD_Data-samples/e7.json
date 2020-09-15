@@ -1,0 +1,194 @@
+[
+    {
+        "text": "<@UJLP9F2HW> has joined the channel", 
+        "speaker": "user", 
+        "type": "answer", 
+        "ts": "1560741170.000200", 
+        "subtype": "channel_join"
+    }, 
+    {
+        "type": "answer", 
+        "ts": "1560741171.000400", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@UJLNN5PBP> has joined the channel", 
+        "inviter": "UJLP9F2HW"
+    }, 
+    {
+        "client_msg_id": "b44d0101-44a8-4903-877c-14ff9740b6c6", 
+        "text": "It s great to hear from you bot every time. Kindly listen to me and my arequests.", 
+        "speaker": "user", 
+        "ts": "1560741608.000600", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "38e1507a-3e39-472f-8df5-906d268ea6b2", 
+        "text": "I m eager to advice you on.", 
+        "speaker": "system", 
+        "ts": "1560741866.001100", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "d47dd460-c7a9-4b33-a585-7c35d3b5986d", 
+        "text": "My daughter is going  hostel.so I want you to tell me about the best electric kettle.", 
+        "speaker": "user", 
+        "ts": "1560741897.001700", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "f52f7191-fc06-4397-809a-cb9957baa2bb", 
+        "text": "What type of electric kettle do you want a multipurpose cooker on or an electric jug?", 
+        "speaker": "system", 
+        "ts": "1560742123.001900", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "378000cc-cd08-4427-9970-e56985b5d25f", 
+        "text": "I want an electric jug.", 
+        "speaker": "user", 
+        "ts": "1560742172.002200", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "bfbab69b-df2b-4a9f-b9a8-f2b40dd79b32", 
+        "text": "three famous brand Flipkart special pigeon Philips which one do you want?", 
+        "speaker": "system", 
+        "ts": "1560742289.002400", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "40c75553-6ab0-4baf-8efe-3cb5fc9abac6", 
+        "text": "all the three seem to be fine, show me all of them.", 
+        "speaker": "user", 
+        "ts": "1560742375.002700", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "88103c0c-6e77-4dcc-9afc-0bac303ed6ca", 
+        "text": "you can wait for a while.", 
+        "speaker": "system", 
+        "ts": "1560742555.003000", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "814b9cb4-567d-4d8e-8da7-9821a659d538", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k3bwrrk0/electric-kettle/6/r/g/prestige-electric-kettle-pkoss-1-8-original-imafm6f6rzkzw5ec.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k40798w0/electric-kettle/z/p/d/prestige-steel-1-5l-electric-kettle-original-imafa6yxpzf2t9vs.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k5wse4w0/electric-kettle/y/8/b/prestige-1-7-electric-kettle-original-imafzhnggxwhszmh.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jx0prbk0/electric-kettle/7/2/8/flipkart-smartbuy-kes-1709-original-imafhjn4qxvttzkm.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k59xci80/electric-kettle/y/9/m/prestige-steel-1-5l-electric-kettle-with-concealed-element-and-original-imafa6yxkggrazrb.jpeg"
+            ]
+        }, 
+        "text": "Make sure to take a look at the latest images:  1)   Prestige Electric Kettle PKOSS 1.8 Electric Kettle (1.8 L, Black and Silver),  2)   Prestige Steel 1.5L Electric Kettle Electric Kettle (1.5 L, Black),  3)   Prestige 1.7 Electric Kettle Electric Kettle (1.7 L, Silver),  4)   Flipkart SmartBuy KES-1709 Electric Kettle (1.7 L, Silver),  5)   Prestige OSS 1.8 Electric Kettle (1.8 L, Silver, Black), ", 
+        "ts": "1560742691.003700", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "0af7ce6b-689f-460a-bd8c-b7848593f7c7", 
+        "text": "Tell me about the ratings of each.  show me too with the highest rated.", 
+        "speaker": "user", 
+        "ts": "1560742781.004100", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "09cdaf9a-7c3e-4b2e-85e3-4a7e280e41ca", 
+        "attachments": [
+            "https://rukminim1.flixcart.com/image/512/512/k9oj8280/electric-kettle/z/c/h/prestige-high-quality-1-5liter-automatic-1500w-original-imafrf5c7pzbfgen.jpeg", 
+            "https://rukminim1.flixcart.com/image/512/512/k186fm80/electric-kettle/z/5/g/prestige-electric-kettle-pkosss-1-2ltr-black-original-imafkuhrkarseumc.jpeg", 
+            "https://rukminim1.flixcart.com/image/512/512/k8lyc280/electric-kettle/z/h/g/prestige-automatic-milk-boiler-pmb-1-0-pmb-1-0-original-imafqkytyc2bnry3.jpeg", 
+            "https://rukminim1.flixcart.com/image/512/512/jx0prbk0/electric-kettle/7/2/8/flipkart-smartbuy-kes-1709-original-imafhjn4qxvttzkm.jpeg"
+        ], 
+        "text": "Look closely at the rankings 1)  3.4. 2)  4.4. 3)  No rating yet. 4)  4.3. 5)  3.9. try checking the top valued one :2 one. Perhaps you would like to take these aspects into consideration:  1)   Prestige Steel 1.5L Electric Kettle Electric Kettle (1.5 L, Black),  2)   Prestige 1.7 Electric Kettle Electric Kettle (1.7 L, Silver),  3)   Flipkart SmartBuy KES-1709 Electric Kettle (1.7 L, Silver),  4)   Prestige OSS 1.8 Electric Kettle (1.8 L, Silver, Black), ", 
+        "ts": "1560742952.004300", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "254d0135-6f98-46f1-9834-aed8239773f8", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k40798w0/electric-kettle/z/p/d/prestige-steel-1-5l-electric-kettle-original-imafa6yxpzf2t9vs.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k40798w0/electric-kettle/z/p/d/prestige-steel-1-5l-electric-kettle-original-imafa6yxkggrazrb.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k40798w0/electric-kettle/z/p/d/prestige-steel-1-5l-electric-kettle-original-imaf8a7eq5fpsvas.jpeg"
+            ]
+        }, 
+        "text": "ones search terms show these pictures, take a close look", 
+        "ts": "1560743193.004500", 
+        "speaker": "user", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "18acf9fa-2292-4073-b6e4-622393a992d3", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/832/832/jskofww0/mobile/y/h/u/mi-redmi-note-7-pro-na-original-imafe4b62yeycjfq.jpeg?q=70", 
+                "https://rukminim1.flixcart.com/image/832/832/jvgzl3k0/mobile/b/g/m/mi-redmi-note-7-pro-mzb7462in-original-imafgdhwftvxv4hu.jpeg?q=70", 
+                "https://rukminim1.flixcart.com/image/832/832/jskofww0/mobile/y/h/u/mi-redmi-note-7-pro-na-original-imafe4b6twuz3zxb.jpeg?q=70", 
+                "https://rukminim1.flixcart.com/image/832/832/jskofww0/mobile/y/h/u/mi-redmi-note-7-pro-na-original-imafe4b6uzaftq5x.jpeg?q=70"
+            ]
+        }, 
+        "text": "Here is the image", 
+        "ts": "1560743272.005100", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "5d1ddf79-7db8-4fe2-b999-9690db5a80b0", 
+        "text": "This product is super comfortable and I love it because of the  by the International Warranty of the product. I suppose I will tell you about that too much International Warranty, Domestic Warranty,  features please?", 
+        "speaker": "user", 
+        "ts": "1560743633.005900", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "0604656c-3969-4766-9a82-2001e3133d58", 
+        "text": "I want to tell people that these are, apparently, most of these features  International Warranty: 1 Year,  Domestic Warranty: 1 Year,  .", 
+        "speaker": "system", 
+        "ts": "1560743664.006000", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "302839c7-547b-4fba-8426-96d09e97661d", 
+        "text": "This product is super comfortable and I love it because of the  by the Sales Package of the product. I suppose I will tell you about that too much Domestic Warranty, Not Covered in Warranty,  features please?", 
+        "speaker": "user", 
+        "ts": "1560743951.006400", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "cdfc97ef-287a-48e9-a3eb-61a06ef83563", 
+        "text": "I want to tell people that these are, apparently, most of these features  Domestic Warranty: 1 Year,  Not Covered in Warranty: making any physical damage,  .", 
+        "speaker": "system", 
+        "ts": "1560743972.006600", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "61299772-753c-47d8-abc0-2e87773623b1", 
+        "text": "this dealer charges:   \u20b9899", 
+        "speaker": "user", 
+        "ts": "1560744026.006900", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "9af7277a-77b8-4647-b772-f52c948ca034", 
+        "text": "\u20b913,999", 
+        "speaker": "system", 
+        "ts": "1560744041.007100", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "96ddc965-1bcf-407c-b7e2-4209d398dd66", 
+        "text": "order this electric kettle for me I had collected from a nearby location. That is very kind of you. Thank you. ", 
+        "speaker": "user", 
+        "ts": "1560744180.007300", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "e33efdef-4cf7-4801-bac8-022cb116668e", 
+        "text": "thank you so much.Not a problem.", 
+        "speaker": "system", 
+        "ts": "1560744195.007500", 
+        "type": "exit-message"
+    }
+]

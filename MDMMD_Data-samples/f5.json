@@ -1,0 +1,162 @@
+[
+    {
+        "text": "<@user> has joined the channel", 
+        "speaker": "user", 
+        "type": "message", 
+        "ts": "1561655230.000200", 
+        "subtype": "channel_join"
+    }, 
+    {
+        "type": "message", 
+        "ts": "1561655230.000400", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@system> has joined the channel", 
+        "inviter": "user"
+    }, 
+    {
+        "client_msg_id": "1367ab08-3642-4f0a-a883-6931da61f9cd", 
+        "text": "Hello bot. Do you have some sofa set with you?", 
+        "ts": "1561657236.000600", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "11c22d22-00f4-4564-ad4b-b52b0aca28b8", 
+        "text": "Hello Sir, I do have some sofa sets available. How many seaters do you wish to see?", 
+        "ts": "1561657307.000800", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "93f66038-26b1-49fe-8e06-d5757de82185", 
+        "text": "I am particularly looking for a sofa set for my living room, about 4 to 6 seater is fine by me.", 
+        "ts": "1561657400.001200", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "3728a299-3dfa-48b2-b915-a9720d8ef261", 
+        "text": "And how much is your budget by the way?", 
+        "ts": "1561657440.001400", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "3ff61641-1b7a-49f3-8a8a-844162f49667", 
+        "text": "I have saved 70,000 Rs, for this. Now show me some.", 
+        "ts": "1561657675.001700", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "b8ae06de-f33c-4bd4-a069-9bb5a5cef5bc", 
+        "text": " 1)   Bharat Lifestyle Brooklyn Leatherette 3 + 1 + 1 Brown Sofa Set 2)   Bharat Lifestyle Tulip Fabric 3 + 1 + 1 Green &amp; Brown Sofa Set 3)   Balaji Fabric 3 + 2 + 1 Honey Oak Sofa Set 4)   Flipkart SmartBuy Jacquard Sofa Cover (Multicolor Pack of 6) 5)   Bestway Classy Velvet 3 Seater Inflatable Sofa (Color - Green)", 
+        "ts": "1561657888.002300", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "5a069f31-2456-4658-a93d-9ba0e825a03d", 
+        "text": "These are fine. Now show me some images of them!", 
+        "ts": "1561658021.002600", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "51bfd5a1-f8af-49b5-bac3-89627e2d3ed1", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jbtomfk0/slipcover/f/u/9/o06-multitex-original-imafyvzrky2cgx6f.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/inflatable-sofa/k/6/y/acv09-pp-airsofa-original-imaecmg2rvfgjmzy.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/j5fmqa80/pillow/u/s/5/wtar001-cu001-dark-lion-original-imaew4dnuqvjrhzf.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k6i7zww0/sofa-set/t/2/j/brown-cotton-afk-131-3-2-1-abishaka-decor-dark-brown-finish-original-imafz6ks8cffwb6q.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jhs0o7k0/sofa-set/n/z/s/grey-na-tulip-3-1-1-bharat-lifestyle-black-original-imaf5q3hhhu278hr.jpeg"
+            ]
+        }, 
+        "text": "These  are their respective images. They are according to your specification.", 
+        "ts": "1561658081.003000", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "d1f85d4b-f5b7-4212-b0b9-772602236d64", 
+        "text": "Are there images, with the dimensions please?", 
+        "ts": "1561658145.003300", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "b98a24ec-e6e1-401b-a3e5-0e73c71d30f3", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/ji0lbbk0/sofa-set/p/2/j/brown-leatherette-brklynbr311-3-1-1-bharat-lifestyle-brown-original-imaf5wr5gejffwv7.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/ji0lbbk0/sofa-set/p/2/j/brown-leatherette-brklynbr311-3-1-1-bharat-lifestyle-brown-original-imaf5wr5gejffwv7.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k2jbyq80/sofa-bed/h/z/3/double-grey-chenille-leoblkgr3-bharat-lifestyle-black-grey-original-imaf8xgnnwtazx2q.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jkim1zk0/sofa-set/p/2/j/brown-leatherette-brklynbr311-3-1-1-bharat-lifestyle-brown-original-imaf7uuawemfrtuh.jpeg"
+            ]
+        }, 
+        "text": "Yeah they looks like this.", 
+        "ts": "1561658350.004000", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "cafa21d5-e0d0-4dc1-a1ae-a64da89b60ea", 
+        "text": "Kindly inform me about the Product Details features please?", 
+        "ts": "1561658355.004200", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "6006f43a-3d9d-4486-93bd-b0de0a12a31b", 
+        "text": "I am glad you asked for this. The specifications are as follows: [{'Product Details': {'Style': '3+1+1', 'Care Instructions': '\u2022\\tWipe any spills immediately. Wipe with a dry cloth. Do not expose to direct sunlight or heat. Do not keep anything hot or cold directly on the surface'}}]", 
+        "ts": "1561658543.005100", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "380f13da-a9dc-4843-bcc7-74b62904facb", 
+        "text": "ALsos tell me about the general highlights of this.", 
+        "ts": "1561658692.005200", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "1e4d83ab-77f1-41a7-9a46-d7d6eb3994f8", 
+        "text": "the features are as follows: [[' Inflatable Sofa', 'Contemporary &amp; Modern Style', 'Primary Material: Plastic', 'W x H x D: 450 mm x 300 mm x 400 mm (1 ft 5 in x 11 in x 1 ft 3 in)', 'With Armrest', 'DIY - Basic assembly to be done with simple tools by the customer, comes with instructions.']]", 
+        "ts": "1561658889.005700", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "6e62533a-4c7c-4b2f-a850-376d72f5e1ba", 
+        "text": "This was so help ful!. I love you bot!", 
+        "ts": "1561659021.006200", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "bc022cc1-ce75-48d3-a8fa-4e5c4c0077fc", 
+        "text": "You're always Welcome.", 
+        "ts": "1561659039.006600", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "exit-message"
+    }
+]

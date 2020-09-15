@@ -1,0 +1,196 @@
+[
+    {
+        "text": "<@user> has joined the channel", 
+        "speaker": "user", 
+        "type": "message", 
+        "ts": "1561655217.000200", 
+        "subtype": "channel_join"
+    }, 
+    {
+        "type": "message", 
+        "ts": "1561655218.000400", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@system> has joined the channel", 
+        "inviter": "user"
+    }, 
+    {
+        "client_msg_id": "cefeed75-51ac-4b80-92d2-b577213186a2", 
+        "text": "Hello.", 
+        "ts": "1561657228.000600", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "74f4570e-87ab-4802-94b4-e804a3d2b714", 
+        "text": "Hi!, How can I help you?", 
+        "ts": "1561657300.000900", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "0e04f924-6f39-4966-a1ca-5db6a539c1bc", 
+        "text": "I want to buy an almirah which has a mirror.", 
+        "ts": "1561657326.001400", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "32f400d4-4359-49d3-a5d8-847886330b51", 
+        "text": "Can you specify your budget?", 
+        "ts": "1561657437.001600", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "ca80eb60-8bd5-48e3-87dd-abb05fa26c58", 
+        "text": "Up to 60,000", 
+        "ts": "1561657666.001900", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "1a88149c-78e2-48da-9aac-39457de09205", 
+        "attachments": {
+            "image_url": [
+                "https://ii1.pepperfry.com/media/catalog/product/s/l/1600x1760/slimline-2-door-almirah--with-mirror--in-russet-colour-by-godrej-interio-slimline-2-door-almirah--wi-rihxfi.jpg", 
+                "https://ii1.pepperfry.com/media/catalog/product/s/l/494x544/slimline-2-door-almirah--with-mirror--in-textured-ceremine-red-colour-by-godrej-interio-slimline-2-d-efqxzs.jpg", 
+                "https://ii1.pepperfry.com/media/catalog/product/s/l/90x99/slimline-2-door-almirah--with-mirror--in-russet-colour-by-godrej-interio-slimline-2-door-almirah--wi-pgmcrv.jpg", 
+                "https://ii2.pepperfry.com/media/catalog/product/s/l/1600x1760/slimline-metal-2-door-almirah--with-mirror--in-pacific-blue-colour-by-godrej-interio-slimline-metal--rmrdve.jpg", 
+                "https://ii2.pepperfry.com/media/catalog/product/s/l/494x544/slimline-metal-2-door-almirah--with-mirror--in-russet-colour-by-godrej-interio-slimline-metal-2-door-bb7dqh.jpg"
+            ]
+        }, 
+        "text": " Would you mind taking these items into consideration: ", 
+        "ts": "1561657807.002300", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "1752a853-0337-4c42-a142-8aead014cc7d", 
+        "text": "Can you show me more images of the second one?", 
+        "ts": "1561658008.002800", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "49bf815f-53c0-4e07-a3c1-d68621354da6", 
+        "attachments": {
+            "image_url": [
+                "https://ii1.pepperfry.com/media/catalog/product/s/l/1600x1760/slimline-2-door-almirah--with-mirror--in-russet-colour-by-godrej-interio-slimline-2-door-almirah--wi-rihxfi.jpg", 
+                "https://ii1.pepperfry.com/media/catalog/product/s/l/494x544/slimline-2-door-almirah--with-mirror--in-russet-colour-by-godrej-interio-slimline-2-door-almirah--wi-rihxfi.jpg"
+            ]
+        }, 
+        "text": "Just the way you asked: Have a look at these please.", 
+        "ts": "1561658045.003200", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "392c323c-8314-4b09-a6a4-45b7fb55147d", 
+        "text": "Can you show me images of the dimension?", 
+        "ts": "1561658142.003700", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "337ec98f-4a3e-4833-9f16-4a27b161df41", 
+        "attachments": {
+            "image_url": [
+                "https://ii1.pepperfry.com/media/catalog/product/s/l/1600x1760/slimline-2-door-almirah--with-mirror--in-russet-colour-by-godrej-interio-slimline-2-door-almirah--wi-rihxfi.jpg", 
+                "https://ii1.pepperfry.com/media/catalog/product/s/l/494x544/slimline-2-door-almirah--with-mirror--in-russet-colour-by-godrej-interio-slimline-2-door-almirah--wi-rihxfi.jpg", 
+                "https://ii1.pepperfry.com/media/catalog/product/s/l/90x99/slimline-2-door-almirah--with-mirror--in-russet-colour-by-godrej-interio-slimline-2-door-almirah--wi-rihxfi.jpg", 
+                "https://ii2.pepperfry.com/media/catalog/product/s/l/1600x1760/slimline-metal-2-door-almirah--with-mirror--in-russet-colour-by-godrej-interio-slimline-metal-2-door-lkx8e9.jpg"
+            ]
+        }, 
+        "text": "Look at these images: ", 
+        "ts": "1561658274.004000", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "25b590e8-ac9f-4e3f-9151-b46a949c80c3", 
+        "text": "Can you tell me its general features?", 
+        "ts": "1561658295.004500", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "a56c3dd7-df32-4c08-8d8b-31a1ed25c61b", 
+        "text": [
+            " Brand: , <span itemprop=brand>Godrej Interio, \tDimensions:,  H 102.4 x W 35.4 x D 20 (All Dimensions in Inches)\tWeight:,  81 KG\tWarranty:,  12 Months Warranty\tAssembly:,  Assembly by Brand\tPrimary Material:,  Metal\tRoom Type:,  Bedroom\tDoors:,  Two Doors\tDrawer:,  Without Drawer\tDoor Lock:,  With Lock\tSku: , <span itemprop=sku>FN1809288-S-PM5458,"
+        ], 
+        "ts": "1561658475.004900", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "3f47626e-54b6-4878-ac11-6c9abdb39133", 
+        "text": "Can you show me images of the third one?", 
+        "ts": "1561658689.005000", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "af9dd502-5521-4cf5-a0a4-fc9a1d2d737d", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/832/832/jped7rk0/wardrobe-closet/u/t/t/crca-steel-larm2dwrwmbrn-ivr-nilkamal-brown-and-ivory-original-imafbnz75tczcwy2.jpeg?q=70", 
+                "https://rukminim1.flixcart.com/image/832/832/jped7rk0/wardrobe-closet/u/t/t/crca-steel-larm2dwrwmbrn-ivr-nilkamal-brown-and-ivory-original-imafbnz8rvtmn6ky.jpeg?q=70", 
+                "https://rukminim1.flixcart.com/image/832/832/jped7rk0/wardrobe-closet/u/t/t/crca-steel-larm2dwrwmbrn-ivr-nilkamal-brown-and-ivory-original-imafbnz7ce6bnxha.jpeg?q=70", 
+                "https://rukminim1.flixcart.com/image/832/832/jped7rk0/wardrobe-closet/u/t/t/crca-steel-larm2dwrwmbrn-ivr-nilkamal-brown-and-ivory-original-imafbnz7v7p2spsw.jpeg?q=70"
+            ]
+        }, 
+        "text": "Enjoy these images: ", 
+        "ts": "1561658825.005600", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "9eb1372f-c456-4703-86ee-567826f63f7d", 
+        "text": "Can you provide the basic info of it?", 
+        "ts": "1561658827.005800", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "d9c95670-8a45-495b-9d0f-8aec5d6d3783", 
+        "text": [
+            " Brand: , <span itemprop=brand>Godrej Interio, \tDimensions:,  H 102.4 x W 35.4 x D 20 (All Dimensions in Inches)\tWeight:,  81 KG\tWarranty:,  12 Months Warranty\tAssembly:,  Assembly by Brand\tPrimary Material:,  Metal\tRoom Type:,  Bedroom\tDoors:,  Two Doors\tDrawer:,  Without Drawer\tDoor Lock:,  With Lock\tSku: , <span itemprop=sku>FN1809288-S-PM5458,"
+        ], 
+        "ts": "1561658991.006100", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "86ad19e9-1c47-409a-902a-5efa27f27c00", 
+        "text": "Thanks for the information.", 
+        "ts": "1561658993.006200", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "b2af448c-fc40-4622-aa30-096ff8a30d50", 
+        "text": "You're Welcome.", 
+        "ts": "1561659042.006400", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "exit-message"
+    }
+]

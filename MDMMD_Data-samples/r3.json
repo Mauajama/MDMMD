@@ -1,0 +1,506 @@
+[
+    {
+        "client_msg_id": "f52a254b-a642-4d15-b378-d0036287883a",
+        "type": "message",
+        "text": "Hey I like the fifth one, can you tell me what else will go best with this?",
+        "user": "UJ5UQPN21",
+        "ts": "1566630060.011200",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ5UQPN21",
+            "ts": "1566630181.000000"
+        }
+    },
+    {
+        "client_msg_id": "89841023-4031-40ef-bed2-a388e10b723e",
+        "type": "message",
+        "text": "Sure you can also have these with the 5th one <https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSoSkzYMfYvzcqCEh2MSBiU1rS4LOVjCFsN_zh_Hk54HRWiGHGL> <https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRfGEKoQsRDR1CR0kp_DG0A7HsGfCLvTjtDOUoj3lrTLq4_689ewQ> <https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSQbArxcGbt2HKXS4TkxQ4DnvIUrpsWRuFK9P9kEi4kLbgazpU6hQ> <https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTxedBDxDOSzruXRCuurO-SMWzSILUL3f0rhY8SAqjj80biGo3WOg> <https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQp_jxux94OFxx_4TPtgUZ3h9BqFB0bjfQdPd-rJI0H3zGoRY2x>",
+        "user": "UJ7RN7BQF",
+        "ts": "1566630879.013700",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "310x163px image",
+                "image_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSoSkzYMfYvzcqCEh2MSBiU1rS4LOVjCFsN_zh_Hk54HRWiGHGL",
+                "image_width": 310,
+                "image_height": 163,
+                "image_bytes": 6354,
+                "from_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSoSkzYMfYvzcqCEh2MSBiU1rS4LOVjCFsN_zh_Hk54HRWiGHGL",
+                "id": 1,
+                "original_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSoSkzYMfYvzcqCEh2MSBiU1rS4LOVjCFsN_zh_Hk54HRWiGHGL"
+            },
+            {
+                "fallback": "300x168px image",
+                "image_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRfGEKoQsRDR1CR0kp_DG0A7HsGfCLvTjtDOUoj3lrTLq4_689ewQ",
+                "image_width": 300,
+                "image_height": 168,
+                "image_bytes": 8611,
+                "from_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRfGEKoQsRDR1CR0kp_DG0A7HsGfCLvTjtDOUoj3lrTLq4_689ewQ",
+                "id": 2,
+                "original_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRfGEKoQsRDR1CR0kp_DG0A7HsGfCLvTjtDOUoj3lrTLq4_689ewQ"
+            },
+            {
+                "fallback": "183x275px image",
+                "image_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSQbArxcGbt2HKXS4TkxQ4DnvIUrpsWRuFK9P9kEi4kLbgazpU6hQ",
+                "image_width": 183,
+                "image_height": 275,
+                "image_bytes": 9216,
+                "from_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSQbArxcGbt2HKXS4TkxQ4DnvIUrpsWRuFK9P9kEi4kLbgazpU6hQ",
+                "id": 3,
+                "original_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSQbArxcGbt2HKXS4TkxQ4DnvIUrpsWRuFK9P9kEi4kLbgazpU6hQ"
+            },
+            {
+                "fallback": "308x164px image",
+                "image_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTxedBDxDOSzruXRCuurO-SMWzSILUL3f0rhY8SAqjj80biGo3WOg",
+                "image_width": 308,
+                "image_height": 164,
+                "image_bytes": 11264,
+                "from_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTxedBDxDOSzruXRCuurO-SMWzSILUL3f0rhY8SAqjj80biGo3WOg",
+                "id": 4,
+                "original_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTxedBDxDOSzruXRCuurO-SMWzSILUL3f0rhY8SAqjj80biGo3WOg"
+            },
+            {
+                "fallback": "283x178px image",
+                "image_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQp_jxux94OFxx_4TPtgUZ3h9BqFB0bjfQdPd-rJI0H3zGoRY2x",
+                "image_width": 283,
+                "image_height": 178,
+                "image_bytes": 7697,
+                "from_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQp_jxux94OFxx_4TPtgUZ3h9BqFB0bjfQdPd-rJI0H3zGoRY2x",
+                "id": 5,
+                "original_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQp_jxux94OFxx_4TPtgUZ3h9BqFB0bjfQdPd-rJI0H3zGoRY2x"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f0e55cdd-a58b-46b8-984b-afb11bbaae81",
+        "type": "message",
+        "text": "Can I get something else, less oily?",
+        "user": "UJ5UQPN21",
+        "ts": "1566631067.016500",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ5UQPN21",
+            "ts": "1566631125.000000"
+        }
+    },
+    {
+        "client_msg_id": "9a097279-fe45-4c73-b705-6bea749c7d2f",
+        "type": "message",
+        "text": "Yes you can have something like the 5th image or these <https:\/\/i.ytimg.com\/vi\/jVhfg_5ui9w\/maxresdefault.jpg> <https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQOMvQexC61s__E1Ll1OaDbgZNy3llQmpWAvqdW4eLzQtJNAGfa> <https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTb7OaKEXe0WmdyOJpfzTR7fLzaJIssRGs2xfBxouzYOLac6JYfCA> <https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTSDuG9LOiyxPWxV1UEhKzPxbg1whEST4vFLNQmZ5gPc4cXDU6n-w>",
+        "user": "UJ7RN7BQF",
+        "ts": "1566631211.017400",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "1280x720px image",
+                "image_url": "https:\/\/i.ytimg.com\/vi\/jVhfg_5ui9w\/maxresdefault.jpg",
+                "image_width": 1280,
+                "image_height": 720,
+                "image_bytes": 147821,
+                "from_url": "https:\/\/i.ytimg.com\/vi\/jVhfg_5ui9w\/maxresdefault.jpg",
+                "id": 1,
+                "original_url": "https:\/\/i.ytimg.com\/vi\/jVhfg_5ui9w\/maxresdefault.jpg"
+            },
+            {
+                "fallback": "308x164px image",
+                "image_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQOMvQexC61s__E1Ll1OaDbgZNy3llQmpWAvqdW4eLzQtJNAGfa",
+                "image_width": 308,
+                "image_height": 164,
+                "image_bytes": 11767,
+                "from_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQOMvQexC61s__E1Ll1OaDbgZNy3llQmpWAvqdW4eLzQtJNAGfa",
+                "id": 2,
+                "original_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQOMvQexC61s__E1Ll1OaDbgZNy3llQmpWAvqdW4eLzQtJNAGfa"
+            },
+            {
+                "fallback": "251x201px image",
+                "image_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTb7OaKEXe0WmdyOJpfzTR7fLzaJIssRGs2xfBxouzYOLac6JYfCA",
+                "image_width": 251,
+                "image_height": 201,
+                "image_bytes": 9941,
+                "from_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTb7OaKEXe0WmdyOJpfzTR7fLzaJIssRGs2xfBxouzYOLac6JYfCA",
+                "id": 3,
+                "original_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTb7OaKEXe0WmdyOJpfzTR7fLzaJIssRGs2xfBxouzYOLac6JYfCA"
+            },
+            {
+                "fallback": "183x275px image",
+                "image_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTSDuG9LOiyxPWxV1UEhKzPxbg1whEST4vFLNQmZ5gPc4cXDU6n-w",
+                "image_width": 183,
+                "image_height": 275,
+                "image_bytes": 9477,
+                "from_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTSDuG9LOiyxPWxV1UEhKzPxbg1whEST4vFLNQmZ5gPc4cXDU6n-w",
+                "id": 4,
+                "original_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcTSDuG9LOiyxPWxV1UEhKzPxbg1whEST4vFLNQmZ5gPc4cXDU6n-w"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b91aa9af-e74e-4ee3-9ea6-24a3d96f52fb",
+        "type": "message",
+        "text": "can you suggest me which one of these will be less oily <https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSi-KOEjwAHhKmg-SO-JFasQ8p_aJH1K7KIX5E5Py1lJ62xOFWMyg> <https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQp_jxux94OFxx_4TPtgUZ3h9BqFB0bjfQdPd-rJI0H3zGoRY2x>",
+        "user": "UJ5UQPN21",
+        "ts": "1566631362.019300",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ5UQPN21",
+            "ts": "1566631444.000000"
+        },
+        "attachments": [
+            {
+                "fallback": "259x194px image",
+                "image_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSi-KOEjwAHhKmg-SO-JFasQ8p_aJH1K7KIX5E5Py1lJ62xOFWMyg",
+                "image_width": 259,
+                "image_height": 194,
+                "image_bytes": 10579,
+                "from_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSi-KOEjwAHhKmg-SO-JFasQ8p_aJH1K7KIX5E5Py1lJ62xOFWMyg",
+                "id": 1,
+                "original_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcSi-KOEjwAHhKmg-SO-JFasQ8p_aJH1K7KIX5E5Py1lJ62xOFWMyg"
+            },
+            {
+                "fallback": "283x178px image",
+                "image_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQp_jxux94OFxx_4TPtgUZ3h9BqFB0bjfQdPd-rJI0H3zGoRY2x",
+                "image_width": 283,
+                "image_height": 178,
+                "image_bytes": 7697,
+                "from_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQp_jxux94OFxx_4TPtgUZ3h9BqFB0bjfQdPd-rJI0H3zGoRY2x",
+                "id": 2,
+                "original_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQp_jxux94OFxx_4TPtgUZ3h9BqFB0bjfQdPd-rJI0H3zGoRY2x"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0f4f518d-8143-4df3-90e2-447f2a72f9a7",
+        "type": "message",
+        "text": "The 2nd image will be better. Do you want anything else?",
+        "user": "UJ7RN7BQF",
+        "ts": "1566631476.020100",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "d3cc7634-b74f-41c1-be6f-c9aa9b026098",
+        "type": "message",
+        "text": "One of my friends is also joining me, will it be enough for two people? The last one and second image from the less oily ones?",
+        "user": "UJ5UQPN21",
+        "ts": "1566631526.021100",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ5UQPN21",
+            "ts": "1566631740.000000"
+        }
+    },
+    {
+        "client_msg_id": "784ad698-221a-45d2-88ab-a393c1524b3a",
+        "type": "message",
+        "text": "Yes it will be good for the two of you. Would you also like some drinks?",
+        "user": "UJ7RN7BQF",
+        "ts": "1566631778.022000",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "4afd2e8e-0bb7-446c-940b-f668736e9b2b",
+        "type": "message",
+        "text": "No. I'm only willing to have something healthy. Where can I find these two at the cheapest near Karol Bagh Delhi?",
+        "user": "UJ5UQPN21",
+        "ts": "1566631853.023300",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ5UQPN21",
+            "ts": "1566632064.000000"
+        }
+    },
+    {
+        "client_msg_id": "78b22005-7e41-4ea5-8f28-a1d4b7f657b6",
+        "type": "message",
+        "text": "Okay, you will find it in these places <https:\/\/images.livemint.com\/rf\/Image-621x414\/LiveMint\/Period2\/2016\/09\/03\/Photos\/Processed\/momo-kD1--621x414@LiveMint.jpg> <https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQK8XKDdA5ZRjXBUd036AjoO8EgNw-xpraZX2n9Psv-bY7VZ_dVTA> <https:\/\/images.yourstory.com\/cs\/wordpress\/2012\/09\/momo2.jpg?fm=png&amp;auto=format>",
+        "user": "UJ7RN7BQF",
+        "ts": "1566631973.024000",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "621x414px image",
+                "image_url": "https:\/\/images.livemint.com\/rf\/Image-621x414\/LiveMint\/Period2\/2016\/09\/03\/Photos\/Processed\/momo-kD1--621x414@LiveMint.jpg",
+                "image_width": 621,
+                "image_height": 414,
+                "image_bytes": 58812,
+                "from_url": "https:\/\/images.livemint.com\/rf\/Image-621x414\/LiveMint\/Period2\/2016\/09\/03\/Photos\/Processed\/momo-kD1--621x414@LiveMint.jpg",
+                "id": 1,
+                "original_url": "https:\/\/images.livemint.com\/rf\/Image-621x414\/LiveMint\/Period2\/2016\/09\/03\/Photos\/Processed\/momo-kD1--621x414@LiveMint.jpg"
+            },
+            {
+                "fallback": "300x168px image",
+                "image_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQK8XKDdA5ZRjXBUd036AjoO8EgNw-xpraZX2n9Psv-bY7VZ_dVTA",
+                "image_width": 300,
+                "image_height": 168,
+                "image_bytes": 11448,
+                "from_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQK8XKDdA5ZRjXBUd036AjoO8EgNw-xpraZX2n9Psv-bY7VZ_dVTA",
+                "id": 2,
+                "original_url": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQK8XKDdA5ZRjXBUd036AjoO8EgNw-xpraZX2n9Psv-bY7VZ_dVTA"
+            },
+            {
+                "fallback": "720x540px image",
+                "image_url": "https:\/\/images.yourstory.com\/cs\/wordpress\/2012\/09\/momo2.jpg?fm=png&auto=format",
+                "image_width": 720,
+                "image_height": 540,
+                "image_bytes": 608445,
+                "from_url": "https:\/\/images.yourstory.com\/cs\/wordpress\/2012\/09\/momo2.jpg?fm=png&auto=format",
+                "id": 3,
+                "original_url": "https:\/\/images.yourstory.com\/cs\/wordpress\/2012\/09\/momo2.jpg?fm=png&amp;auto=format"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b520c3d4-f8ea-4337-b1c3-0dec8b361dd6",
+        "type": "message",
+        "text": "Does the second image delivers food to my locality?",
+        "user": "UJ5UQPN21",
+        "ts": "1566632023.024900",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "86961958-6484-447b-98c9-acbd20aed581",
+        "type": "message",
+        "text": "Yes they definitely do!!! You can call them and order",
+        "user": "UJ7RN7BQF",
+        "ts": "1566632071.025700",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "a17972c4-e556-4b78-8c13-51f580eb76ab",
+        "type": "message",
+        "text": "Please share with me their contact details.",
+        "user": "UJ5UQPN21",
+        "ts": "1566632094.026100",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "525d6600-8035-4263-a08e-523bc5bd6ca9",
+        "type": "message",
+        "text": "Sure you can reach them at  +91 7596057499. Do you need anything else?",
+        "user": "UJ7RN7BQF",
+        "ts": "1566632182.026600",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "26c1223c-827f-4fc5-a1bb-2e7b9f57a1df",
+        "type": "message",
+        "text": "No. Thank  you.",
+        "user": "UJ5UQPN21",
+        "ts": "1566632207.027200",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "67920246-d3fe-4e45-9022-6d9ead241031",
+        "type": "message",
+        "text": "Welcome visit us again!!! Have a great meal",
+        "user": "UJ7RN7BQF",
+        "ts": "1566632247.027700",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

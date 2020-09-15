@@ -1,0 +1,171 @@
+[
+    {
+        "text": "<@user> has joined the channel", 
+        "subtype": "channel_join", 
+        "speaker": "user", 
+        "ts": "1561655256.000200", 
+        "type": "message"
+    }, 
+    {
+        "type": "message", 
+        "ts": "1561655257.000400", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@system> has joined the channel", 
+        "inviter": "user"
+    }, 
+    {
+        "client_msg_id": "36c054a8-c0f7-4319-b862-ba694aba1add", 
+        "text": "Hello bot.", 
+        "ts": "1561659081.000600", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "31892cfb-2453-4989-b13a-cfd7c6c50606", 
+        "text": "Oh hello! How may I serve you please?", 
+        "ts": "1561659111.000800", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "b915d0d3-0818-4872-b54b-be96152266c0", 
+        "text": "I am in search of a Apple phone. Can you help me with some models please.", 
+        "ts": "1561659196.001700", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "fd79d4ad-75f1-4ed5-94a5-04c5f344355e", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k13w4280/mobile/h/q/h/apple-iphone-7-plus-mn4w2hn-a-original-imafkqfhzxgedrcu.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k13w4280/mobile/x/y/m/apple-iphone-7-plus-mn4u2hn-a-original-imafkqfhmhyzy5xz.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k2jbyq80pkrrdj/mobile-refurbished/x/j/s/iphone-11-128-d-mwm02hn-a-apple-0-original-imafkg242ugz8hwc.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k2jbyq80pkrrdj/mobile-refurbished/y/k/z/iphone-11-64-a-mwlx2hn-a-apple-0-original-imafkg24ymsjav9h.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k13w4280/mobile/p/p/4/apple-iphone-7-plus-mn4q2hn-a-original-imafkqfhjzsvghb8.jpeg"
+            ]
+        }, 
+        "text": " Would you mind looking at those Please: ['  Apple iPhone 7 Plus (Black, 32 GB)']['  Apple iPhone 7 Plus (Rose Gold, 32 GB)']['  Apple iPhone 11 (Black, 64 GB)']['  Apple iPhone 11 (Purple, 64 GB)']['  Apple iPhone 7 Plus (Gold, 32 GB)']", 
+        "ts": "1561659420.002700", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "ba7f1828-aa13-4a03-84d6-0f609a2b6189", 
+        "text": "I wan to see some more images from the first phone. can you show me some?", 
+        "ts": "1561659424.002900", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "c4687d3a-3740-4206-8fa0-2a2c5a000a46", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k13w4280/mobile/h/q/h/apple-iphone-7-plus-mn4w2hn-a-original-imafkqfhzxgedrcu.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k23m4cw0/mobile/f/q/h/apple-iphone-7-plus-mnqm2hn-a-original-imafhgvkw9hzn36q.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k13w4280/mobile/h/q/h/apple-iphone-7-plus-mn4w2hn-a-original-imafkqfhpphggyvh.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k13w4280/mobile/h/q/h/apple-iphone-7-plus-mn4w2hn-a-original-imafkqfhwkj3dh2r.jpeg"
+            ]
+        }, 
+        "text": "I think these are the best supported images.", 
+        "ts": "1561659582.003600", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "9d516b09-21c6-4c62-aaa9-d1763cab8534", 
+        "text": "Hey I think, the phone might be a little over budget for me. tell me about its price please.", 
+        "ts": "1561659603.003800", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "8a4d0d13-5d60-4a4a-9ec2-479d4bc6032b", 
+        "text": "This phone is for Rs 62450/- only. On emi you could get this for 4550/- per month.", 
+        "ts": "1561659693.004400", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "b6bb891d-ed65-484d-8507-e819b10a350b", 
+        "text": "Oh that is lovely. I think, I can consider this phone. Can you also show me some images of the last one?", 
+        "ts": "1561659790.004500", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "cc6ea640-6d31-42c6-9274-23831cb1367e", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k13w4280/mobile/h/q/h/apple-iphone-7-plus-mn4w2hn-a-original-imafkqfhzxgedrcu.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k23m4cw0/mobile/f/q/h/apple-iphone-7-plus-mnqm2hn-a-original-imafhgvkw9hzn36q.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k13w4280/mobile/h/q/h/apple-iphone-7-plus-mn4w2hn-a-original-imafkqfhpphggyvh.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k13w4280/mobile/h/q/h/apple-iphone-7-plus-mn4w2hn-a-original-imafkqfhwkj3dh2r.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k3ncakw0/mobile/f/q/h/apple-iphone-7-plus-mnqm2hn-a-original-imafmqyn4jgfrgej.jpeg"
+            ]
+        }, 
+        "text": "Kindly consider these images for your reference.", 
+        "ts": "1561659905.005600", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "d76af77d-6a42-40c7-8d49-e776787d8b36", 
+        "text": "Please tell me about the RAM and ROM of the phone please?", 
+        "ts": "1561659909.005800", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "3378da25-ad49-4cb5-8438-b9a83b52b04f", 
+        "text": "the features are as follows:  32 GB ROM |", 
+        "ts": "1561659957.006200", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "9e0e2ad2-cc6f-432d-81c2-d051b5025fa6", 
+        "text": "I also want to know about the Processor information.", 
+        "ts": "1561660074.006300", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "59541c1a-f7e2-434e-a887-1f10f7f93423", 
+        "text": "the features are as follows: Apple A10 Fusion 64-bit processor and Embedded M10 Motion Co-processor", 
+        "ts": "1561660129.006600", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "c465fdbf-75d2-4bc9-b854-669149848d62", 
+        "text": "That is amazing. I just love the last one. Thank you, for the information.", 
+        "ts": "1561660131.006700", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "8b9b8295-7f63-46f2-bc18-9275b3dac16a", 
+        "text": "You are most welcome.", 
+        "ts": "1561660145.006900", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "exit-message"
+    }
+]

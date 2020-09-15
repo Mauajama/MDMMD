@@ -1,0 +1,153 @@
+[
+    {
+        "text": "<@user> has joined the channel", 
+        "subtype": "channel_join", 
+        "speaker": "user", 
+        "ts": "1561655453.000200", 
+        "type": "message"
+    }, 
+    {
+        "type": "message", 
+        "ts": "1561655455.000400", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@system> has joined the channel", 
+        "inviter": "user"
+    }, 
+    {
+        "client_msg_id": "23d1a981-323f-4208-b41b-e298c5a94ff9", 
+        "text": "Good morning bot. Can you help me please?", 
+        "ts": "1561655487.000600", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "fd11f795-b275-4599-b4b2-5dab93ed29c6", 
+        "text": "Very Good morning dear. Yes, I am here to help you. Please tell.", 
+        "ts": "1561659109.000900", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "aa9f27fa-dd69-46c1-9fdf-2082e15f40d6", 
+        "text": "I am Looking for some Cofee tables, can you show me some variety please.", 
+        "ts": "1561659247.001400", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "185a5e9b-a211-417d-bfe8-7a88987232e1", 
+        "attachments": {
+            "image_url": [
+                "https://ii1.pepperfry.com/media/catalog/product/k/a/1600x1760/kazuya-solid-wood-nesting-coffee-table-set-in-rustic-teak-finish-by-woodsworth-kazuya-solid-wood-nes-4jrb3l.jpg", 
+                "https://ii1.pepperfry.com/media/catalog/product/f/o/494x544/foldable-coffee-table-set-by-clasicraft-foldable-coffee-table-set-by-clasicraft-reku0b.jpg", 
+                "https://ii1.pepperfry.com/media/catalog/product/g/y/90x99/gypsy-coffee-table-by-bohemiana-gypsy-coffee-table-by-bohemiana-q7yit8.jpg"
+            ]
+        }, 
+        "text": "Here are some images of the coffee tables, please have a look at them.Kindly consider these items from the database. I think they are suitable for you: 1 [' Kazuya Solid Wood Nesting Coffee Table Set in Rustic Teak Finish by Woodsworth'], 2 [' Foldable Coffee Table Set in Brown Colour by ClasiCraft'], 3 [' Gypsy Coffee Table by Bohemiana'], ", 
+        "ts": "1561659348.001800", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "0e43ff1f-f54c-4bd1-b1b8-2aa7ab2c1441", 
+        "text": "I like the last one. Can you show me the images from different orientations of the last one?", 
+        "ts": "1561659505.002100", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "b0953bf6-6e03-44cc-a7d7-cecf84cdc779", 
+        "attachments": {
+            "image_url": [
+                "https://ii1.pepperfry.com/media/catalog/product/g/y/1600x1760/gypsy-coffee-table-by-bohemiana-gypsy-coffee-table-by-bohemiana-q7yit8.jpg", 
+                "https://ii1.pepperfry.com/media/catalog/product/g/y/494x544/gypsy-coffee-table-by-bohemiana-gypsy-coffee-table-by-bohemiana-q7yit8.jpg", 
+                "https://ii1.pepperfry.com/media/catalog/product/g/y/90x99/gypsy-coffee-table-by-bohemiana-gypsy-coffee-table-by-bohemiana-q7yit8.jpg", 
+                "https://ii2.pepperfry.com/media/catalog/product/g/y/1600x1760/gypsy-coffee-table-by-bohemiana-gypsy-coffee-table-by-bohemiana-ys6omt.jpg"
+            ]
+        }, 
+        "text": "These are the images from different orientations of the last one.", 
+        "ts": "1561659597.002800", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "4e52918c-29be-409c-9e89-0a1bde0e43c1", 
+        "text": "Can you also show me some images of the first one?", 
+        "ts": "1561659613.003000", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "46f72594-db7e-41d0-8bf4-91a41d04a90a", 
+        "attachments": {
+            "image_url": [
+                "https://ii1.pepperfry.com/media/catalog/product/k/a/1600x1760/kazuya-solid-wood-nesting-coffee-table-set-in-rustic-teak-finish-by-woodsworth-kazuya-solid-wood-nes-4jrb3l.jpg", 
+                "https://ii1.pepperfry.com/media/catalog/product/k/a/494x544/kazuya-solid-wood-nesting-coffee-table-set-in-rustic-teak-finish-by-woodsworth-kazuya-solid-wood-nes-4jrb3l.jpg", 
+                "https://ii1.pepperfry.com/media/catalog/product/k/a/90x99/kazuya-solid-wood-nesting-coffee-table-set-in-rustic-teak-finish-by-woodsworth-kazuya-solid-wood-nes-4jrb3l.jpg", 
+                "https://ii2.pepperfry.com/media/catalog/product/k/a/1600x1760/kazuya-low-coffee-table-set-with-4-seats-in-rustic-teak-finish-by-woodsworth-kazuya-low-coffee-table-bqkf1b.jpg", 
+                "https://ii2.pepperfry.com/media/catalog/product/k/a/494x544/kazuya-low-coffee-table-set-with-4-seats-in-rustic-teak-finish-by-woodsworth-kazuya-low-coffee-table-bqkf1b.jpg"
+            ]
+        }, 
+        "text": "Yeah sure, I can show you the images of the last one.Please consider these.", 
+        "ts": "1561659782.003900", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "d24d49c9-2374-4f95-8e1f-f0417b748ea3", 
+        "text": "Can you tell me the general specification of the first one?", 
+        "ts": "1561659832.004100", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "71aadbeb-cce3-47e2-84b1-2d4854fa4f2e", 
+        "text": "The general specification includes: Rosewood (Sheesham) Solid Wood W x H x :anguished: 99 cm x 43 cm x 50.8 cm (3 ft 2 in x 1 ft 4 in x 1 ft 8 in) Delivery Condition: Pre-assembled", 
+        "ts": "1561659867.004600", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "8559632d-9cfd-4fdc-a955-97aebca52efe", 
+        "text": "How much is this coffee table going to cost me? Also can I buy this please?", 
+        "ts": "1561659913.004700", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "b1b4dce7-ed5f-430b-ab69-1f31082c6680", 
+        "text": "This is going to cost you 5,990/- Rs. Yup! I can order this for you. Please provide you pincode.", 
+        "ts": "1561660069.005000", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "3eee7058-bed0-450f-a8fd-efdef359f1c3", 
+        "text": "Thanks a lot. 801103 is my pincode. It is great to hear from you.", 
+        "ts": "1561660097.005100", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "133649e7-4dd5-4ccd-8416-0033ac0e6393", 
+        "text": "Your order is confirmed. Thank you visit again.", 
+        "ts": "1561660110.005300", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "exit-message"
+    }
+]

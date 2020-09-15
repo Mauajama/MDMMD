@@ -1,0 +1,151 @@
+[
+    {
+        "text": "<@user> has joined the channel", 
+        "subtype": "channel_join", 
+        "speaker": "user", 
+        "ts": "1561457597.000200", 
+        "type": "message"
+    }, 
+    {
+        "type": "message", 
+        "ts": "1561457598.000400", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@system> has joined the channel", 
+        "inviter": "user"
+    }, 
+    {
+        "client_msg_id": "c94ecd0a-c7d0-4b59-9af0-8c4d8da4c241", 
+        "text": "Good evening bot. Can you help me please?", 
+        "speaker": "user", 
+        "ts": "1561457604.000600", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "852b26c3-c6a9-42ea-851c-86bebb086f91", 
+        "text": "Good evening Ma am. Yes, I am here to help. Please let me know what you want.", 
+        "speaker": "system", 
+        "ts": "1561458149.000900", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "8f387b8d-8683-4467-bbdb-49c9b3a2976f", 
+        "text": "I would like to look at some of your best Mixer grinder from the company Philips. I really like Philip.", 
+        "speaker": "user", 
+        "ts": "1561458355.001500", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "10a799ee-2fb7-4473-910e-d37e02791a1d", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jmux18w0/mixer-grinder-juicer/v/q/h/philips-hl7701-00-original-imaf9zdxqgfswgbf.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jhkvgy80/mixer-grinder-juicer/f/y/h/philips-hl7756-original-imaf23w8zpwt4xmw.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jl16s280/mixer-grinder-juicer/h/k/h/philips-daily-collection-hl7505-00-original-imaf896z6a3zx4gf.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k12go7k0/mixer-grinder-juicer/r/p/r/philips-hl7579-00-original-imafkqczhrmtfrft.jpeg"
+            ]
+        }, 
+        "text": "Do you mind looking at these images:  1)   Philips MG HL7701/00 750 W Juicer Mixer Grinder (White, 4 Jars),  2)   Philips NEW HL7756 750 W Mixer Grinder (Black, 3 Jars),  3)   Philips Daily Collection HL7505/00 500 W Mixer Grinder (White, 3 Jars),  4)   Philips Viva Collection HL7579/00 600 W Juicer Mixer Grinder (Black, Grey, 3 Jars), ", 
+        "ts": "1561458561.002300", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "c12c44df-1124-41e7-b35d-5283d5cc2d21", 
+        "text": "can you please show me some images of 2nd mixer grinder please", 
+        "speaker": "user", 
+        "ts": "1561458842.002900", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "a49690a4-c5bb-4677-a50d-69ed46da0776", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jhkvgy80/mixer-grinder-juicer/f/y/h/philips-hl7756-original-imaf23w8zpwt4xmw.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jhkvgy80/mixer-grinder-juicer/f/y/h/philips-hl7756-original-imaf5kcymwghug6c.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jhkvgy80/mixer-grinder-juicer/f/y/h/philips-hl7756-original-imaf5kcyeg9fftdn.jpeg"
+            ]
+        }, 
+        "text": "these are some images of the different orientations possible", 
+        "ts": "1561459023.003300", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "4255abb5-47e3-45aa-a2da-6ad8084c8c40", 
+        "text": "I want you to tell me about the detailed description of this mixer grinder.", 
+        "speaker": "user", 
+        "ts": "1561459062.003800", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "5ecebf2e-88ac-4982-bc14-2039f995bca8", 
+        "text": "Accordingly the general specifications are listed as follows   500 W : Higher the Wattage, tougher the Juicing/Grinding, Suitable for: Wet Grinding, Liquidizing", 
+        "speaker": "system", 
+        "ts": "1561459199.004300", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "bc120a4c-aae4-4b6e-bc4f-57ab3205aa89", 
+        "text": "Help me grasp it Chutney Grinding, Material, Grating,  features please?  I am startled right now by the Juicer Type of the product.", 
+        "speaker": "user", 
+        "ts": "1561459267.004700", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "4c4c60bb-a54e-4b26-ba10-49f46e6a6759", 
+        "text": "The criteria you needed are:  Chutney Grinding: Yes,  Material: ABS,  Grating: Yes,  .", 
+        "speaker": "system", 
+        "ts": "1561459435.005200", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "ec68f967-d4b1-4155-97f0-a914ed8a2100", 
+        "text": "and how much is this mixer grinder for?", 
+        "speaker": "user", 
+        "ts": "1561459537.005500", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "ab35cf83-3a9d-433a-8f56-5f1154bafef9", 
+        "text": "Priced is:  \u20b95,025", 
+        "speaker": "system", 
+        "ts": "1561459681.005700", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "d775da1e-bcb3-4dd5-91cf-78f46999ba2b", 
+        "text": "Show me it's different orientations.", 
+        "speaker": "user", 
+        "ts": "1561459878.006000", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "c3491763-46ad-40c4-bd93-74290912f636", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jmux18w0/mixer-grinder-juicer/v/q/h/philips-hl7701-00-original-imaf9zdxqgfswgbf.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jmux18w0/mixer-grinder-juicer/v/q/h/philips-hl7701-00-original-imaf9zdxqgfswgbf.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jmux18w0/mixer-grinder-juicer/v/q/h/philips-hl7701-00-original-imaf9zdtcvs2jfes.jpeg"
+            ]
+        }, 
+        "text": "For you, I can find those image orientations", 
+        "ts": "1561459923.006400", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "0df6a16d-f5b2-4b6d-951d-2ab3d84db09b", 
+        "text": "I like it. Thanks for helping me. You are the sweetest! Thank you for everything you do!", 
+        "speaker": "user", 
+        "ts": "1561460574.006800", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "856d6e1b-71bd-4acb-b11d-ed1587595862", 
+        "text": "Whose specific requirements must be met:  750 W : Higher the Wattage, tougher the Juicing/Grinding, Suitable for: Wet Grinding, Chutney Grinding, Dry Grinding, Blending Not at all", 
+        "speaker": "system", 
+        "ts": "1561460606.007100", 
+        "type": "exit-message"
+    }
+]

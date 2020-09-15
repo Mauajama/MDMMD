@@ -1,0 +1,157 @@
+[
+    {
+        "text": "<@user> has joined the channel", 
+        "type": "message", 
+        "speaker": "user", 
+        "ts": "1561457710.000200", 
+        "subtype": "channel_join"
+    }, 
+    {
+        "type": "message", 
+        "ts": "1561457711.000400", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@system> has joined the channel", 
+        "inviter": "user"
+    }, 
+    {
+        "client_msg_id": "c7f4402b-dea0-49b6-85d5-66766a6720fa", 
+        "text": "I m eager to get your advice on...", 
+        "speaker": "user", 
+        "ts": "1561462961.000700", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "b385246d-7958-4650-89a5-d56bb7d7cd06", 
+        "text": "Hey I am good. Need Something?", 
+        "speaker": "system", 
+        "ts": "1561463042.000800", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "f6632bdd-c03f-4819-8b32-d62750f7b163", 
+        "text": "I'm here because of the impulse shopping of I am looking for an Bar cabinets actually for my best friend and he likes the colour blue. I think that colour will be fine.", 
+        "speaker": "user", 
+        "ts": "1561463062.001200", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "1f196026-f180-4747-8725-0a527da87a97", 
+        "text": "I presume I will tell you about this for now brand choice of yours please!", 
+        "speaker": "system", 
+        "ts": "1561463213.001600", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "24c303db-1a3f-4dd4-b46b-d13555a0e25d", 
+        "text": "I asked him indirectly if he was not particular about any of the brands so you show me whatever you have got the best one.", 
+        "speaker": "user", 
+        "ts": "1561463431.001800", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "de6b02af-e865-4523-beda-981f0ebf9623", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k612pow0/bar-cabinet/y/a/g/rosewood-sheesham-foocwrswstwn68107d-evok-light-walnut-original-imafzkvzpyayxdwm.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k7w8eq80/bar-cabinet/z/8/c/rosewood-sheesham-ta-bar-01-daintree-honey-original-imafqfaftyxmhaqe.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jpvihzk0/bar-cabinet/c/z/2/particle-board-foocwrpbmtbr68150i-evok-brown-original-imafcffttvtqdbph.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k7w8eq80/bar-cabinet/m/h/8/rosewood-sheesham-ta-br-025-daintree-walnut-original-imafqfafgyfnhu7z.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k612pow0/bar-cabinet/q/j/e/rosewood-sheesham-foocwrswstwn68106d-evok-light-walnut-original-imafzkwynra7dpbt.jpeg"
+            ]
+        }, 
+        "text": "Welcome to take a look at this picture:  1)   Evok Gavin Solid Wood Bar Cabinet (Finish Color - Light Walnut),  2)   Daintree Solid Wood Bar Cabinet (Finish Color - Honey),  3)   Evok Daniel Engineered Wood Bar Cabinet (Finish Color - Brown),  4)   Daintree Solid Wood Bar Cabinet (Finish Color - Walnut),  5)   Evok Davy Solid Wood Bar Cabinet (Finish Color - Light Walnut), ", 
+        "ts": "1561463719.002500", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "ce588f3b-6e43-440e-8ead-360a5c715d78", 
+        "text": "lovely images. show me more about the first variety please.", 
+        "speaker": "user", 
+        "ts": "1561463795.003000", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "c815758b-c83d-4b07-80b9-466610a9b989", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k612pow0/bar-cabinet/y/a/g/rosewood-sheesham-foocwrswstwn68107d-evok-light-walnut-original-imafzkvzpyayxdwm.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k612pow0/bar-cabinet/y/a/g/rosewood-sheesham-foocwrswstwn68107d-evok-light-walnut-original-imafzkvzyk9gggyt.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k612pow0/bar-cabinet/y/a/g/rosewood-sheesham-foocwrswstwn68107d-evok-light-walnut-original-imafzkvzzvqmtfmq.jpeg"
+            ]
+        }, 
+        "text": "I can find these picture orientations for you", 
+        "ts": "1561464061.003500", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "d2059602-73ba-47a9-94dc-47933a94b6c1", 
+        "text": "Do you have any other colours available?", 
+        "speaker": "user", 
+        "ts": "1561464157.004100", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "7217870a-281a-48b3-a031-3883a549c0d6", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/192/192/k612pow0/bar-cabinet/y/a/g/rosewood-sheesham-foocwrswstwn68107d-evok-light-walnut-original-imafzkvzpyayxdwm.jpeg"
+            ]
+        }, 
+        "text": "these are probable photographs of the different perception.  Light Walnut", 
+        "ts": "1561464432.004600", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "eda9fce3-14fc-48a5-813a-02d621152f5a", 
+        "text": "if you have some more images of the second one you are free to show that one also.", 
+        "speaker": "user", 
+        "ts": "1561464534.005100", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "e3c14e68-8789-4517-b341-04a456bc90f5", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k7w8eq80/bar-cabinet/z/8/c/rosewood-sheesham-ta-bar-01-daintree-honey-original-imafqfaftyxmhaqe.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k7w8eq80/bar-cabinet/z/8/c/rosewood-sheesham-ta-bar-01-daintree-honey-original-imafqfafqfrtfyap.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k7w8eq80/bar-cabinet/v/v/p/rosewood-sheesham-ta-br-22-daintree-honey-original-imafqfaftc264ky2.jpeg"
+            ]
+        }, 
+        "text": "I could consider do you see these photo orientations", 
+        "ts": "1561464653.005500", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "9e0103e5-2cc9-4434-acd4-2834ccbb10bb", 
+        "text": "I think I can tell you about it for now Secondary Material Subtype, Covered in Warranty,  features please?I wanted to find out about the features of both 1 and 2 please? I really like the options you have shown because of  by the Width of the product.", 
+        "speaker": "user", 
+        "ts": "1561464692.006000", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "1736adf4-cd16-40c3-9558-330d982072ac", 
+        "text": "Yes please, They are mentioned below   Secondary Material Subtype: Rosewood (Sheesham),  Covered in Warranty: Cases of manufacturing defects,  . I love this feature. by the Depth of the product.I wanted to find out about the  Important Note: , In The Box: , General: Brand: Evok, Model Number: FOOCWRSWSTWN68107D, Finish Type: Natural, Wheels Included: No, Bush Included: No, Suitable For: Bar, Delivery Condition: Knock Down, Upholstery Included: Yes, Upholstery Type: Tufted, Door Included: No, Care Instructions: Clean With Soft Cloth : Do not use Water, Model Series Name: Gavin, Mount Type: Wall Mounted, Material &amp; Color: Primary Material: Solid Wood, Primary Material Subtype: Rosewood (Sheesham), Secondary Material: Solid Wood, Secondary Material Subtype: Rosewood (Sheesham), Primary Color: Brown, Finish Color: Light Walnut, Dimensions: Width: 997 mm, Height: 673 mm, Depth: 228 mm, Weight: 14 kg, Warranty: Warranty Summary: 1 Year Domestic Warranty, Service Type: On-site Service, Customer needs to call the nearby Authorized Service Center, service engineer will come to the site to get the product repaired or inspected., Covered in Warranty: Warranty of the product is limited to manufacturing defects only., Not Covered in Warranty: Warranty not covered the various issues or damages, its limited to manufacturing defects only., Installation &amp; Demo: Installation &amp; Demo Details: The installation and demo for this product are done free of cost as part of this purchase (valid only for Knock Down products). We will share the installation date at the time of order, according to which our service partner will visit your location., Disclaimer:  and  Important Note: , In The Box: , General: Brand: Daintree, Model Number: TA-BAR-01, Finish Type: Lacquer, Wheels Included: No, Bush Included: No, Delivery Condition: DIY(Do-It-Yourself), Upholstery Included: No, Door Included: Yes, Care Instructions: Cleaning your furniture items every 3-4 months with furniture wax or furniture polish will help it maintain its look. Avoid keeping furniture next to windows or places where they are exposed to direct sunlight. Do not keep warm or cold items directly on a furniture surface, instead try using a hot pad or coasters, Mount Type: Free Standing, Storage Capacity: Yes, Material &amp; Color: Primary Material: Solid Wood, Primary Material Subtype: Rosewood (Sheesham), Secondary Material: Solid Wood, Secondary Material Subtype: Rosewood (Sheesham), Primary Color: Brown, Finish Color: Honey, Dimensions: Width: 914 mm, Height: 1066 mm, Depth: 508 mm, Weight: 35 kg, Warranty: Warranty Summary: 12 Months Against Manufacturing Defects and 5 years against cases of termites and borers, Service Type: Brand directly on his sole discretion, will repair or replace the product is the defect found is genuine, Covered in Warranty: Cases of manufacturing defects, Not Covered in Warranty: Normal wear and tear is not part of warranty, Disclaimer:  respectively.", 
+        "speaker": "system", 
+        "ts": "1561465018.006200", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "09b63d80-2ffc-4c12-ac89-4aa960419d24", 
+        "text": "you are truly beneficial thank you so much for the information.  Thank you for your assistance with, attention to this matter. We look forward to hearing from you shortly. ", 
+        "speaker": "user", 
+        "ts": "1561465058.006500", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "a4233056-0c08-474f-b911-d14391e8a5cc", 
+        "text": "Your thanks is appreciated. I am happy to help you.", 
+        "speaker": "system", 
+        "ts": "1561465333.006700", 
+        "type": "exit-message"
+    }
+]

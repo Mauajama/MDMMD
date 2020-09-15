@@ -1,0 +1,171 @@
+[
+    {
+        "text": "<@user> has joined the channel", 
+        "speaker": "user", 
+        "type": "message", 
+        "ts": "1561655306.000200", 
+        "subtype": "channel_join"
+    }, 
+    {
+        "type": "message", 
+        "ts": "1561655307.000400", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@system> has joined the channel", 
+        "inviter": "user"
+    }, 
+    {
+        "client_msg_id": "9ca07b7d-7114-4e0d-a632-eb5b78388dca", 
+        "text": "Good afternoon bot.", 
+        "ts": "1561655310.000600", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "64059030-4765-4c5a-ae98-aa50fbdd6d85", 
+        "text": "Very good afternoon dear! Do you want something?", 
+        "ts": "1561657350.001000", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "2976d3a7-3ed1-4142-8d09-932ea0b97a18", 
+        "text": "Yeah, I travel alot and I like to read from audible suno. And my headphone are kind off gross please suggest me some new arrivals.", 
+        "ts": "1561657370.001100", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "3c98eb46-d6ab-4cca-a767-dd7cb30f2bae", 
+        "text": "Hey can I know, want any such brand, that you wanna purchase?", 
+        "ts": "1561657480.001400", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "8faef8e0-3024-454d-8389-1fca06c548ea", 
+        "text": "Ummm, boat, Mi headphones are good, but also show me about 5 different headphones of your choice please.", 
+        "ts": "1561657501.001700", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "8f9f94cf-db11-4982-963b-d1508a276ee4", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k2arbm80/headphone/c/v/m/realme-buds-original-imafhzf2yxgn8hyh.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/ka5oia80/headphone/a/h/7/rockerz-255f-rockerz-255-boat-original-imafrhehhzrkd6hv.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k9re3rk0/headphone/b/f/g/rockerz-255f-rockerz-255-boat-original-imafrheg2afmrruy.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jklgxow0/headphone/t/k/k/mi-ydjc01jy-original-imaf7x2ckna7hbym.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k0vbgy80pkrrdj/headphone/w/y/z/boat-bassheads-242-original-imafhbjuwkzr9tzg.jpeg"
+            ]
+        }, 
+        "text": " Would you mind taking these items into consideration: ['  realme Buds Wireless Bluetooth Headset (Yellow, Wireless in the ear)']['  boAt Rockerz 255F Bluetooth Headset (Active Black, Wireless in the ear)']['  boAt Rockerz 255F Bluetooth Headset (Neon, Wireless in the ear)']['  Mi Basic Wired Headset with Mic (Red, Wired in the ear)']['  boAt Bassheads 242 Wired Headset (Active Black, Wired in the ear)']", 
+        "ts": "1561657560.002000", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "3b73c7f5-bd67-4221-8d75-c772d260f418", 
+        "text": "Do you mind showing me some images of the first one please.", 
+        "ts": "1561657917.002800", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "e28f4ab3-57a3-4190-b18c-ad88b1a7115f", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/ka5oia80/headphone/a/h/7/rockerz-255f-rockerz-255-boat-original-imafrhehhzrkd6hv.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/ka5oia80/headphone/a/h/7/rockerz-255f-rockerz-255-boat-original-imafrhehhzrkd6hv.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/ka5oia80/headphone/a/h/7/rockerz-255f-rockerz-255-boat-original-imafrhehhzrkd6hv.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/ka5oia80/headphone/w/t/9/rockerz-255f-rockerz-255-boat-original-imafr68zs7wdwufz.jpeg"
+            ]
+        }, 
+        "text": "Yeah, obviously. I am here to serve you. Just have a look at these.", 
+        "ts": "1561657920.002900", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "00c45340-b801-439b-acd5-bcab1909ccab", 
+        "text": "I don't like it. Can you show me the images of the second one?", 
+        "ts": "1561658120.003600", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "7301c17b-086b-468c-91ce-dc7081b9762d", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/ka5oia80/headphone/a/h/7/rockerz-255f-rockerz-255-boat-original-imafrhehhzrkd6hv.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/ka5oia80/headphone/a/h/7/rockerz-255f-rockerz-255-boat-original-imafrhehhzrkd6hv.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/ka5oia80/headphone/a/h/7/rockerz-255f-rockerz-255-boat-original-imafrhehhzrkd6hv.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/ka5oia80/headphone/w/t/9/rockerz-255f-rockerz-255-boat-original-imafr68zs7wdwufz.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/ka5oia80/headphone/d/i/l/rockerz-255f-rockerz-255-boat-original-imafr68zvjdyrkyu.jpeg"
+            ]
+        }, 
+        "text": "Oh! I would apologise. Consider this please.", 
+        "ts": "1561658198.004000", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "6f1e49c3-db15-474c-800f-8becefad7ccc", 
+        "text": "Ummmm! I don't like this one too. For now you just tell me the sound quality of both second and last one?", 
+        "ts": "1561658383.004600", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "aa174302-f737-4aaa-bfd3-3ce5637b3aa0", 
+        "text": "it is to be noted that the second one includes [' With Mic:Yes', 'Bluetooth version: 4.1', 'Wireless range: 10 m', 'Battery life: 6 hrs | Charging time: 2.5 hrs', 'Extra bass: Add extra thump to your music', 'Using simple touch controls answer phone calls, change music tracks and control volume', 'Sweatproof: With IPX 5 rating this product is ideal for rigorous workouts'] last one has: [' With Mic:Yes', 'Total Charging time: 1.5 hours | Charging port: USB Type-C', 'Wireless charging: Yes | Gaming mode for super low latency', '12mm Dynamic bass boost drivers with Dual Mic Noise cancellation for calls', 'Upto 17 hours of total playback (3 hours on the earbuds &amp; 14 hours on the charging case)', 'Customized R1 chip for instant connectivity and low latency']", 
+        "ts": "1561658582.005900", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "8b813a59-163b-44d6-aa87-bad96fd8c83b", 
+        "text": "I don't like any of these. Now you jut tell me it's price?", 
+        "ts": "1561658653.006700", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "2e774d28-10e0-4372-8498-d0c9cd4a53d9", 
+        "text": "This is for only Rs 999/-", 
+        "ts": "1561658733.006900", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "0c764ef1-0096-439b-8540-d7545e6937a2", 
+        "text": "That is a fabulous deal, I am so happy! You are the best. I am done for today. Bye!", 
+        "ts": "1561658936.007200", 
+        "speaker": "user", 
+        "team": "TJED146V7", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "16bf5f9e-bce9-4baf-a3f0-0bd587b67b0f", 
+        "text": "I just love to see you happy. I wish if I could help you more!. Thank you visit again.", 
+        "ts": "1561658951.007500", 
+        "speaker": "system", 
+        "team": "TJED146V7", 
+        "type": "exit-message"
+    }
+]

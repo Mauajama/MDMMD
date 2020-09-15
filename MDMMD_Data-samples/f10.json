@@ -1,0 +1,152 @@
+[
+    {
+        "text": "<@user> has joined the channel", 
+        "type": "message", 
+        "speaker": "user", 
+        "ts": "1561457725.000200", 
+        "subtype": "channel_join"
+    }, 
+    {
+        "type": "message", 
+        "ts": "1561457726.000400", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@system> has joined the channel", 
+        "inviter": "user"
+    }, 
+    {
+        "client_msg_id": "3a2f506e-2f97-4c58-9158-ad3daa17a8fb", 
+        "text": "Greetings for the day. How are you doing.", 
+        "speaker": "user", 
+        "ts": "1561462964.000700", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "216959e5-d690-4ed5-bd4b-1c36f5c0c049", 
+        "text": "Greetings for the day Sir. I am happy to have you. Tell me please how should I help.", 
+        "speaker": "system", 
+        "ts": "1561463044.000800", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "ba693717-00aa-46a7-bb01-ae7e366e7e21", 
+        "text": "I'm shopping for  Bunk Beds for kids.", 
+        "speaker": "user", 
+        "ts": "1561463075.001100", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "a3ed7f77-634c-457b-a12b-bfffa2dbcfa8", 
+        "text": "What do you have in mind to spend?", 
+        "speaker": "system", 
+        "ts": "1561463246.001400", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "98f0868d-b969-4785-8311-3b5a1b4ad287", 
+        "text": "Under 5,000", 
+        "speaker": "user", 
+        "ts": "1561463558.002100", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "d3474320-1c13-4c90-9d36-b7e6c5d3d460", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jsaocy80/bunk-loft-bed/t/k/x/na-rubber-wood-17041-woodness-dark-brown-original-imafdvefg7jyyf6j.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jsm3vrk0/bunk-loft-bed/j/t/k/na-rubber-wood-27036-woodness-white-original-imafe47nfdycrkjj.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k6gsk280/bunk-loft-bed/f/q/q/black-carbon-steel-eco-bunk-spacecrafts-black-original-imafnu57gnhmmbuh.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k5bcscw0/bunk-loft-bed/e/8/z/blue-carbon-steel-jf-9070-spacecrafts-pink-blue-original-imafzyx9gyey6yyk.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jp4d4sw0/bunk-loft-bed/b/y/y/pink-cedar-pine-devdar-mk-pt02-pk-cas-alex-daisy-pink-original-imafbfrfqzgndeaf.jpeg"
+            ]
+        }, 
+        "text": "these are the possible ones I can find in my database:  1)   Woodness Liberty Solid Wood Bunk Bed (Finish Color - Dark Brown),  2)   Woodness Jenson Solid Wood Bunk Bed (Finish Color - White),  3)   Spacecrafts Metal Bunk Bed (Finish Color - Black),  4)   Spacecrafts JF-9070 Metal Bunk Bed (Finish Color - PINK &amp; BLUE),  5)   Alex Daisy Solid Wood Loft Bed (Finish Color - Pink), ", 
+        "ts": "1561463843.002500", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "196e1fd3-5666-4c9a-ba77-21e5e563e488", 
+        "text": "Can you show me more images of the last one?", 
+        "speaker": "user", 
+        "ts": "1561463949.003100", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "4e2ea316-0844-42d3-b834-b33a29c21423", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jp4d4sw0/bunk-loft-bed/b/y/y/pink-cedar-pine-devdar-mk-pt02-pk-cas-alex-daisy-pink-original-imafbfrfqzgndeaf.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jp5sknk0/bunk-loft-bed/b/y/y/pink-cedar-pine-devdar-mk-pt02-pk-cas-alex-daisy-pink-original-imafbfqz3xc4sxv6.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jp5sknk0/bunk-loft-bed/f/r/x/pink-cedar-pine-devdar-mk-pt02-pk-alex-daisy-pink-original-imafbfmurpcpty6k.jpeg"
+            ]
+        }, 
+        "text": "These are some images of the various possible orientations", 
+        "ts": "1561464102.003500", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "61233a03-ad0b-44d3-b3bd-8721d1fe3c92", 
+        "text": " you know what I am just staggered by the by the Upholstery Included of the product. Please tell me about the Weight, Installation &amp; Demo Details,  features please?", 
+        "speaker": "user", 
+        "ts": "1561464197.004100", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "e6ce5ec1-4f5a-4873-9168-086ea8d81b71", 
+        "text": "The characteristics you needed are:  Weight: 54 kg,  Installation &amp; Demo Details: The installation and demo for this product are done free of cost as part of this purchase (valid only for Knock Down products). We will share the installation date at the time of order, according to which our service partner will visit your location.,  .", 
+        "speaker": "system", 
+        "ts": "1561464456.004300", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "86722d50-4db9-4a71-80d3-5dd4d1879751", 
+        "text": "Can you show me more images of the second one?", 
+        "speaker": "user", 
+        "ts": "1561464562.004800", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "559b7821-a08c-4559-9e43-8af754039bed", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jsm3vrk0/bunk-loft-bed/j/t/k/na-rubber-wood-27036-woodness-white-original-imafe47nfdycrkjj.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jsm3vrk0/bunk-loft-bed/j/t/k/na-rubber-wood-27036-woodness-white-original-imafe47h99jbrphu.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jsm3vrk0/bunk-loft-bed/j/t/k/na-rubber-wood-27036-woodness-white-original-imafe47mvpzdcvnf.jpeg"
+            ]
+        }, 
+        "text": "I can find these picture orientations for you", 
+        "ts": "1561464695.005200", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "87bdab8e-5ebd-45dc-9e86-928fc318da26", 
+        "text": "Can you tell me the basic info of this Bunk Beds?certainly bot, I have a question in my mind tell me about this info  features of both 2 and 5 please?  you know what I am just staggered by the by the Suitable For of the product.", 
+        "speaker": "user", 
+        "ts": "1561464714.005700", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "374ec94d-b69a-47c1-87d5-df2ae8e41bda", 
+        "text": "There are no available images showing the products colors. There is only this option, no other description mentioned", 
+        "speaker": "system", 
+        "ts": "1561465034.005900", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "6d89ebca-12c2-4955-be7f-d0e0bf98c963", 
+        "text": "Thanks for the information. Thank you for your time today.", 
+        "speaker": "user", 
+        "ts": "1561465066.006100", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "97d5c5b5-db1a-447b-91b0-d3e6b12e8b1c", 
+        "text": "Thank you visit again. It was nothing", 
+        "speaker": "system", 
+        "ts": "1561465342.006300", 
+        "type": "exit-message"
+    }
+]

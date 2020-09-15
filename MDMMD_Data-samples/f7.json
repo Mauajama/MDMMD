@@ -1,0 +1,159 @@
+[
+    {
+        "text": "<@user> has joined the channel", 
+        "type": "message", 
+        "speaker": "user", 
+        "ts": "1561457674.000200", 
+        "subtype": "channel_join"
+    }, 
+    {
+        "type": "message", 
+        "ts": "1561457675.000400", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@system> has joined the channel", 
+        "inviter": "user"
+    }, 
+    {
+        "client_msg_id": "8da3c9a8-2d9d-442a-9f45-46fb67749a05", 
+        "text": "Greetings for the day. Can you help me please?", 
+        "speaker": "user", 
+        "ts": "1561460729.000700", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "ecf5453f-6bdc-4b49-90d2-a28272833ba3", 
+        "text": "Greetings for the day. For sure, I can help. Tell me which one you want hotel/furniture/electronics/food.", 
+        "speaker": "system", 
+        "ts": "1561460869.001100", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "7112740f-03cc-4f40-a6da-ea56743462d8", 
+        "text": "I want to buy some  A 4 star and above in rating comfortable Sofa cum beds so that after one my work stress I don't have to do this type of chores.", 
+        "speaker": "user", 
+        "ts": "1561460989.001200", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "eb3c69ef-96cb-483d-b3ec-b5f02bb074c9", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jpsnma80/sofa-bed/n/n/j/single-red-cotton-scb-08-style-crome-red-original-imafbyp3zxwhpmbc.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jseyoi80/sofa-bed/x/f/g/single-sky-blue-cotton-s12-aart-store-sky-blue-original-imafcghuuva3tg9m.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jtoorrk0/sofa-bed/4/3/k/single-wenge-pu-leatherette-fo-sbd10we-forzza-wenge-original-imafeggkegntj3jm.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jpsnma80/sofa-bed/x/h/3/single-brown-cotton-scb11-style-crome-brown-original-imafbyqfrwxsf2ku.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/js0o9zk0/sofa-bed/9/u/k/single-multicolor-cotton-sp-62-aart-store-multicolor-original-imafcmrt5h7rzecq.jpeg"
+            ]
+        }, 
+        "text": "I could find the following things for you:  1)   Style Crome Two Seater Sofa Cum Bed with Two Cushion- Perfect for Guests - Red Single Sofa Bed (Finish Color - Red Mechanism Type - Fold Out),  2)   Style Crome One Seater Sofa Cum Bed Washable Cover With Two Cushion Sky Blue Color 3X6 Feet Single Sofa Bed (Finish Color - Sky Blue Mechanism Type - Fold Out),  3)   Forzza Murray Single Engineered Wood Sofa Bed (Finish Color - Wenge Mechanism Type - Pull Out),  4)   Style Crome Sofa Cum Bed Two Seater with Two Cushions- Perfect for Guests - Brown Single Sofa Bed (Finish Color - Brown Mechanism Type - Fold Out),  5)   Style Crome 4X6 Feet Two Seater Printed Mechanism Type Fold Out Sofa Cum Bed with Two Cushion- Perfect for Guests Single Sofa Bed (Finish Color - Multicolor Mechanism Type - Fold Out), ", 
+        "ts": "1561461202.001800", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "deab1794-3d21-46d5-aee6-5e955e70b44e", 
+        "text": "ok I got it that you have now I would like to know about the highest rated comfortable Sofa cum beds.", 
+        "speaker": "user", 
+        "ts": "1561461246.002300", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "efd29e07-1b17-4f71-b4f0-cd26a1513e25", 
+        "text": "Check at those ratings, pleeeeease: 1)  4.8. 2)  4. 3)  4.3. 4)  4. 5)  4. I personally believe this is really the best of the best rated after considering all the ratings and reviews :1 one.", 
+        "speaker": "system", 
+        "ts": "1561461643.002500", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "3f8f3a4e-6c93-4359-b61f-6527d4ba27ee", 
+        "text": "from your database show me the images of this comfortable Sofa cum beds.", 
+        "speaker": "user", 
+        "ts": "1561461732.003000", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "2f83a826-526d-47f4-9886-ee2a5132b2a4", 
+        "text": "can you please wait for a while and search from my database and come back.", 
+        "speaker": "system", 
+        "ts": "1561461841.003200", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "1e128ade-a10b-4090-b41b-d13eaaa80a5e", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jpsnma80/sofa-bed/n/n/j/single-red-cotton-scb-08-style-crome-red-original-imafbyp3zxwhpmbc.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jqv8ia80/sofa-bed/e/e/q/single-red-cotton-sc-9-aart-store-red-original-imafbhvvhyfu8njf.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jseyoi80/sofa-bed/s/4/k/single-red-cotton-s22-aart-store-red-original-imafbhvvmjfhcfnh.jpeg"
+            ]
+        }, 
+        "text": "How about these images interesting right!", 
+        "ts": "1561461892.003600", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "5a72ef19-de9a-446a-8282-62f7efc68fc3", 
+        "text": "Would you like to tell me about the Width, Weight, Style,  features please? Specially this one is not my type by the Brand of the product.", 
+        "speaker": "user", 
+        "ts": "1561462007.004000", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "ab3d0a28-c7d6-48ec-95a7-1410d48bf33d", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jpsnma80/sofa-bed/n/n/j/single-red-cotton-scb-08-style-crome-red-original-imafbyp3zxwhpmbc.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jqv8ia80/sofa-bed/e/e/q/single-red-cotton-sc-9-aart-store-red-original-imafbhvvhyfu8njf.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jseyoi80/sofa-bed/s/4/k/single-red-cotton-s22-aart-store-red-original-imafbhvvmjfhcfnh.jpeg"
+            ]
+        }, 
+        "text": "Yeah, kindly , certain below are described.  Width: 121.92 cm,  Weight: 8 kg,  Style: Contemporary &amp; Modern,  .I donot think there are any more colored images available.  Single, 2 Seater", 
+        "ts": "1561462288.004200", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "68475149-1bf6-4f5d-bd3a-999a02e72a29", 
+        "text": "Can you tell me what apps are pre-installed?", 
+        "speaker": "user", 
+        "ts": "1561462506.004700", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "7eb9c208-db36-4e9a-a5e0-a78d2f0a4456", 
+        "text": "fea", 
+        "speaker": "system", 
+        "ts": "1561462649.005000", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "8dfa6cb2-b183-45d1-9025-986b028da37a", 
+        "text": "Could perhaps you share some information about it? features of both 1 and 2 please? wondrous Awesome!  wow amazing. . Very much impressed  by the Seating Capacity of the product.", 
+        "speaker": "user", 
+        "ts": "1561462738.005400", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "754fe7a9-6672-40d3-8331-ffe379effe68", 
+        "text": "Could perhaps you share some information about it?  Important Note: , In The Box: , General: Brand: Style Crome, Model Number: SCB-08, Filling Material: Foam, Bed Size: Single, Type: Sofa Bed, Finish Type: Palin, Seating Capacity: 2 Seater, Shape: Rectangular, Mattress Included: Yes, Style: Contemporary &amp; Modern, Storage Included: No, Mechanism Type: Fold Out, Care Instructions: This folding foam mattress doubles as a sleeper and a sofa, providing easy seating and serving as a convenient guest mattress in one, Upholstery Included: Yes, Upholstery Type: Cushion, Delivery Condition: Pre-assembled, Suitable For: Living Room, Model Series Name: Two Seater Sofa Cum Bed with Two Cushion- Perfect for Guests - Red, Removable Leg: No, Material &amp; Color: Upholstery Material: Fabric, Upholstery Material Subtype: Cotton, Frame Material Subtype: Cotton, Primary Color: Red, Finish Color: Red, Upholstery Color: Red, Additional Features: Accessories Included: One Sofa with Cover + Two Cushions with Filler, Dimensions: Width: 121.92 cm, Height: 71.12 cm, Depth: 40.64 cm, Weight: 8 kg, Warranty: Warranty Summary: 6 months on Manufactring Defect from the date of purchase, Service Type: 6 months on Manufactring Defect from the date of purchase, Covered in Warranty: 6 months on Manufactring Defect from the date of purchase, Not Covered in Warranty: 6 months on Manufactring Defect from the date of purchase, Disclaimer: , Terms And Conditions:  and  Important Note: , In The Box: , General: Brand: Style Crome, Model Number: SD_12, Filling Material: Foam, Bed Size: Single, Type: Sofa Bed, Finish Type: Plain, Seating Capacity: 1 Seater, Shape: Rectangular, Mattress Included: Yes, Style: Contemporary &amp; Modern, Storage Included: No, Mechanism Type: Fold Out, Care Instructions: This folding foam mattress doubles as a sleeper and a sofa, providing easy seating and serving as a convenient guest mattress in one, Upholstery Included: No, Upholstery Type: Cushion, Delivery Condition: Pre-assembled, Suitable For: Living Room, Model Series Name: One Seater Sofa Cum Bed Washable Cover With Two Cushion Sky Blue Color 3X6 Feet, Removable Leg: No, Material &amp; Color: Upholstery Material: Fabric, Upholstery Material Subtype: Cotton, Primary Color: Blue, Finish Color: Sky Blue, Upholstery Color: Sky Blue, Dimensions: Width: 121 cm, Height: 182 cm, Depth: 71 cm, Weight: 4 kg, Warranty: Warranty Summary: 6 months on Manufactring Defect from the date of purchase, Service Type: 6 months on Manufactring Defect from the date of purchase, Covered in Warranty: 6 months on Manufactring Defect from the date of purchase, Not Covered in Warranty: 6 months on Manufactring Defect from the date of purchase, Disclaimer: , Terms And Conditions:  respectively.", 
+        "speaker": "system", 
+        "ts": "1561462830.005700", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "ecf00063-ea21-4aa4-8fb0-2c132a1cc38b", 
+        "text": "Ok I would like to thank you for helping me. I think I will stand by this. I am impressed by this information. I am so thankful for what you did.", 
+        "speaker": "user", 
+        "ts": "1561462832.005800", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "d8434a56-0773-484b-8c7e-539828b6ba6e", 
+        "text": "please do not mention I am there to always help you. Of course.", 
+        "speaker": "system", 
+        "ts": "1561462859.006000", 
+        "type": "exit-message"
+    }
+]

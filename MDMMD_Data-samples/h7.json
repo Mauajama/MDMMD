@@ -1,0 +1,1808 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1578125839.000200",
+        "user": "UJ5UQPN21",
+        "text": "<@UJ5UQPN21> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1578125845.000400",
+        "user": "UJ7RN7BQF",
+        "text": "<@UJ7RN7BQF> has joined the channel",
+        "inviter": "UJ5UQPN21"
+    },
+    {
+        "client_msg_id": "66d85ff7-179b-433a-bf88-3e35c90721ae",
+        "type": "message",
+        "text": "Hello! Good afternoon dear. What are you looking for? Hotel \/ Online food order \/ Electronics?",
+        "user": "UJ5UQPN21",
+        "ts": "1578126035.001600",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ZVO8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! Good afternoon dear. What are you looking for? Hotel \/ Online food order \/ Electronics?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b4c758b0-0517-4e77-b3b1-a5c7e22462bc",
+        "type": "message",
+        "text": "I am looking for some great hotels near Bengaluru, can you suggest some for me?",
+        "user": "UJ7RN7BQF",
+        "ts": "1578126094.002400",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ao=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am looking for some great hotels near Bengaluru, can you suggest some for me?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Of course,  I'm here to help you! I have these great hotels near Bengaluru.",
+        "files": [
+            {
+                "id": "FRWEJMR5Y",
+                "created": 1578126339,
+                "timestamp": 1578126339,
+                "name": "1.42e9238f_z.jpg",
+                "title": "1.42e9238f_z.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 26627,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRWEJMR5Y\/1.42e9238f_z.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRWEJMR5Y\/download\/1.42e9238f_z.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEJMR5Y-f8fabc3198\/1.42e9238f_z_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEJMR5Y-f8fabc3198\/1.42e9238f_z_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEJMR5Y-f8fabc3198\/1.42e9238f_z_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 240,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEJMR5Y-f8fabc3198\/1.42e9238f_z_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 320,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEJMR5Y-f8fabc3198\/1.42e9238f_z_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "image_exif_rotation": 1,
+                "original_w": 582,
+                "original_h": 388,
+                "thumb_tiny": "AwAgADDOFOVGb7oJoC461PCAqksHz6rTuBXKkHBFP8tgu4qcVIRk1IApXB3E+3Sk2OxVPWkIOPapQu1jnqOQKfs45yfak2gSGKmeCcVYDELtG0CiWVTF05J6mmRBCxJJ4psSAKCcgcVIrFBhcD1yKJVw5wTimAgryeD3NSO42VMkuCM46UIrBd3PrTmWNejKaargPjPBoC5\/\/9k=",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FRWEJMR5Y\/1.42e9238f_z.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FRWEJMR5Y-4f0939e3c0",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FSB416BBR",
+                "created": 1578126339,
+                "timestamp": 1578126339,
+                "name": "2.90640847_z.jpg",
+                "title": "2.90640847_z.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 48226,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FSB416BBR\/2.90640847_z.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FSB416BBR\/download\/2.90640847_z.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSB416BBR-bc54924c86\/2.90640847_z_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSB416BBR-bc54924c86\/2.90640847_z_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSB416BBR-bc54924c86\/2.90640847_z_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 247,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSB416BBR-bc54924c86\/2.90640847_z_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 329,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSB416BBR-bc54924c86\/2.90640847_z_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSB416BBR-bc54924c86\/2.90640847_z_720.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720_w": 720,
+                "thumb_720_h": 494,
+                "image_exif_rotation": 1,
+                "original_w": 773,
+                "original_h": 530,
+                "thumb_tiny": "AwAgADClQqljgVMIMxb+h7U+GIgK44Pc07hYg8lvf8qaYyvXPTjirqSTM+3t60ycPsBc8BulK4FLFGKdjBI9KXafQ1QFmRy67VHH07U+JVGNw6DGaad\/8O7FSQusacnk9OpqLDuEYjOAcgDPIplwow+zJBGacZW28Bc+4oeQ\/J8oz3osFyow5BznI9KlzlQ3cdaazkyEsM88jtT2AByucH0qkJn\/2Q==",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FSB416BBR\/2.90640847_z.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FSB416BBR-0b7079845d",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FRZ1C208Z",
+                "created": 1578126339,
+                "timestamp": 1578126339,
+                "name": "3.81d920ed_z.jpg",
+                "title": "3.81d920ed_z.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 26029,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRZ1C208Z\/3.81d920ed_z.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRZ1C208Z\/download\/3.81d920ed_z.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1C208Z-71c48e3964\/3.81d920ed_z_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1C208Z-71c48e3964\/3.81d920ed_z_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1C208Z-71c48e3964\/3.81d920ed_z_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 240,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1C208Z-71c48e3964\/3.81d920ed_z_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 320,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1C208Z-71c48e3964\/3.81d920ed_z_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "image_exif_rotation": 1,
+                "original_w": 582,
+                "original_h": 388,
+                "thumb_tiny": "AwAgADDNC57VMsakZZSB6ikUDcOMjPSpo2cfKO+eKlsaKzoVJ7gU3FWdoJIY7TUJXGcfnTTAZSU\/Ao20xDs\/h71Yt4xIerbsZyBmqwParEKtsDI5XNKwxWVoyf6iojgnpz7VcLThN3mhgB0IqJsy7SVXnqRxS2AryR7QGyOfSo6syRZ+4ePQmotpwBtzjrVCP\/\/Z",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FRZ1C208Z\/3.81d920ed_z.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FRZ1C208Z-516703aaa8",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FRWEJMPJN",
+                "created": 1578126339,
+                "timestamp": 1578126339,
+                "name": "4.5a324cad_z.jpg",
+                "title": "4.5a324cad_z.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 34218,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRWEJMPJN\/4.5a324cad_z.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRWEJMPJN\/download\/4.5a324cad_z.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEJMPJN-413d7c0300\/4.5a324cad_z_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEJMPJN-413d7c0300\/4.5a324cad_z_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEJMPJN-413d7c0300\/4.5a324cad_z_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 240,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEJMPJN-413d7c0300\/4.5a324cad_z_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 320,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEJMPJN-413d7c0300\/4.5a324cad_z_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "image_exif_rotation": 1,
+                "original_w": 582,
+                "original_h": 388,
+                "thumb_tiny": "AwAgADCipINSKcmoRUg4B5\/KgC1FIPLyUHHA4p5dR\/yzHT+6agQgRAbyPanMw3fffipuMWaYJ0jX8RUG5T836U65IK8MT061AucVURDeaemWzk4ApuBU9sqyMUI685zQMcJ+AMjjpStMzNndj1HrT5bYRxlsdBnrQLTKhgOvvSsgGSsZFIJHI9agMe0ZJrQlhQxgLHtI6mq08flKuTkMM8U1ZCP\/2Q==",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FRWEJMPJN\/4.5a324cad_z.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FRWEJMPJN-d0253ddf05",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MfH4",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Of course,  I'm here to help you! I have these great hotels near Bengaluru."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UJ5UQPN21",
+        "ts": "1578126342.003500",
+        "client_msg_id": "a75edecf-67b0-480e-8faf-b7cc051ca9e8"
+    },
+    {
+        "client_msg_id": "14172a2e-b872-492c-8a25-0973cccdd4ba",
+        "type": "message",
+        "text": "These don't look that great to me, could you specify the hotel ratings?",
+        "user": "UJ7RN7BQF",
+        "ts": "1578126480.005000",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "1Xv",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "These don't look that great to me, could you specify the hotel ratings?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "6fa4c554-f0c1-4d47-bf40-b5be9f1a7fa0",
+        "type": "message",
+        "text": "Ok! So what ratings are you looking for! By the way, the first one is rated 3.9\/5, the second image is rated 4.1\/5, third image is rated 3.5\/5 and last one is for 3.7\/5",
+        "user": "UJ5UQPN21",
+        "ts": "1578126652.007200",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Y=NW",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ok! So what ratings are you looking for! By the way, the first one is rated 3.9\/5, the second image is rated 4.1\/5, third image is rated 3.5\/5 and last one is for 3.7\/5"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b567f0b7-66bb-4e32-994a-8b3aa7e39db2",
+        "type": "message",
+        "text": "I want to stay in 5 star rating hotels, do you have any of these?",
+        "user": "UJ7RN7BQF",
+        "ts": "1578126688.007700",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "sbjPM",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I want to stay in 5 star rating hotels, do you have any of these?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "These are some of the 5 stars hotels just for you.",
+        "files": [
+            {
+                "id": "FRWEN2NUA",
+                "created": 1578126931,
+                "timestamp": 1578126931,
+                "name": "2.havana-cuba-world-famous-nacional-hotel-front-with-palm-trees-and-G946PA.jpg",
+                "title": "2.havana-cuba-world-famous-nacional-hotel-front-with-palm-trees-and-G946PA.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 226701,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRWEN2NUA\/2.havana-cuba-world-famous-nacional-hotel-front-with-palm-trees-and-g946pa.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRWEN2NUA\/download\/2.havana-cuba-world-famous-nacional-hotel-front-with-palm-trees-and-g946pa.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEN2NUA-58b55b909c\/2.havana-cuba-world-famous-nacional-hotel-front-with-palm-trees-and-g946pa_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEN2NUA-58b55b909c\/2.havana-cuba-world-famous-nacional-hotel-front-with-palm-trees-and-g946pa_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEN2NUA-58b55b909c\/2.havana-cuba-world-famous-nacional-hotel-front-with-palm-trees-and-g946pa_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 258,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEN2NUA-58b55b909c\/2.havana-cuba-world-famous-nacional-hotel-front-with-palm-trees-and-g946pa_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 343,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEN2NUA-58b55b909c\/2.havana-cuba-world-famous-nacional-hotel-front-with-palm-trees-and-g946pa_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEN2NUA-58b55b909c\/2.havana-cuba-world-famous-nacional-hotel-front-with-palm-trees-and-g946pa_720.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720_w": 720,
+                "thumb_720_h": 515,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEN2NUA-58b55b909c\/2.havana-cuba-world-famous-nacional-hotel-front-with-palm-trees-and-g946pa_800.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_800_w": 800,
+                "thumb_800_h": 572,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEN2NUA-58b55b909c\/2.havana-cuba-world-famous-nacional-hotel-front-with-palm-trees-and-g946pa_960.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_960_w": 960,
+                "thumb_960_h": 687,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEN2NUA-58b55b909c\/2.havana-cuba-world-famous-nacional-hotel-front-with-palm-trees-and-g946pa_1024.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 733,
+                "image_exif_rotation": 1,
+                "original_w": 1300,
+                "original_h": 930,
+                "thumb_tiny": "AwAiADCIKScAZpdjf3T+VWY1VVyDkkdaSRtsfPJJH+NW5kqBUNMBGdpq0IQ67gwwaWK2AfJIPGDSb1uCWliqXKOuD07VNIobDr\/FSzWqj5+o6kUqoFGzOV7GknrcbWlinHMY3z27ip3uDJgYwB6VAqsnIzk9DijaT61NhlqBsN1wB1q0GwemckVQQALtJOD71L5ijGGoYyWW4Cvs2nryTTGYCNGB+UHGaY5ViTvGT3poPylSwP48GhANZm2L8x6etJub1P50N91fpTaoQEk9TmiiimAUvakpe1AH\/9k=",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FRWEN2NUA\/2.havana-cuba-world-famous-nacional-hotel-front-with-palm-trees-and-g946pa.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FRWEN2NUA-ce83a9bc99",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FS8Q84LBW",
+                "created": 1578126931,
+                "timestamp": 1578126931,
+                "name": "3.Four-Seasons-Dubai-at-Jumeirah-Beach-1170x658.jpeg",
+                "title": "3.Four-Seasons-Dubai-at-Jumeirah-Beach-1170x658.jpeg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 97114,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS8Q84LBW\/3.four-seasons-dubai-at-jumeirah-beach-1170x658.jpeg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS8Q84LBW\/download\/3.four-seasons-dubai-at-jumeirah-beach-1170x658.jpeg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8Q84LBW-cccd488009\/3.four-seasons-dubai-at-jumeirah-beach-1170x658_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8Q84LBW-cccd488009\/3.four-seasons-dubai-at-jumeirah-beach-1170x658_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8Q84LBW-cccd488009\/3.four-seasons-dubai-at-jumeirah-beach-1170x658_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 202,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8Q84LBW-cccd488009\/3.four-seasons-dubai-at-jumeirah-beach-1170x658_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8Q84LBW-cccd488009\/3.four-seasons-dubai-at-jumeirah-beach-1170x658_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8Q84LBW-cccd488009\/3.four-seasons-dubai-at-jumeirah-beach-1170x658_720.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8Q84LBW-cccd488009\/3.four-seasons-dubai-at-jumeirah-beach-1170x658_800.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8Q84LBW-cccd488009\/3.four-seasons-dubai-at-jumeirah-beach-1170x658_960.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8Q84LBW-cccd488009\/3.four-seasons-dubai-at-jumeirah-beach-1170x658_1024.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "image_exif_rotation": 1,
+                "original_w": 1170,
+                "original_h": 658,
+                "thumb_tiny": "AwAaADCmgAz1qZenByPeo0HJzgehpB0zx1xS6ldCZhhhk80VHv4ySfbNPyNuc1UWluJ6i4pdtIHHagkmrvcnYTauevNIqqTTTSDrWVmXcfKyHjBOKhzjp+hp7io2AppCbFBY04sdv3uaYKdTSFc\/\/9k=",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FS8Q84LBW\/3.four-seasons-dubai-at-jumeirah-beach-1170x658.jpeg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FS8Q84LBW-6c1d6de93e",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FS98L1P6H",
+                "created": 1578126931,
+                "timestamp": 1578126931,
+                "name": "4.setai-kh-penthouseb-pool-1566480093.jpg",
+                "title": "4.setai-kh-penthouseb-pool-1566480093.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 71801,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS98L1P6H\/4.setai-kh-penthouseb-pool-1566480093.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS98L1P6H\/download\/4.setai-kh-penthouseb-pool-1566480093.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98L1P6H-ffaabf4007\/4.setai-kh-penthouseb-pool-1566480093_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98L1P6H-ffaabf4007\/4.setai-kh-penthouseb-pool-1566480093_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98L1P6H-ffaabf4007\/4.setai-kh-penthouseb-pool-1566480093_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 359,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98L1P6H-ffaabf4007\/4.setai-kh-penthouseb-pool-1566480093_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 479,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98L1P6H-ffaabf4007\/4.setai-kh-penthouseb-pool-1566480093_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "image_exif_rotation": 1,
+                "original_w": 640,
+                "original_h": 638,
+                "thumb_tiny": "AwAvADCz17g0UuEPtRtXs1HKFxASOlOEuOtIcDqc0m0EcGlZoZJlXGDg+xqJ4Mcp+RoCj1zS5ZejZ9jVJslpCI2UG4jOOacCM9arH5DiTjHWnK6khlBIHc0xE\/BkI9ulJGQc4OajDjzC3PIpIyqbvmJz7UhkikZ4IpSRnkioo9qt94HinNgnKjcfrRcOhQDzRfdLr9TS+cJCPNhDe4JGatSweacMDn1FRGzdRy3HtU3KsKskSLiNCmf7zcUFZhIpyGXPOMCoJf3LlVAz\/ePJpgmdc4JP1ouFjSWDf97j2HJps0ccYyX57Ljk1WiuLg8Fx+XSnopZiQSW7setO4rH\/9k=",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FS98L1P6H\/4.setai-kh-penthouseb-pool-1566480093.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FS98L1P6H-6d41c4065f",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FS98L1M2R",
+                "created": 1578126931,
+                "timestamp": 1578126931,
+                "name": "5.10-most-expensive-hotels-in-las-vegas10.jpg",
+                "title": "5.10-most-expensive-hotels-in-las-vegas10.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 134038,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS98L1M2R\/5.10-most-expensive-hotels-in-las-vegas10.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS98L1M2R\/download\/5.10-most-expensive-hotels-in-las-vegas10.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98L1M2R-84c3cfa371\/5.10-most-expensive-hotels-in-las-vegas10_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98L1M2R-84c3cfa371\/5.10-most-expensive-hotels-in-las-vegas10_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98L1M2R-84c3cfa371\/5.10-most-expensive-hotels-in-las-vegas10_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 276,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98L1M2R-84c3cfa371\/5.10-most-expensive-hotels-in-las-vegas10_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 368,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98L1M2R-84c3cfa371\/5.10-most-expensive-hotels-in-las-vegas10_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "image_exif_rotation": 1,
+                "original_w": 720,
+                "original_h": 552,
+                "thumb_tiny": "AwAkADCuInkJIwBTliZM45PtUkR2nHQHvT8Me5xQ3qNDdkhUjGR6HrUbRZxkEHntUy7lfAJ+6TSiVgozz8pNK4yt9nc\/dwRTXgkQZIyPargkVSflH4fTNKZFx6UczFYhjG5qsKny1XHU7GIP86AXyd7tgehpS1Y1oTOuHz\/sN\/KowPkGP+eZ7e9KSp6u\/wCdRsCTw3UcZNIGSMvJ\/wA\/w0jD5hyMYNNcts3MOR1Aphf6CnYLgMjoxFRsxJ55NSioD1pkkjNnAwAMY4oViMYOMmmntSr1H1oGSSnj1qMfNwaklqNetNAf\/9k=",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FS98L1M2R\/5.10-most-expensive-hotels-in-las-vegas10.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FS98L1M2R-a33128e82f",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "3Rr",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "These are some of the 5 stars hotels just for you."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UJ5UQPN21",
+        "ts": "1578126939.007800",
+        "client_msg_id": "9c6180b9-a7e6-42a7-8e1b-c5348cc40182"
+    },
+    {
+        "client_msg_id": "55a64432-b4a7-41e4-a97f-a5470d1d885f",
+        "type": "message",
+        "text": "I would like to check the rooms available in the 4th image.",
+        "user": "UJ7RN7BQF",
+        "ts": "1578126981.009100",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ7RN7BQF",
+            "ts": "1578127000.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "eKu6n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I would like to check the rooms available in the 4th image."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Sure! Here are some of the rooms from the 4th image! :slightly_smiling_face: These are 4 rooms of different varieties for you!",
+        "files": [
+            {
+                "id": "FSB471XP1",
+                "created": 1578127339,
+                "timestamp": 1578127339,
+                "name": "1.hotelreview1a.jpg",
+                "title": "1.hotelreview1a.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 77226,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FSB471XP1\/1.hotelreview1a.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FSB471XP1\/download\/1.hotelreview1a.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSB471XP1-00b848d8ad\/1.hotelreview1a_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSB471XP1-00b848d8ad\/1.hotelreview1a_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSB471XP1-00b848d8ad\/1.hotelreview1a_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 211,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSB471XP1-00b848d8ad\/1.hotelreview1a_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 281,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSB471XP1-00b848d8ad\/1.hotelreview1a_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "image_exif_rotation": 1,
+                "original_w": 675,
+                "original_h": 395,
+                "thumb_tiny": "AwAcADCrDJL0R+nrViCaUylHCnAzwKSO686VQsSK\/bHekgcC8kZvQ0mMmaUA4K\/lQWQ4+YZPbvUbgFgRv\/BeKgkIN5uClRkdvapsVcnZgO\/WkRlMm3PPpVXy2DAkEZPFMbKuQc\/jRYVy1briJGUDJzk\/yphgkaVtjAt19KshQiKq9AKilGMEdelWyUSQzfKobkgY+tSTTkfKnU+lVEP7sU8cCobKSLTKuw\/IvI9KzPmEo3AjJGc0+WVz8u47fSoh1B96Yj\/\/2Q==",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FSB471XP1\/1.hotelreview1a.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FSB471XP1-28e0079845",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FRZ1HT0RX",
+                "created": 1578127339,
+                "timestamp": 1578127339,
+                "name": "3.maxresdefault.jpg",
+                "title": "3.maxresdefault.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 105909,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRZ1HT0RX\/3.maxresdefault.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRZ1HT0RX\/download\/3.maxresdefault.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1HT0RX-b787f8d63a\/3.maxresdefault_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1HT0RX-b787f8d63a\/3.maxresdefault_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1HT0RX-b787f8d63a\/3.maxresdefault_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1HT0RX-b787f8d63a\/3.maxresdefault_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1HT0RX-b787f8d63a\/3.maxresdefault_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1HT0RX-b787f8d63a\/3.maxresdefault_720.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1HT0RX-b787f8d63a\/3.maxresdefault_800.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1HT0RX-b787f8d63a\/3.maxresdefault_960.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1HT0RX-b787f8d63a\/3.maxresdefault_1024.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "image_exif_rotation": 1,
+                "original_w": 1280,
+                "original_h": 720,
+                "thumb_tiny": "AwAbADCuCQQfrUm7eQTww700T4thFgHknPepI4SQG3Aj2qSh4YEdRmkJodSqFwhXIx+NRSSH+Jic8U0JjwpcZXkVGSxGQKYsrKMAkLTS59TiqVhO40HGDwcdqnivCnGAB7CqrUg6mkMtzXLS4yTgGo9\/ysCOoqHNGTnrRYVyRWwm0gH3ppz60Uo6UxH\/2Q==",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FRZ1HT0RX\/3.maxresdefault.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FRZ1HT0RX-6e8ed72823",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FS98NG5KP",
+                "created": 1578127339,
+                "timestamp": 1578127339,
+                "name": "5.206-2060689_fancy-hotel-room-luxury-rooms-in-hotels.jpg",
+                "title": "5.206-2060689_fancy-hotel-room-luxury-rooms-in-hotels.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 121332,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS98NG5KP\/5.206-2060689_fancy-hotel-room-luxury-rooms-in-hotels.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS98NG5KP\/download\/5.206-2060689_fancy-hotel-room-luxury-rooms-in-hotels.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98NG5KP-99fdca0bf9\/5.206-2060689_fancy-hotel-room-luxury-rooms-in-hotels_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98NG5KP-99fdca0bf9\/5.206-2060689_fancy-hotel-room-luxury-rooms-in-hotels_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98NG5KP-99fdca0bf9\/5.206-2060689_fancy-hotel-room-luxury-rooms-in-hotels_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 201,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98NG5KP-99fdca0bf9\/5.206-2060689_fancy-hotel-room-luxury-rooms-in-hotels_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 267,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98NG5KP-99fdca0bf9\/5.206-2060689_fancy-hotel-room-luxury-rooms-in-hotels_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98NG5KP-99fdca0bf9\/5.206-2060689_fancy-hotel-room-luxury-rooms-in-hotels_720.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720_w": 720,
+                "thumb_720_h": 401,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98NG5KP-99fdca0bf9\/5.206-2060689_fancy-hotel-room-luxury-rooms-in-hotels_800.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_800_w": 800,
+                "thumb_800_h": 446,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98NG5KP-99fdca0bf9\/5.206-2060689_fancy-hotel-room-luxury-rooms-in-hotels_960.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_960_w": 960,
+                "thumb_960_h": 535,
+                "image_exif_rotation": 1,
+                "original_w": 1000,
+                "original_h": 557,
+                "thumb_tiny": "AwAaADClgY96ek0sf3JGA9M1MXeaMIkQOD0HWpmtlU\/6rK+uelTcojjvZSp3orgdeMU8XCSMFWMg+5pnkttcRopD\/pTVR4JRJIuFxjOeKasxMcZW4+XGTSO7hGYcEEYpBnCkk\/e6CmSsPLYZb5iMZzVXiLUjEc+c7WzVlrubYVkjB46ig9KgY1ne5VieS8VY12DLeh7VB9onl4DYHsKZT0600BaMgKgFQce1QS7GXG0CkNNNO4WP\/9k=",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FS98NG5KP\/5.206-2060689_fancy-hotel-room-luxury-rooms-in-hotels.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FS98NG5KP-a8e94e0365",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FRXQ0BJ5R",
+                "created": 1578127339,
+                "timestamp": 1578127339,
+                "name": "8.guest-room-hotel-president-wilson-geneva-EXPENSIVESUITE1017.jpg",
+                "title": "8.guest-room-hotel-president-wilson-geneva-EXPENSIVESUITE1017.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 204225,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRXQ0BJ5R\/8.guest-room-hotel-president-wilson-geneva-expensivesuite1017.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRXQ0BJ5R\/download\/8.guest-room-hotel-president-wilson-geneva-expensivesuite1017.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRXQ0BJ5R-8473ffab59\/8.guest-room-hotel-president-wilson-geneva-expensivesuite1017_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRXQ0BJ5R-8473ffab59\/8.guest-room-hotel-president-wilson-geneva-expensivesuite1017_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRXQ0BJ5R-8473ffab59\/8.guest-room-hotel-president-wilson-geneva-expensivesuite1017_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 225,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRXQ0BJ5R-8473ffab59\/8.guest-room-hotel-president-wilson-geneva-expensivesuite1017_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 300,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRXQ0BJ5R-8473ffab59\/8.guest-room-hotel-president-wilson-geneva-expensivesuite1017_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRXQ0BJ5R-8473ffab59\/8.guest-room-hotel-president-wilson-geneva-expensivesuite1017_720.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720_w": 720,
+                "thumb_720_h": 450,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRXQ0BJ5R-8473ffab59\/8.guest-room-hotel-president-wilson-geneva-expensivesuite1017_800.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_800_w": 800,
+                "thumb_800_h": 500,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRXQ0BJ5R-8473ffab59\/8.guest-room-hotel-president-wilson-geneva-expensivesuite1017_960.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_960_w": 960,
+                "thumb_960_h": 600,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRXQ0BJ5R-8473ffab59\/8.guest-room-hotel-president-wilson-geneva-expensivesuite1017_1024.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 640,
+                "image_exif_rotation": 1,
+                "original_w": 1600,
+                "original_h": 1000,
+                "thumb_tiny": "AwAeADCzuC5Zflx19KEnSQDHejbmNvoap28iJsDMByetAIsXC5wwz6VVI9z+dSpPLICHKgYyMjrULSkgnanH1qGWhMEnqfzp6hVIIJJFNhZnc5AC+wqzgEYUc59Kl3HoNScBCrKQ3PyjnFVPKMsoAIHPerSQEqqh9oCgnA60bAgbqTkgnpmtBJDJIHRcgpj86csEZjG8tlh+XNNyB0FJIzPt5xtGBSG0WIYkRG8vlgP4uRTZWIcFBgdyDUAZ1+65FCNtJ3EndQxWZ\/\/Z",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FRXQ0BJ5R\/8.guest-room-hotel-president-wilson-geneva-expensivesuite1017.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FRXQ0BJ5R-25ed6cd734",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "BUKmh",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Sure! Here are some of the rooms from the 4th image! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " These are 4 rooms of different varieties for you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UJ5UQPN21",
+        "ts": "1578127345.009900",
+        "client_msg_id": "234906e8-d53a-488b-ab78-aeb7bd252586"
+    },
+    {
+        "client_msg_id": "566a7fe0-0186-4673-a623-872c93ea2bf5",
+        "type": "message",
+        "text": "I am confused between the 1st and 4th rooms, I really like them both.",
+        "user": "UJ7RN7BQF",
+        "ts": "1578127523.011500",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "yRe",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am confused between the 1st and 4th rooms, I really like them both."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "e35bf335-c3b5-4c30-b683-c13b0a532061",
+        "type": "message",
+        "text": "Then according to me, you should go with the 4th image as it has got a nice view. 1st room looks a bit dull. But the 4th one is bright and spacious.",
+        "user": "UJ5UQPN21",
+        "ts": "1578127662.013600",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "V1d",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Then according to me, you should go with the 4th image as it has got a nice view. 1st room looks a bit dull. But the 4th one is bright and spacious."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "139801b2-1816-41c4-b7c5-cbfaf008d785",
+        "type": "message",
+        "text": "Ya that's right:relaxed:. Does the hotel has swimming area?",
+        "user": "UJ7RN7BQF",
+        "ts": "1578127720.014100",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Sx7K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ya that's right"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "relaxed"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Does the hotel has swimming area?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Yup! the hotel has got its own swimming pool inside! And it looks like this :stuck_out_tongue:",
+        "files": [
+            {
+                "id": "FRWETF62W",
+                "created": 1578127853,
+                "timestamp": 1578127853,
+                "name": "3.lg-rec-pool-indoor-roomview.jpg",
+                "title": "3.lg-rec-pool-indoor-roomview.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 55603,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRWETF62W\/3.lg-rec-pool-indoor-roomview.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRWETF62W\/download\/3.lg-rec-pool-indoor-roomview.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWETF62W-fbe8263fcc\/3.lg-rec-pool-indoor-roomview_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWETF62W-fbe8263fcc\/3.lg-rec-pool-indoor-roomview_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWETF62W-fbe8263fcc\/3.lg-rec-pool-indoor-roomview_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 204,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWETF62W-fbe8263fcc\/3.lg-rec-pool-indoor-roomview_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 271,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWETF62W-fbe8263fcc\/3.lg-rec-pool-indoor-roomview_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "image_exif_rotation": 1,
+                "original_w": 566,
+                "original_h": 320,
+                "thumb_tiny": "AwAbADB4Ue350pC4\/wDr0kZCgA9B2z0pzMWXGBzyaV2OyGFk96Y0ihc80qr6px9OlAJDfLuAHoKBDWkIHFI3mFcgEDHfv9KlYquP8KjkKttUnNMCxgNygAx2pGRvTP0pqkggjrVkD5vwqbjaKvTrnNFWyobqM1WcAMQK0jK5nKNhpPpTTkY5pTR2P4VRKZ\/\/2Q==",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FRWETF62W\/3.lg-rec-pool-indoor-roomview.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FRWETF62W-6cfca5b429",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FS8QDGWHJ",
+                "created": 1578127853,
+                "timestamp": 1578127853,
+                "name": "6.Danesfield-Hotel-and-Spa-Swimming-Pool.jpg",
+                "title": "6.Danesfield-Hotel-and-Spa-Swimming-Pool.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 249118,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS8QDGWHJ\/6.danesfield-hotel-and-spa-swimming-pool.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS8QDGWHJ\/download\/6.danesfield-hotel-and-spa-swimming-pool.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8QDGWHJ-46a7074fbd\/6.danesfield-hotel-and-spa-swimming-pool_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8QDGWHJ-46a7074fbd\/6.danesfield-hotel-and-spa-swimming-pool_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8QDGWHJ-46a7074fbd\/6.danesfield-hotel-and-spa-swimming-pool_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 240,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8QDGWHJ-46a7074fbd\/6.danesfield-hotel-and-spa-swimming-pool_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 320,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8QDGWHJ-46a7074fbd\/6.danesfield-hotel-and-spa-swimming-pool_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "image_exif_rotation": 1,
+                "original_w": 650,
+                "original_h": 433,
+                "thumb_tiny": "AwAfADBkcRAyCCPY1YQbRnBPvTLdfkbnnt+VToDtBz2pXGIHNODUwMxUHpk46UzzT0464ouFixnNMkXcpBHBqqlwSeQMcVLcTKqjyzn1ouBXhuDz2+gprt5m0kkEDtVdAfWnhvQ5rRIhsmWQhQN3ekLk96jBpc4rTl7kX7AoAPNWJIxOyrHx6nHQVBEjTyhE475PatNY1ij2qPqfWs5WvoXG\/U\/\/2Q==",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FS8QDGWHJ\/6.danesfield-hotel-and-spa-swimming-pool.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FS8QDGWHJ-0060189558",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "piL9w",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup! the hotel has got its own swimming pool inside! And it looks like this "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "stuck_out_tongue"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UJ5UQPN21",
+        "ts": "1578127855.014700",
+        "client_msg_id": "fd577220-5c96-419d-8214-07ae3b8c408e"
+    },
+    {
+        "client_msg_id": "94a4606e-e394-487d-b452-2fee04a0bd9c",
+        "type": "message",
+        "text": "That's awesome swimming helps me to relax. :heart_eyes:",
+        "user": "UJ7RN7BQF",
+        "ts": "1578127945.015800",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OHq8",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's awesome swimming helps me to relax. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "heart_eyes"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b837879b-a866-4976-90c5-a5da1e426768",
+        "type": "message",
+        "text": "I'm glad that you liked the pool! So how are you planning to visit this place! Do need any shuttle service for that?",
+        "user": "UJ5UQPN21",
+        "ts": "1578128102.017200",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "OHyS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm glad that you liked the pool! So how are you planning to visit this place! Do need any shuttle service for that?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f8bc3849-4aeb-4784-a520-656dd80b96c3",
+        "type": "message",
+        "text": "I will be taking a flight for Bengaluru after 3 days.",
+        "user": "UJ7RN7BQF",
+        "ts": "1578128146.017900",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ7RN7BQF",
+            "ts": "1578128157.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "6cb+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will be taking a flight for Bengaluru after 3 days."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c54d8117-2df2-4ef4-9fa2-5bf0ca367bf3",
+        "type": "message",
+        "text": "Oh! we have our own Shuttle service which can pick you up right from the airport to the hotel! Are you looking for some other facilities? Like gym\/ or kitchen?",
+        "user": "UJ5UQPN21",
+        "ts": "1578128365.019800",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=97OJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh! we have our own Shuttle service which can pick you up right from the airport to the hotel! Are you looking for some other facilities? Like gym\/ or kitchen?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "50639f4a-c3d3-499e-94c1-c4e198f1963e",
+        "type": "message",
+        "text": "That's nice to hear:slightly_smiling_face:. Wow, is the gym also available in the hotel?",
+        "user": "UJ7RN7BQF",
+        "ts": "1578128558.020700",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "vb+P",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's nice to hear"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Wow, is the gym also available in the hotel?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Yeah! there is a gym area present in this hotel! The first one is mainly for cardio and 2nd one is for crossfit",
+        "files": [
+            {
+                "id": "FS98WESGM",
+                "created": 1578128685,
+                "timestamp": 1578128685,
+                "name": "1.hotel-gym-pics-3.jpg",
+                "title": "1.hotel-gym-pics-3.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 191336,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS98WESGM\/1.hotel-gym-pics-3.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS98WESGM\/download\/1.hotel-gym-pics-3.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98WESGM-92c14b3887\/1.hotel-gym-pics-3_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98WESGM-92c14b3887\/1.hotel-gym-pics-3_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98WESGM-92c14b3887\/1.hotel-gym-pics-3_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98WESGM-92c14b3887\/1.hotel-gym-pics-3_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 271,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98WESGM-92c14b3887\/1.hotel-gym-pics-3_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98WESGM-92c14b3887\/1.hotel-gym-pics-3_720.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720_w": 720,
+                "thumb_720_h": 406,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98WESGM-92c14b3887\/1.hotel-gym-pics-3_800.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_800_w": 800,
+                "thumb_800_h": 451,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98WESGM-92c14b3887\/1.hotel-gym-pics-3_960.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_960_w": 960,
+                "thumb_960_h": 542,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98WESGM-92c14b3887\/1.hotel-gym-pics-3_1024.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 578,
+                "image_exif_rotation": 1,
+                "original_w": 1170,
+                "original_h": 660,
+                "thumb_tiny": "AwAbADB++NxuAPWlDjYCr8N0z61FFuEZZuuOMfpT0EewLw7d8etACiQlgPlOfSl83j+H8KgMiDBUKPbGaQEklj6UAPZmILDbxSSq6Y5ByPSm7z5e0Zwe1NUkHng9etADgXVgTg4pgJ3MSCCTn0pjsViGDiiP7ue560wH5wKfFtd8OcDBqI02kBO5UY2E49PSmgjnntUAp4oA\/9k=",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FS98WESGM\/1.hotel-gym-pics-3.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FS98WESGM-513f338adf",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FRZ1RT6KT",
+                "created": 1578128685,
+                "timestamp": 1578128685,
+                "name": "3.hotel-gym.jpg",
+                "title": "3.hotel-gym.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 35371,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRZ1RT6KT\/3.hotel-gym.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRZ1RT6KT\/download\/3.hotel-gym.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1RT6KT-42ccba033a\/3.hotel-gym_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1RT6KT-42ccba033a\/3.hotel-gym_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1RT6KT-42ccba033a\/3.hotel-gym_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 240,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1RT6KT-42ccba033a\/3.hotel-gym_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 320,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1RT6KT-42ccba033a\/3.hotel-gym_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "image_exif_rotation": 1,
+                "original_w": 550,
+                "original_h": 367,
+                "thumb_tiny": "AwAgADCxgUhXuOlKeUIHUikG5VGB68UAL2pCWxwAPcnpTNx7nHNOVww++PTmgBHyD8zkY5+UVXukVI1I6k1OzLuwWOCO3eq15gIoB7mgC4DTt5C5GPxqu8qxjJ69hVV5Wdsk\/QDtQBIXcnAY4HtTVbBOc59CM00SEUgO48tgd6ALKyqX3MoHGBior0jCY96aV28hjj0qKbjFAH\/\/2Q==",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FRZ1RT6KT\/3.hotel-gym.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FRZ1RT6KT-1f16a8635a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UsGGR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah! there is a gym area present in this hotel! The first one is mainly for cardio and 2nd one is for crossfit"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UJ5UQPN21",
+        "ts": "1578128688.021600",
+        "client_msg_id": "1804128c-9373-4911-a4b0-0cd080c65965"
+    },
+    {
+        "client_msg_id": "e5c5efce-d680-4e51-8abd-0fc7e5e355b4",
+        "type": "message",
+        "text": "Wow this is spectacular, I can stay fit by this way.",
+        "user": "UJ7RN7BQF",
+        "ts": "1578128849.022700",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kweAj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Wow this is spectacular, I can stay fit by this way."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9213eef1-c06f-4690-8dbc-2348ca267867",
+        "type": "message",
+        "text": "Hey! Then shall I confirm your stay here?",
+        "user": "UJ5UQPN21",
+        "ts": "1578128934.023500",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "15ER",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hey! Then shall I confirm your stay here?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "dd0e436d-bb99-49d0-bbc7-ab0a4e5c143b",
+        "type": "message",
+        "text": "Yes definitely!",
+        "user": "UJ7RN7BQF",
+        "ts": "1578128965.023800",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "2oBiJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yes definitely!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fc24b364-e19d-43be-b6aa-d9d1a09162b1",
+        "type": "message",
+        "text": "Yup! May I know the date and time of your visit and departure please!",
+        "user": "UJ5UQPN21",
+        "ts": "1578129117.025200",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "76aJ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup! May I know the date and time of your visit and departure please!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ab05e69b-b357-402d-8550-58cac077492a",
+        "type": "message",
+        "text": "I will be arriving on the 8th of this month in the morning around 10 am and will be staying for a week.",
+        "user": "UJ7RN7BQF",
+        "ts": "1578129216.026000",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "xLq\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I will be arriving on the 8th of this month in the morning around 10 am and will be staying for a week."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0637edd0-ae9a-4343-920a-8621f548342b",
+        "type": "message",
+        "text": "Oh, that is great! So your total stay here at this hotel will cost you around 3500\/- per day which will be on total 24500\/- only.",
+        "user": "UJ5UQPN21",
+        "ts": "1578129306.027500",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "ia=Y",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh, that is great! So your total stay here at this hotel will cost you around 3500\/- per day which will be on total 24500\/- only."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "2b461338-1cd6-4549-af19-3b86acf3e1bf",
+        "type": "message",
+        "text": "Ya thats fine, as the company will be bearing all the expenses :wink:",
+        "user": "UJ7RN7BQF",
+        "ts": "1578129412.028100",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "q6x1x",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Ya thats fine, as the company will be bearing all the expenses "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "4878ff14-8098-4156-8f4b-2f0b444ffb8a",
+        "type": "message",
+        "text": "Haha! You are so funny! Your booking is done. from Jan 7 till Jan 14, 11 am. :slightly_smiling_face:",
+        "user": "UJ5UQPN21",
+        "ts": "1578129519.029200",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "MlU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Haha! You are so funny! Your booking is done. from Jan 7 till Jan 14, 11 am. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "24202a1a-1c40-4f80-a39a-ed7a34949e2b",
+        "type": "message",
+        "text": "Thank you for helping me with this.",
+        "user": "UJ7RN7BQF",
+        "ts": "1578129557.029500",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rSg6n",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thank you for helping me with this."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ba3e0ca2-9295-48c7-a0d2-2411ebf50be3",
+        "type": "message",
+        "text": "You are welcome! Please visit us again!",
+        "user": "UJ5UQPN21",
+        "ts": "1578129582.030000",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "B666",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "You are welcome! Please visit us again!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]

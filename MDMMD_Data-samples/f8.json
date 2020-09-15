@@ -1,0 +1,145 @@
+[
+    {
+        "text": "<@user> has joined the channel", 
+        "type": "message", 
+        "speaker": "user", 
+        "ts": "1561457502.000200", 
+        "subtype": "channel_join"
+    }, 
+    {
+        "type": "message", 
+        "ts": "1561457504.000400", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@system> has joined the channel", 
+        "inviter": "user"
+    }, 
+    {
+        "client_msg_id": "56544ae1-1175-49a6-8fa7-5fa1e3fd6f4e", 
+        "text": "I hope you are having a wonderful day bot. good afternoon. I was thinking if you could help me bot.", 
+        "speaker": "user", 
+        "ts": "1561457793.000700", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "c76ef5df-1ea9-4565-b1aa-b7aabd20edb0", 
+        "text": "I hope you are having a wonderful day bot. good morning. I would love to assist please.", 
+        "speaker": "system", 
+        "ts": "1561458274.001400", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "4b0cceb2-3f3b-44e2-96ba-408934fdf26a", 
+        "text": "I am hunting for Pouffes. I want to have a birthday blast for my best friend. all can come in a place.", 
+        "speaker": "user", 
+        "ts": "1561458283.001700", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "c9ce6d6a-c10e-4136-aa5d-07fb2b51c3e4", 
+        "text": "Could indeed you please demonstrate the brand information please!", 
+        "speaker": "system", 
+        "ts": "1561458414.002100", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "0fce8a07-18f7-4d17-892a-5f3ea07b4491", 
+        "text": "yeah, all are fine.", 
+        "speaker": "user", 
+        "ts": "1561458621.002300", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "7c2bcfc4-2934-459d-bd26-bf9a33a0dec2", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/j7z2wsw0/ottoman-pouffe/m/x/y/brown-leatherette-30462-columbus-first-furniture-original-imaeyf8fbqnfcry9.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/joq2qa80/ottoman-pouffe/g/9/r/brown-cotton-sam279-samaaya-original-imafb3fqcudy96p4.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jzblaq80/ottoman-pouffe/f/c/b/green-cotton-jaishri-11-jai-shri-original-imafjccq8pdsd4ap.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/j3q6snk0/ottoman-pouffe/h/y/z/na-cotton-pcbe00007-romee-original-imaeufgm5kh5wp9c.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jzeg6fk0/ottoman-pouffe/y/j/8/grey-cotton-jaishri-10-jai-shri-original-imafb3fqasrfzest.jpeg"
+            ]
+        }, 
+        "text": "Here are the ones that can be found in my database:  1)   Columbus First Furniture Leatherette Pouf (Finish Color - Dark Brown),  2)   Samaaya Fabric Pouf (Finish Color - Brown),  3)   jai shri Fabric Pouf (Finish Color - GREEN),  4)   Romee Fabric Pouf (Finish Color - Blue),  5)   jai shri Fabric Pouf (Finish Color - GREY), ", 
+        "ts": "1561458747.002700", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "d76bcd4f-08c8-49c2-afad-492bf60ac8cc", 
+        "text": "Could indeed you please demonstrate the Upholstery Type, Brand,  features please? My sincere appreciation,  by the Secondary Material of the product.", 
+        "speaker": "user", 
+        "ts": "1561459057.003200", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "33c139fb-4018-4e86-9fdf-2ba0dbc54a49", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/j7z2wsw0/ottoman-pouffe/m/x/y/brown-leatherette-30462-columbus-first-furniture-original-imaeyf8fbqnfcry9.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/j7z2wsw0/ottoman-pouffe/m/x/y/brown-leatherette-30462-columbus-first-furniture-original-imaeyf8ft6gt5hxz.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/j7z2wsw0/ottoman-pouffe/m/x/y/brown-leatherette-30462-columbus-first-furniture-original-imaeyf8fzanrzzca.jpeg"
+            ]
+        }, 
+        "text": "Evaluate this all out kindly  Upholstery Type: Cushion,  Brand: Columbus First Furniture,  .Like those pictures from our database", 
+        "ts": "1561459185.003400", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "257c0c87-b611-4e04-8c13-fbd228e79549", 
+        "text": "Could indeed you please demonstrate the Brand, Model Number,  features please?", 
+        "speaker": "user", 
+        "ts": "1561459339.004100", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "74f26fb8-0319-4f66-8070-32b88bd859dd", 
+        "text": "Evaluate this all out kindly  Brand: Columbus First Furniture,  Model Number: 30462,  . My sincere appreciation,  by the Finish Color of the product.", 
+        "speaker": "system", 
+        "ts": "1561459435.004300", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "2f0142a5-c5e5-4c7a-ae1c-9a433f755047", 
+        "text": "I was hoping you have been able to correlate and inform me about just the features of both 1 and 2 please? My sincere appreciation,  by the Primary Material Subtype of the product.", 
+        "speaker": "user", 
+        "ts": "1561459560.004700", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "8b8ab9ea-0aca-4b46-9249-11fb5bdd0488", 
+        "text": "I was hoping you have been able to correlate and inform me about just the  In The Box: , General: Brand: Columbus First Furniture, Model Number: 30462, Finish Type: Matte, Type: Pouf, Shape: Round, Suitable For: Living-Room, Seating, Style: Contemporary &amp; Modern, Foldable: No, Delivery Condition: Pre Assembled, Care Instructions: Clean the appostry with a damp cloth., Wheels Included: No, Bush Included: Yes, Upholstery Included: Yes, Upholstery Type: Cushion, Maximum Load Capacity: 120, Number of Drawers: 1, Number of Shelves: 1, Filling Material: Foam, Wood, Frame, Material &amp; Color: Primary Material: Leatherette, Primary Material Subtype: Leatherette, Secondary Material: Leatherette, Secondary Material Subtype: PVC (Polyvinyl Chloride), Primary Color: Brown, Finish Color: Dark Brown, Upholstery Color: Brown, Additional Features: Origin of Manufacture: India, Other Features: Durable, Dimensions: Width: 39 cm, Height: 40 cm, Depth: 44 cm, Weight: 3.5 kg, Warranty: Warranty Summary: 6 Months Against Manufacturing Defect, Service Type: Contact Manufacturer, Covered in Warranty: Manufacturing Defect only, Not Covered in Warranty: Physical damage and color fading., Disclaimer:  and  In The Box: , General: Brand: Samaaya, Model Number: SAM279, Finish Type: glossy, Type: Pouf, Shape: Round, Suitable For: Seating, Style: Contemporary &amp; Modern, Foldable: No, Delivery Condition: Pre Assembled, Care Instructions: normal, Wheels Included: No, Bush Included: No, Upholstery Included: Yes, Material &amp; Color: Primary Material: Fabric, Primary Material Subtype: Cotton, Secondary Material Subtype: Saran, Primary Color: Brown, Finish Color: Brown, Upholstery Color: brown, Dimensions: Width: 1.4 cm, Height: 1.2 cm, Depth: 1.4 cm, Weight: 0.345 kg, Warranty: Warranty Summary: no, Service Type: no, Covered in Warranty: no, Not Covered in Warranty: no, Disclaimer:  respectively.", 
+        "speaker": "system", 
+        "ts": "1561459683.004900", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "bf69d812-8a94-4f3b-81ad-e5f8d83f7cca", 
+        "text": "Do you have some more features of it or varieties?", 
+        "speaker": "user", 
+        "ts": "1561459851.005400", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "3fc2aa4c-802d-4ec8-907a-8f66404f7bd9", 
+        "text": "Silver and Gold. I am so upset! No other available colored images.  Black, Brown, Maroon", 
+        "speaker": "system", 
+        "ts": "1561460017.005600", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "5847f81d-2669-4d5d-8e89-c90cb095b4da", 
+        "text": "I think I like this. Thank you so much for the information.  What would I do without you? You are wonderful. ", 
+        "speaker": "user", 
+        "ts": "1561460051.006100", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "077dbdce-90df-4f33-854b-f787b40d8961", 
+        "text": "You are welcome to visit again. Do not mention it.", 
+        "speaker": "system", 
+        "ts": "1561460598.006300", 
+        "type": "exit-message"
+    }
+]

@@ -1,0 +1,205 @@
+[
+    {
+        "text": "<@user> has joined the channel", 
+        "speaker": "user", 
+        "type": "message", 
+        "ts": "1561655202.000200", 
+        "subtype": "channel_join"
+    }, 
+    {
+        "type": "message", 
+        "ts": "1561655203.000400", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@system> has joined the channel", 
+        "inviter": "user"
+    }, 
+    {
+        "client_msg_id": "67966985-17fc-4c96-a4ee-d5df4ffb0916", 
+        "text": "Hello bot! I have bought a new home for me. I want to have wardrobe.", 
+        "ts": "1561657225.000600", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "817fe544-7059-4d99-8247-b47db8160c0e", 
+        "text": "Hi dear! So, tell me How can I help you?", 
+        "ts": "1561657291.001700", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "70bbd15e-4d24-4f16-861d-695a27cef4dc", 
+        "text": "I am seeking to buy a wooden 3 or 2 door almirah. Which is of my height.", 
+        "ts": "1561657332.001900", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "885284fe-c903-4460-8eb3-b8c7952e612c", 
+        "text": "And your height is around how many cms. Also specify your budget here?", 
+        "ts": "1561657434.002500", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "2affbe3b-214c-43f6-8ca1-1bfdaf364dd8", 
+        "text": "My height is 175 cms. My budget is 45,000", 
+        "ts": "1561657648.003200", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "ed818715-0601-4145-9eb0-c1122ee7fcd5", 
+        "text": "There are some almirah: below", 
+        "ts": "1561657668.003500", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "09ab7b70-4d89-4b02-9461-ba7e9bff37fb", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jhtg4280/wardrobe-closet/h/r/p/particle-board-fiwdedwardwd2dwlt-home-by-nilkamal-walnut-original-imaf5r4yypep3uzp.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jlb6v0w0/wardrobe-closet/u/m/g/particle-board-w2wa0idd13wmp-perfect-homes-by-flipkart-walnut-original-imaf8gt2jd6znzj6.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jm573ww0/wardrobe-closet/m/f/a/particle-board-kosmo-apex-2-door-wardrobe-in-walnut-rigato-original-imaf9499tknrhfsq.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jo1s8sw0/wardrobe-closet/b/9/w/particle-board-kf-6107-mobel-furniture-wenge-original-imafah8d5hqxaxhr.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jhs0o7k0/wardrobe-closet/c/c/g/particle-board-wr-5001-valtos-wenge-original-imaf5q3hschgh9vx.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jm573ww0/wardrobe-closet/v/r/u/particle-board-kosmo-apex-2-door-wardrobe-in-natural-wenge-original-imaf949924e53yuy.jpeg"
+            ]
+        }, 
+        "text": " Would you mind looking at those items: ['  @home by Nilkamal Edward Engineered Wood 2 Door Wardrobe (Finish Color - Walnut)']['  Flipkart Perfect Homes Nevada Engineered Wood 2 Door Wardrobe (Finish Color - Walnut, Mirror Included)']['  Spacewood Apex Engineered Wood 2 Door Wardrobe (Finish Color - WALNUT RIGATO)']['  Mobel Furniture KF-6107 Engineered Wood 2 Door Wardrobe (Finish Color - Wenge)']['  Valtos Engineered Wood 2 Door Wardrobe (Finish Color - Wenge)']['  Spacewood Apex Engineered Wood 2 Door Wardrobe (Finish Color - NATURAL WENGE)']", 
+        "ts": "1561657720.003900", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "3a60bd4f-fc24-44c6-b5a1-3218007a6edf", 
+        "text": "I think 5th is the same height as that of mine. Show me more of it.", 
+        "ts": "1561657756.004400", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "f0bf8f67-8711-434c-9f4e-bfe903fff3e4", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jm573ww0/wardrobe-closet/v/r/u/particle-board-kosmo-apex-2-door-wardrobe-in-natural-wenge-original-imaf949924e53yuy.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jm573ww0/wardrobe-closet/v/r/u/particle-board-kosmo-apex-2-door-wardrobe-in-natural-wenge-original-imaf949924e53yuy.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jxf05u80/wardrobe-closet/f/4/f/galvanised-steel-25119-woodness-dual-tone-brown-white-original-imaf8xgmn6efgyew.jpeg"
+            ]
+        }, 
+        "text": "Please wait a moment. Images are coming.", 
+        "ts": "1561658012.004900", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "c85e2bc8-f4be-4d05-9f71-1a3e713fe080", 
+        "text": "Fabulous! man I like this. ALso show some images which has dimensions in them.", 
+        "ts": "1561658102.005600", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "8fb1548c-33b0-4c6b-a6d3-2a7b45afff0d", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jm573ww0/wardrobe-closet/v/r/u/particle-board-kosmo-apex-2-door-wardrobe-in-natural-wenge-original-imaf949924e53yuy.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jm573ww0/wardrobe-closet/v/r/u/particle-board-kosmo-apex-2-door-wardrobe-in-natural-wenge-original-imaf949924e53yuy.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jxf05u80/wardrobe-closet/f/4/f/galvanised-steel-25119-woodness-dual-tone-brown-white-original-imaf8xgmn6efgyew.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jduk2vk0/wardrobe-closet/w/j/g/particle-board-kosmo-value-v2-2-door-wardrobe-in-natural-wenge-original-imaf27cnxgxvrewj.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jduk2vk0/wardrobe-closet/w/j/g/particle-board-kosmo-value-v2-2-door-wardrobe-in-natural-wenge-original-imaf27cngxhta2tg.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k0o69ow0/wardrobe-closet/v/r/u/particle-board-kosmo-apex-2-door-wardrobe-in-natural-wenge-original-imafkes336gra4bq.jpeg"
+            ]
+        }, 
+        "text": "Yes! In the above images we can see the orientations as well as dimensions", 
+        "ts": "1561658243.005800", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "d66ce2c5-b713-4627-9297-666fba396da1", 
+        "text": "Do you mind telling me about the Material &amp; Color features please?", 
+        "ts": "1561658277.006200", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "f962f7aa-2d0b-4740-883b-2aabec2894da", 
+        "text": "Yes please, They are mentioned below [{'Material &amp; Color': {'Primary Material': 'Engineered Wood', 'Primary Material Subtype': 'Particle Board', 'Secondary Material': 'Engineered Wood', 'Primary Color': 'Brown', 'Finish Color': 'Wooden'}}]", 
+        "ts": "1561658449.006900", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "065c437d-429b-4e85-95f1-ecffe0b6603f", 
+        "text": "Now display images with 2nd variety please.", 
+        "ts": "1561658686.007000", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "3360a613-a90a-4f61-be18-bbfaa1c82661", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jlb6v0w0/wardrobe-closet/u/m/g/particle-board-w2wa0idd13wmp-perfect-homes-by-flipkart-walnut-original-imaf8gt2jd6znzj6.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jlfh6kw0/wardrobe-closet/u/m/g/particle-board-w2wa0idd13wmp-flipkart-perfect-homes-walnut-original-imaf8k5yesusxfh6.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jh9fy4w0/wardrobe-closet/u/m/g/particle-board-w2wa0idd13wmp-perfect-homes-by-flipkart-walnut-original-imaf5bnv5hunhw6r.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jh9fy4w0/wardrobe-closet/u/m/g/particle-board-w2wa0idd13wmp-perfect-homes-by-flipkart-walnut-original-imaf5bnw2pr4ehej.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jh9fy4w0/wardrobe-closet/u/m/g/particle-board-w2wa0idd13wmp-perfect-homes-by-flipkart-walnut-original-imaf5bnwwm6yhpzb.jpeg"
+            ]
+        }, 
+        "text": "In these images we have orientations of the 2nd one.", 
+        "ts": "1561658781.007800", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "f269c871-69df-4649-8536-b0cd3ca29f9f", 
+        "text": "Help me provide with the basic info of it?", 
+        "ts": "1561658788.008000", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "93bc9851-5aa4-44b7-8396-2637041262b7", 
+        "text": "the features are as follows: [[' Primary Material: Engineered Wood', 'Width x Height: 75 cm x 183.5 cm (2 ft 5 in x 6 ft)', 'Number Of Doors: 2', 'Number Of Shelves: 3', 'Weight: 70', 'Delivery Condition: Knock Down - Delivered in non-assembled pieces, installation by service partner']]", 
+        "ts": "1561658972.008400", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "44341624-c8de-4b39-9fb4-be99709e8678", 
+        "text": "Order this for me to this address 590019. Bye!", 
+        "ts": "1561658973.008500", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "953da3a4-7601-4be7-af7c-eda2a4bfdb56", 
+        "text": "Your order is made. Have a happy day.", 
+        "ts": "1561659046.008700", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "exit-message"
+    }
+]

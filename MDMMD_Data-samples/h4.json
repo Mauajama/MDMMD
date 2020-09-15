@@ -1,0 +1,858 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1566625377.000200",
+        "user": "UJ5UQPN21",
+        "text": "<@UJ5UQPN21> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1566625378.000400",
+        "user": "UJ7RN7BQF",
+        "text": "<@UJ7RN7BQF> has joined the channel",
+        "inviter": "UJ5UQPN21"
+    },
+    {
+        "client_msg_id": "72f7b4bd-9939-421d-8513-8249c5e67fc4",
+        "type": "message",
+        "text": "Hello!",
+        "user": "UJ5UQPN21",
+        "ts": "1566625396.000700",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "ced6470d-0bdd-4669-a77b-4ff59caf29bd",
+        "type": "message",
+        "text": "Hey good morning!!! What can I do for you?",
+        "user": "UJ7RN7BQF",
+        "ts": "1566625418.001300",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "44dd0223-769a-476c-a1b1-b085d1fcee90",
+        "type": "message",
+        "text": "I am looking for some hotels near me. Can you help me with that?",
+        "user": "UJ5UQPN21",
+        "ts": "1566625473.002300",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "be06870e-e150-4cda-9088-a18a4c8a2523",
+        "type": "message",
+        "text": "Definitely, we are here for you. Can you please help us with your location?",
+        "user": "UJ7RN7BQF",
+        "ts": "1566625551.003400",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "53703dc8-0469-45a2-b828-68d5c6848cb1",
+        "type": "message",
+        "text": "Near Railway Station Patna.",
+        "user": "UJ5UQPN21",
+        "ts": "1566625564.003700",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "5532c10e-3400-4e57-88b5-4e0f8aa84ece",
+        "type": "message",
+        "text": "Ohh nice!!! Please have patience while we look for some best options for you.",
+        "user": "UJ7RN7BQF",
+        "ts": "1566625605.005000",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "c3cce266-ae76-4793-bf68-1912ccb17f81",
+        "type": "message",
+        "text": "Here are some hotels for you: Lemon Tree: <http:\/\/www.traveltradejournal.com\/wp-content\/uploads\/2017\/10\/3.jpg> Orange Inn: <https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQnQlNSoY_ZmP6KwFxR4sjGJIkMbUuNClRcw-gEajSogY6Ye8Pn> Hotel Fort: <https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcQFhtEvTiPq2mA00FJU9NkTF9dimahi1WymXv3Nlik9SXBSYoyq> Patliputra Nirvana: <https:\/\/cdn1.goibibo.com\/image\/fetch\/t_srp_v3\/f_jpg\/https:\/\/gos3.ibcdn.com\/dfe997daa53d11e9b3880242ac110003.jpg> Hotel Astor: <https:\/\/content3.jdmagicbox.com\/comp\/patna\/n1\/0612px612.x612.130605094522.z9n1\/catalogue\/hotel-astor-frazer-road-patna-hotels-rs-1001-to-rs-2000-24ok5es-250.jpg> Hotel Chanakya: <https:\/\/ui.cltpstatic.com\/places\/hotels\/4262\/42620\/images\/mainpic2_w.jpg>",
+        "user": "UJ7RN7BQF",
+        "ts": "1566625874.008300",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "baae2d95-eee2-4353-8ebb-f95a26127ee8",
+        "type": "message",
+        "text": "Can you show me the insights of the third image?",
+        "user": "UJ5UQPN21",
+        "ts": "1566625887.008600",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "908bd1e1-1d0b-4201-ad4f-e82a25ce3e7c",
+        "type": "message",
+        "text": "Yes sure, here are the images of the hotel from inside <https:\/\/image3.mouthshut.com\/images\/imagesp\/925827788s.jpg> <https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/208\/208116296.jpg> <https:\/\/content3.jdmagicbox.com\/comp\/patna\/dc\/0612px612.x612.1230553210j9k5j9.dc\/catalogue\/hotel-fort-patna-12ix44mq7a.jpg> <https:\/\/thumbnails.trvl-media.com\/ST09O_96RZoxKhOa8Nl8xeUXXR4=\/773x530\/smart\/filters:quality(60)\/images.trvl-media.com\/hotels\/24000000\/23180000\/23172000\/23171932\/7dffdc4a_z.jpg>",
+        "user": "UJ7RN7BQF",
+        "ts": "1566626063.010800",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "550x365px image",
+                "image_url": "https:\/\/image3.mouthshut.com\/images\/imagesp\/925827788s.jpg",
+                "image_width": 550,
+                "image_height": 365,
+                "image_bytes": 27057,
+                "from_url": "https:\/\/image3.mouthshut.com\/images\/imagesp\/925827788s.jpg",
+                "id": 1,
+                "original_url": "https:\/\/image3.mouthshut.com\/images\/imagesp\/925827788s.jpg"
+            },
+            {
+                "fallback": "1024x683px image",
+                "image_url": "https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/208\/208116296.jpg",
+                "image_width": 1024,
+                "image_height": 683,
+                "image_bytes": 61726,
+                "from_url": "https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/208\/208116296.jpg",
+                "id": 2,
+                "original_url": "https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/208\/208116296.jpg"
+            },
+            {
+                "fallback": "1920x1440px image",
+                "image_url": "https:\/\/content3.jdmagicbox.com\/comp\/patna\/dc\/0612px612.x612.1230553210j9k5j9.dc\/catalogue\/hotel-fort-patna-12ix44mq7a.jpg",
+                "image_width": 1920,
+                "image_height": 1440,
+                "image_bytes": 113529,
+                "from_url": "https:\/\/content3.jdmagicbox.com\/comp\/patna\/dc\/0612px612.x612.1230553210j9k5j9.dc\/catalogue\/hotel-fort-patna-12ix44mq7a.jpg",
+                "id": 3,
+                "original_url": "https:\/\/content3.jdmagicbox.com\/comp\/patna\/dc\/0612px612.x612.1230553210j9k5j9.dc\/catalogue\/hotel-fort-patna-12ix44mq7a.jpg"
+            },
+            {
+                "fallback": "773x530px image",
+                "image_url": "https:\/\/thumbnails.trvl-media.com\/ST09O_96RZoxKhOa8Nl8xeUXXR4=\/773x530\/smart\/filters:quality(60)\/images.trvl-media.com\/hotels\/24000000\/23180000\/23172000\/23171932\/7dffdc4a_z.jpg",
+                "image_width": 773,
+                "image_height": 530,
+                "image_bytes": 33599,
+                "from_url": "https:\/\/thumbnails.trvl-media.com\/ST09O_96RZoxKhOa8Nl8xeUXXR4=\/773x530\/smart\/filters:quality(60)\/images.trvl-media.com\/hotels\/24000000\/23180000\/23172000\/23171932\/7dffdc4a_z.jpg",
+                "id": 4,
+                "original_url": "https:\/\/thumbnails.trvl-media.com\/ST09O_96RZoxKhOa8Nl8xeUXXR4=\/773x530\/smart\/filters:quality(60)\/images.trvl-media.com\/hotels\/24000000\/23180000\/23172000\/23171932\/7dffdc4a_z.jpg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d09bc66b-6c76-4585-a4dc-38e4084430b6",
+        "type": "message",
+        "text": "Oh they have a really nice room. But I can't find AC in any of these. Do they have AC facility also?",
+        "user": "UJ5UQPN21",
+        "ts": "1566626172.012600",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "9eb5c555-bc75-49c4-8c04-e970c001e647",
+        "type": "message",
+        "text": "Yes they do, but with extra charges. I can show some of them <http:\/\/www.palaciodegoa.com\/img\/rooms\/deluxe-room.jpg> <https:\/\/www.yashodainternational.com\/digha\/img\/gallery\/6-beded-2.jpg> <http:\/\/www.somnathsagar.com\/img\/images\/gallery\/superior-room-ac1.jpg> <https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/168\/168950511.jpg>",
+        "user": "UJ7RN7BQF",
+        "ts": "1566626317.014300",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "800x533px image",
+                "image_url": "http:\/\/www.palaciodegoa.com\/img\/rooms\/deluxe-room.jpg",
+                "image_width": 800,
+                "image_height": 533,
+                "image_bytes": 74864,
+                "from_url": "http:\/\/www.palaciodegoa.com\/img\/rooms\/deluxe-room.jpg",
+                "id": 1,
+                "original_url": "http:\/\/www.palaciodegoa.com\/img\/rooms\/deluxe-room.jpg"
+            },
+            {
+                "fallback": "800x530px image",
+                "image_url": "https:\/\/www.yashodainternational.com\/digha\/img\/gallery\/6-beded-2.jpg",
+                "image_width": 800,
+                "image_height": 530,
+                "image_bytes": 45433,
+                "from_url": "https:\/\/www.yashodainternational.com\/digha\/img\/gallery\/6-beded-2.jpg",
+                "id": 2,
+                "original_url": "https:\/\/www.yashodainternational.com\/digha\/img\/gallery\/6-beded-2.jpg"
+            },
+            {
+                "fallback": "1556x1037px image",
+                "image_url": "http:\/\/www.somnathsagar.com\/img\/images\/gallery\/superior-room-ac1.jpg",
+                "image_width": 1556,
+                "image_height": 1037,
+                "image_bytes": 385466,
+                "from_url": "http:\/\/www.somnathsagar.com\/img\/images\/gallery\/superior-room-ac1.jpg",
+                "id": 3,
+                "original_url": "http:\/\/www.somnathsagar.com\/img\/images\/gallery\/superior-room-ac1.jpg"
+            },
+            {
+                "fallback": "1024x682px image",
+                "image_url": "https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/168\/168950511.jpg",
+                "image_width": 1024,
+                "image_height": 682,
+                "image_bytes": 55157,
+                "from_url": "https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/168\/168950511.jpg",
+                "id": 4,
+                "original_url": "https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/168\/168950511.jpg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "fce7ea7e-2ba7-40a5-ab51-e5706ebea0e8",
+        "type": "message",
+        "text": "That's nice, they have nice rooms I really like the first image, It is very spacious can you show me some more images of the same?",
+        "user": "UJ5UQPN21",
+        "ts": "1566626447.016100",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "52e01434-7e1f-4798-9692-c0d6401c1b22",
+        "type": "message",
+        "text": "Yes definitely, <https:\/\/media-cdn.tripadvisor.com\/media\/photo-s\/0a\/bd\/69\/5e\/ac-room.jpg> <https:\/\/achotels.marriott.com\/images\/cropped\/58-500x250.jpg> <https:\/\/static.dayuse.com\/hotels\/0x7885\/797_533\/3898197bc2a9abe8be3b2d972478cdbd-ac-hotel-manchester-salford-quays.jpg> <https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/830\/83030970.jpg>",
+        "user": "UJ7RN7BQF",
+        "ts": "1566626608.016700",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "550x416px image",
+                "image_url": "https:\/\/media-cdn.tripadvisor.com\/media\/photo-s\/0a\/bd\/69\/5e\/ac-room.jpg",
+                "image_width": 550,
+                "image_height": 416,
+                "image_bytes": 23180,
+                "from_url": "https:\/\/media-cdn.tripadvisor.com\/media\/photo-s\/0a\/bd\/69\/5e\/ac-room.jpg",
+                "id": 1,
+                "original_url": "https:\/\/media-cdn.tripadvisor.com\/media\/photo-s\/0a\/bd\/69\/5e\/ac-room.jpg"
+            },
+            {
+                "fallback": "500x250px image",
+                "image_url": "https:\/\/achotels.marriott.com\/images\/cropped\/58-500x250.jpg",
+                "image_width": 500,
+                "image_height": 250,
+                "image_bytes": 21614,
+                "from_url": "https:\/\/achotels.marriott.com\/images\/cropped\/58-500x250.jpg",
+                "id": 2,
+                "original_url": "https:\/\/achotels.marriott.com\/images\/cropped\/58-500x250.jpg"
+            },
+            {
+                "fallback": "797x533px image",
+                "image_url": "https:\/\/static.dayuse.com\/hotels\/0x7885\/797_533\/3898197bc2a9abe8be3b2d972478cdbd-ac-hotel-manchester-salford-quays.jpg",
+                "image_width": 797,
+                "image_height": 533,
+                "image_bytes": 68597,
+                "from_url": "https:\/\/static.dayuse.com\/hotels\/0x7885\/797_533\/3898197bc2a9abe8be3b2d972478cdbd-ac-hotel-manchester-salford-quays.jpg",
+                "id": 3,
+                "original_url": "https:\/\/static.dayuse.com\/hotels\/0x7885\/797_533\/3898197bc2a9abe8be3b2d972478cdbd-ac-hotel-manchester-salford-quays.jpg"
+            },
+            {
+                "fallback": "610x423px image",
+                "image_url": "https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/830\/83030970.jpg",
+                "image_width": 610,
+                "image_height": 423,
+                "image_bytes": 32647,
+                "from_url": "https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/830\/83030970.jpg",
+                "id": 4,
+                "original_url": "https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/830\/83030970.jpg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "aca59cb1-2e31-4494-9b97-0b048a58512e",
+        "type": "message",
+        "text": "May I know the Price of the rooms?",
+        "user": "UJ5UQPN21",
+        "ts": "1566626671.017700",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "60b15db6-ed85-4119-b061-b08851d7868c",
+        "type": "message",
+        "text": "These rooms cost 4500\/- per night. Would you like to book?",
+        "user": "UJ7RN7BQF",
+        "ts": "1566626729.018400",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "e5c73d61-3f52-433c-8990-228071b35955",
+        "type": "message",
+        "text": "Can you show me the restroom and lounge area of the last image, how they look like?",
+        "user": "UJ5UQPN21",
+        "ts": "1566626787.019300",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ5UQPN21",
+            "ts": "1566626835.000000"
+        }
+    },
+    {
+        "client_msg_id": "7b0fc26e-a7b4-4fbf-8931-bb1a52cb5bda",
+        "type": "message",
+        "text": "Here are some images for your reference <https:\/\/i.imgur.com\/HvDGjjw.jpg> <https:\/\/media-cdn.tripadvisor.com\/media\/photo-s\/02\/5f\/4c\/fb\/washrooms.jpg> <https:\/\/onemileatatime.com\/wp-content\/uploads\/2014\/10\/Phone-In-Hotel-Toilet.jpg> <https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/475\/47583514.jpg> <https:\/\/static-news.moneycontrol.com\/static-mcnews\/2017\/09\/GettyImages-90513538-e1504714081986-770x433.jpg>",
+        "user": "UJ7RN7BQF",
+        "ts": "1566627079.020200",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "1083x723px image",
+                "image_url": "https:\/\/i.imgur.com\/HvDGjjw.jpg",
+                "image_width": 1083,
+                "image_height": 723,
+                "image_bytes": 104259,
+                "from_url": "https:\/\/i.imgur.com\/HvDGjjw.jpg",
+                "id": 1,
+                "original_url": "https:\/\/i.imgur.com\/HvDGjjw.jpg"
+            },
+            {
+                "fallback": "550x412px image",
+                "image_url": "https:\/\/media-cdn.tripadvisor.com\/media\/photo-s\/02\/5f\/4c\/fb\/washrooms.jpg",
+                "image_width": 550,
+                "image_height": 412,
+                "image_bytes": 28506,
+                "from_url": "https:\/\/media-cdn.tripadvisor.com\/media\/photo-s\/02\/5f\/4c\/fb\/washrooms.jpg",
+                "id": 2,
+                "original_url": "https:\/\/media-cdn.tripadvisor.com\/media\/photo-s\/02\/5f\/4c\/fb\/washrooms.jpg"
+            },
+            {
+                "fallback": "700x616px image",
+                "image_url": "https:\/\/onemileatatime.com\/wp-content\/uploads\/2014\/10\/Phone-In-Hotel-Toilet.jpg",
+                "image_width": 700,
+                "image_height": 616,
+                "image_bytes": 53612,
+                "from_url": "https:\/\/onemileatatime.com\/wp-content\/uploads\/2014\/10\/Phone-In-Hotel-Toilet.jpg",
+                "id": 3,
+                "original_url": "https:\/\/onemileatatime.com\/wp-content\/uploads\/2014\/10\/Phone-In-Hotel-Toilet.jpg"
+            },
+            {
+                "fallback": "1024x683px image",
+                "image_url": "https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/475\/47583514.jpg",
+                "image_width": 1024,
+                "image_height": 683,
+                "image_bytes": 94079,
+                "from_url": "https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/475\/47583514.jpg",
+                "id": 4,
+                "original_url": "https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/475\/47583514.jpg"
+            },
+            {
+                "fallback": "770x433px image",
+                "image_url": "https:\/\/static-news.moneycontrol.com\/static-mcnews\/2017\/09\/GettyImages-90513538-e1504714081986-770x433.jpg",
+                "image_width": 770,
+                "image_height": 433,
+                "image_bytes": 42816,
+                "from_url": "https:\/\/static-news.moneycontrol.com\/static-mcnews\/2017\/09\/GettyImages-90513538-e1504714081986-770x433.jpg",
+                "id": 5,
+                "original_url": "https:\/\/static-news.moneycontrol.com\/static-mcnews\/2017\/09\/GettyImages-90513538-e1504714081986-770x433.jpg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "00cbd7fc-df10-4e12-b72d-9d34bb891666",
+        "type": "message",
+        "text": "the rooms are a bit bright, can you show me something like first image?",
+        "user": "UJ5UQPN21",
+        "ts": "1566627178.021500",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ5UQPN21",
+            "ts": "1566627339.000000"
+        }
+    },
+    {
+        "client_msg_id": "4cecd668-ee43-464e-a1a0-09d96e6e3cb4",
+        "type": "message",
+        "text": "Would you prefer single or double rooms?",
+        "user": "UJ7RN7BQF",
+        "ts": "1566627425.022800",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "176ea69f-fefc-49dc-b22c-bff15a8130ff",
+        "type": "message",
+        "text": "I want a single room.",
+        "user": "UJ5UQPN21",
+        "ts": "1566627452.023300",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "1cc4a91d-8f95-402b-8892-add4cf6941f4",
+        "type": "message",
+        "text": "Okay we have these for you <https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/133\/133193609.jpg> <https:\/\/goreviews.goibibo.com\/t_ug\/hotel-mayur-patna-patna-abdul-rizwan-112977510279.jpg> <https:\/\/ui.cltpstatic.com\/places\/hotels\/9549\/954926\/images\/DSC_0651_w.jpg> <https:\/\/images.oyoroomscdn.com\/uploads\/hotel_image\/5605\/small\/DSC_6484.jpg>",
+        "user": "UJ7RN7BQF",
+        "ts": "1566627631.023900",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "attachments": [
+            {
+                "fallback": "1024x683px image",
+                "image_url": "https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/133\/133193609.jpg",
+                "image_width": 1024,
+                "image_height": 683,
+                "image_bytes": 63293,
+                "from_url": "https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/133\/133193609.jpg",
+                "id": 1,
+                "original_url": "https:\/\/s-ec.bstatic.com\/images\/hotel\/max1024x768\/133\/133193609.jpg"
+            },
+            {
+                "fallback": "306x408px image",
+                "image_url": "https:\/\/goreviews.goibibo.com\/t_ug\/hotel-mayur-patna-patna-abdul-rizwan-112977510279.jpg",
+                "image_width": 306,
+                "image_height": 408,
+                "image_bytes": 12674,
+                "from_url": "https:\/\/goreviews.goibibo.com\/t_ug\/hotel-mayur-patna-patna-abdul-rizwan-112977510279.jpg",
+                "id": 2,
+                "original_url": "https:\/\/goreviews.goibibo.com\/t_ug\/hotel-mayur-patna-patna-abdul-rizwan-112977510279.jpg"
+            },
+            {
+                "fallback": "640x425px image",
+                "image_url": "https:\/\/ui.cltpstatic.com\/places\/hotels\/9549\/954926\/images\/DSC_0651_w.jpg",
+                "image_width": 640,
+                "image_height": 425,
+                "image_bytes": 135706,
+                "from_url": "https:\/\/ui.cltpstatic.com\/places\/hotels\/9549\/954926\/images\/DSC_0651_w.jpg",
+                "id": 3,
+                "original_url": "https:\/\/ui.cltpstatic.com\/places\/hotels\/9549\/954926\/images\/DSC_0651_w.jpg"
+            },
+            {
+                "fallback": "320x213px image",
+                "image_url": "https:\/\/images.oyoroomscdn.com\/uploads\/hotel_image\/5605\/small\/DSC_6484.jpg",
+                "image_width": 320,
+                "image_height": 213,
+                "image_bytes": 15184,
+                "from_url": "https:\/\/images.oyoroomscdn.com\/uploads\/hotel_image\/5605\/small\/DSC_6484.jpg",
+                "id": 4,
+                "original_url": "https:\/\/images.oyoroomscdn.com\/uploads\/hotel_image\/5605\/small\/DSC_6484.jpg"
+            }
+        ]
+    },
+    {
+        "client_msg_id": "51766b93-5d04-4904-b311-6f1c272e44e4",
+        "type": "message",
+        "text": "In the images, there are extra beds do I have to pay any extra for that?",
+        "user": "UJ5UQPN21",
+        "ts": "1566627708.025100",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "47f4632f-3b8f-4bdf-84ba-48d12b5db399",
+        "type": "message",
+        "text": "No, it is covered with the room charges. Do you want any other information?",
+        "user": "UJ7RN7BQF",
+        "ts": "1566627804.025700",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "bc9587db-c44d-48b2-b1b2-e95a114cafa0",
+        "type": "message",
+        "text": "How far is this hotel from the railway station?",
+        "user": "UJ5UQPN21",
+        "ts": "1566627825.026200",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "dd1da9c2-bc0e-4c43-958e-d00cae89f617",
+        "type": "message",
+        "text": "It is at a distance of 800 metres from the station.",
+        "user": "UJ7RN7BQF",
+        "ts": "1566627860.026800",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "7c8a1d9a-6eae-489d-8ed1-5f1271afbd01",
+        "type": "message",
+        "text": "Oh that's nice. Thanks for the help.",
+        "user": "UJ5UQPN21",
+        "ts": "1566627880.027300",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "052ee655-06ba-4e6e-bb66-eeca49a5318e",
+        "type": "message",
+        "text": "Welcome. Should we book this for you?",
+        "user": "UJ7RN7BQF",
+        "ts": "1566627900.027800",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    },
+    {
+        "client_msg_id": "092eb784-1ace-4d33-b48a-9f676e0ab722",
+        "type": "message",
+        "text": "Yeah sure, the one with the study table in the room I want that room.",
+        "user": "UJ5UQPN21",
+        "ts": "1566627915.028100",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ5UQPN21",
+            "ts": "1566627967.000000"
+        }
+    },
+    {
+        "client_msg_id": "93a7f033-9186-4d29-ad72-f62a8b628599",
+        "type": "message",
+        "text": "Sure we will get it booked. Enjoy your stay. :blush:",
+        "user": "UJ7RN7BQF",
+        "ts": "1566628013.028800",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

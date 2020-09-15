@@ -1,0 +1,146 @@
+[
+    {
+        "text": "<@UJLP9F2HW> has joined the channel", 
+        "subtype": "channel_join", 
+        "speaker": "user", 
+        "ts": "1560741276.000200", 
+        "type": "answer"
+    }, 
+    {
+        "type": "answer", 
+        "ts": "1560741276.000400", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@UJLNN5PBP> has joined the channel", 
+        "inviter": "UJLP9F2HW"
+    }, 
+    {
+        "client_msg_id": "b235e8b0-596c-4cd6-a445-3ccc03a1f772", 
+        "text": "Greetings for the day.  I want you to help me please, and I know that you are the only one who can help me. So please. ", 
+        "speaker": "user", 
+        "ts": "1560747887.000600", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "2075d1ec-690c-456c-8ad9-44d42592edcb", 
+        "text": "Greetings for the day to you too ", 
+        "speaker": "system", 
+        "ts": "1560747917.000800", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "ba0880e9-5a60-452d-be70-ca4e80db09c2", 
+        "text": "My living room kind of looks empty so I want to fill it with the tea table. Do you have it?", 
+        "speaker": "user", 
+        "ts": "1560748181.001100", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "78edb725-8adb-4433-b2cf-5970b9cd4bfe", 
+        "text": "I have plenty of varieties possible so could you please tell me what variety you are looking for and maximum and minimum price range?", 
+        "speaker": "system", 
+        "ts": "1560748445.001300", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "593123e5-51d7-4295-82fe-6e82bc13799b", 
+        "text": "I am looking for a t table which is made of wood in particular and the maximum price I would want to pay for this purchase is 25,000 not beyond that.", 
+        "speaker": "user", 
+        "ts": "1560748472.001500", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "8607949c-e2d9-47dd-8285-9269c405af37", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k6gsk280/coffee-table/c/c/q/particle-board-c2-ct-ph-st-bg-8-flipkart-perfect-homes-studio-original-imafzwygew2ydfnc.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k15bjww0/coffee-table/n/p/p/particle-board-ct-no-rtw-bluewud-wenge-original-imafksfahgkvabhp.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jnamvm80/coffee-table/f/g/e/particle-board-ibaronncoftblweg-nilkamal-wenge-original-imafaycyxatwv2pw.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jnamvm80/coffee-table/p/z/6/particle-board-fictasterotbctwlt-home-by-nilkamal-walnut-original-imafaycyvqw7nhze.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jmz7csw0/coffee-table/3/z/s/particle-board-ibarnewcoftblwen-nilkamal-dark-brown-wenge-original-imaf9rgng6wmyzez.jpeg"
+            ]
+        }, 
+        "text": "I have got these images for you. Well, I hope you find this useful:  1)   Flipkart Perfect Homes Studio Hamilton Engineered Wood Coffee Table (Finish Color - Black and Grey),  2)   Bluewud Noel Engineered Wood Coffee Table (Finish Color - Wenge),  3)   Nilkamal Baron Engineered Wood Coffee Table (Finish Color - Wenge),  4)   @home by Nilkamal Astero Engineered Wood Coffee Table (Finish Color - Walnut),  5)   Nilkamal Barcelona Engineered Wood Coffee Table (Finish Color - Wenge), ", 
+        "ts": "1560748633.002000", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "78923b45-5c6e-4cff-aed1-b8d946dddf8f", 
+        "text": "I want to know about their ratings please. also tell me the highest 1.", 
+        "speaker": "user", 
+        "ts": "1560749038.002200", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "f9e84667-0888-421f-b9b3-a632fef5f477", 
+        "text": "Checkout here for ratings 1)  3.7. 2)  3.7. 3)  3.9. 4)  3.6. 5)  3.6. I want to tell you this is the top rating one :3 one.", 
+        "speaker": "system", 
+        "ts": "1560749066.002400", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "f976a47a-5d79-467f-99b5-e6f3bfcc0d9d", 
+        "text": "and do you have images of the highest rated one?", 
+        "speaker": "user", 
+        "ts": "1560749213.002900", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "5766280b-63b0-4f56-a9c8-e4c22b7ed971", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jnamvm80/coffee-table/f/g/e/particle-board-ibaronncoftblweg-nilkamal-wenge-original-imafaycyxatwv2pw.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jnamvm80/coffee-table/f/g/e/particle-board-ibaronncoftblweg-nilkamal-wenge-original-imafaycyxatwv2pw.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jmz7csw0/coffee-table/f/g/e/particle-board-ibaronncoftblweg-nilkamal-wenge-original-imaf9rgq4bjwc2w4.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jmz7csw0/coffee-table/f/g/e/particle-board-ibaronncoftblweg-nilkamal-wenge-original-imaf9rgqybz7gpzm.jpeg"
+            ]
+        }, 
+        "text": "Product orientations are as follows", 
+        "ts": "1560749314.003400", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "0e343448-5e83-442a-9749-97c495684d5a", 
+        "text": "what is the price of", 
+        "speaker": "user", 
+        "ts": "1560749790.004100", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "54379e9f-b53f-46ce-8766-842d0ec9e3e2", 
+        "text": "That is for the total cost:  \u20b93,090", 
+        "speaker": "system", 
+        "ts": "1560749793.004200", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "b12dd7ed-a149-4ce4-b2f6-d364dd12da2d", 
+        "text": "Immediately inform myself of all the Warranty Summary, Not Covered in Warranty,  features please?", 
+        "speaker": "user", 
+        "ts": "1560750047.004400", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "65be414e-aa9a-4bd8-8599-280c6ad9e9ec", 
+        "text": "I am absolutely delighted that you have requested for this. The specific details are as continues to follow:  Warranty Summary: 12 months domestic warranty. We will provide replacement of particular damaged parts only or entire product in case of non avaiablity of damaged parts.,  Not Covered in Warranty: Warranty is non-transferrable, valid only in the territory of India and extended only to the first end user customer (Customer). Warranty does not cover damage caused to the product due to misuse, tampering, natural calamity, negligence, unauthorised usage, continous contact of water, improper installation by customer, normal wear and tear caused due to use of product.,  .", 
+        "speaker": "system", 
+        "ts": "1560750065.004600", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "48d5a8e9-1835-4b0f-9ea3-2d0aba063531", 
+        "text": "thanks", 
+        "speaker": "user", 
+        "ts": "1560750081.004800", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "673c8b4f-ca61-4bca-a31f-d1a24f7d3273", 
+        "text": "you're welcome", 
+        "speaker": "system", 
+        "ts": "1560750085.005000", 
+        "type": "exit-message"
+    }
+]

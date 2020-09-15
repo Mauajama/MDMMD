@@ -1,0 +1,145 @@
+[
+    {
+        "text": "<@user> has joined the channel", 
+        "subtype": "channel_join", 
+        "speaker": "user", 
+        "ts": "1561457502.000200", 
+        "type": "message"
+    }, 
+    {
+        "type": "message", 
+        "ts": "1561457504.000400", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@system> has joined the channel", 
+        "inviter": "user"
+    }, 
+    {
+        "client_msg_id": "56544ae1-1175-49a6-8fa7-5fa1e3fd6f4e", 
+        "text": "Good evening.", 
+        "speaker": "user", 
+        "ts": "1561457793.000700", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "c76ef5df-1ea9-4565-b1aa-b7aabd20edb0", 
+        "text": "Very Good evening.", 
+        "speaker": "system", 
+        "ts": "1561458274.001400", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "4b0cceb2-3f3b-44e2-96ba-408934fdf26a", 
+        "text": "I am here to go shopping for Home theatre system so that I can enjoy and chill.", 
+        "speaker": "user", 
+        "ts": "1561458283.001700", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "c9ce6d6a-c10e-4136-aa5d-07fb2b51c3e4", 
+        "text": "Help me learn the the brand choice of yours please!", 
+        "speaker": "system", 
+        "ts": "1561458414.002100", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "0fce8a07-18f7-4d17-892a-5f3ea07b4491", 
+        "text": "No", 
+        "speaker": "user", 
+        "ts": "1561458621.002300", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "7c2bcfc4-2934-459d-bd26-bf9a33a0dec2", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jvmpci80/speaker/home-audio-speaker/w/h/5/sony-sa-d40-original-imaffmj7yuzjzyhg.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k6fd47k0pkrrdj/speaker/home-audio-speaker/r/b/d/panasonic-sc-ht40gw-k-original-imaffmzzkqtfvucg.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jz05rww0/speaker/home-audio-speaker/f/f/y/intex-it-4-1-xm-bang-sufb-original-imafj48r9fzhggfq.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jskofww0/speaker/home-audio-speaker/s/d/8/f-d-f6000x-original-imafe436zhnhbasm.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jzeg6fk0/speaker/home-audio-speaker/e/8/q/philips-spa4040b-94-original-imafjf2jzgs9jeg7.jpeg"
+            ]
+        }, 
+        "text": " Would you mind taking these items into consideration:  1)   Sony SA-D40 80 W Bluetooth Home Theatre (Black, 4.1 Channel),  2)   Panasonic SC-HT40GW-K 80 W Bluetooth Home Theatre (Black, 4.1 Channel),  3)   Intex IT-XM BANG SUFB 65 W Bluetooth Home Theatre (Black, 4.1 Channel),  4)   F&amp;D F6000X 135 W Bluetooth Home Theatre (Black, 5.1 Channel),  5)   Philips SPA4040B/94 45 W Bluetooth Home Theatre (Black, 5.1 Channel), ", 
+        "ts": "1561458747.002700", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "d76bcd4f-08c8-49c2-afad-492bf60ac8cc", 
+        "text": "Help me learn the Depth, Subwoofer Weight, Height,  features please? I am not fond of it  by the Warranty Summary of the product.", 
+        "speaker": "user", 
+        "ts": "1561459057.003200", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "33c139fb-4018-4e86-9fdf-2ba0dbc54a49", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jvmpci80/speaker/home-audio-speaker/w/h/5/sony-sa-d40-original-imaffmj7yuzjzyhg.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jvv9zm80/speaker/home-audio-speaker/w/h/5/sony-sa-d40-original-imaffmj7jgmjdbu6.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jvtujrk0/speaker/home-audio-speaker/w/h/5/sony-sa-d40-original-imaffmj7dywgz7gw.jpeg"
+            ]
+        }, 
+        "text": "The specifications you started demanding are as follows  Depth: 9.6 cm,  Subwoofer Weight: 5 kg,  Height: 18.8 cm,  .I can find those picture orientations for you", 
+        "ts": "1561459185.003400", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "257c0c87-b611-4e04-8c13-fbd228e79549", 
+        "text": " 'does it has usb slot'", 
+        "speaker": "user", 
+        "ts": "1561459339.004100", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "74f26fb8-0319-4f66-8070-32b88bd859dd", 
+        "text": " 'yes'", 
+        "speaker": "system", 
+        "ts": "1561459435.004300", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "2f0142a5-c5e5-4c7a-ae1c-9a433f755047", 
+        "text": "Can you share some information regarding  features of both 1 and 2 please?  I am surprised with this by the Domestic Warranty of the product.", 
+        "speaker": "user", 
+        "ts": "1561459560.004700", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "8b8ab9ea-0aca-4b46-9249-11fb5bdd0488", 
+        "text": "Can you share some information regarding   General: Sales Package: 4 Speaker, Stereo Mini Cable x 1, AC Cord x 1, Remote Commander x 1, AC Adapter, Model Number: SA-D40, Model Name: SA-D40, Type: Home Theatre, Bluetooth: Yes, Memory Card Slot: No, Configuration: 4.1, Power Source: DC 18 V, Power Output (RMS): 80 W, Frequency Response: 40 - 20000 Hz, Impedance: 10, Color: Black, Wired/Wireless: Wired, Subwoofer: 1, Wall Mountable Satellite: Yes, Built-in Fm Radio: No, Product Details: Configuration: 4.1 Channel, Driver Type: 4 Speaker, Compatible Devices: TV, Computer, USB Ports: 1 USB Ports, Audio Features: Maximum Output RMS Subwoofer: 42 W, Amplifier: Yes, Other Audio Features: MP3, SBC, Other Details: Chassis Material: Wood (Subwoofer) Chassis, Other Features: Subwoofer Impedance: 4 ohm, Dimensions: Subwoofer Weight: 5 kg, Satellite Weight: 0.5 kg, Width: 10.6 cm, Height: 18.8 cm, Depth: 9.6 cm, Warranty: Warranty Summary: 1 Year Warranty, Domestic Warranty: 1 Year and  General: Sales Package: 1 x Subwoofer, 2 x Satellite Speakers, 1 x RCA Cable, 1 x 3.5 mm Stereo Cable, 1 x User Manual, Warranty Card, 1 x Remote Control, 4 x Mounting Rackets Screw, 4 x Screw Cap, Model Number: SC-HT40GW-K, Model Name: SC-HT40GW-K, Type: Home Theatre, Portable: No, Bluetooth: Yes, Memory Card Slot: No, Configuration: 4.1, Power Source: AC Adapter, Power Output (RMS): 80 W, Frequency Response: 40 - 20000 Hz, Impedance: 8 Ohms, Color: Black, Wired/Wireless: Wired &amp; Wireless, Subwoofer: 1, Wall Mountable Satellite: Yes, Product Details: Headphone Jack: Yes, Configuration: 4.1 Channel, Connector Type: RCA Analog Input, Aux Cable, USB Cable, Audio Features: Signal to Noise Ratio: 80 dB, Maximum Output RMS Per Satellite: 10 W, Maximum Output RMS Subwoofer: 40 W, Other Details: Controls: Touch + Jog Dial Control, Remote Control Support: Yes, Driver Size: Satellite Speaker Size: 4 x 3 inch, Subwoofer Size: 6.5 inch, Separation: 45, Dimensions: Subwoofer Width: 240 mm, Subwoofer Height: 385 mm, Subwoofer Depth: 318 mm, Satellite Width: 95 mm, Satellite Height: 105 mm, Satellite Depth: 200 mm, Width: 39 cm, Height: 32 cm, Depth: 37.5 cm, Warranty: Warranty Summary: 1 Year Warranty respectively.", 
+        "speaker": "system", 
+        "ts": "1561459683.004900", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "bf69d812-8a94-4f3b-81ad-e5f8d83f7cca", 
+        "text": "Can you tell me what different colors are available on this  home theatre system?", 
+        "speaker": "user", 
+        "ts": "1561459851.005400", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "3fc2aa4c-802d-4ec8-907a-8f66404f7bd9", 
+        "text": "Silver and Gold. Do not find any colored images,. has not yet to describe the other variety", 
+        "speaker": "system", 
+        "ts": "1561460017.005600", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "5847f81d-2669-4d5d-8e89-c90cb095b4da", 
+        "text": "Thanks for the information. You make my heart smile.", 
+        "speaker": "user", 
+        "ts": "1561460051.006100", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "077dbdce-90df-4f33-854b-f787b40d8961", 
+        "text": "Thank you for visiting us. No worries", 
+        "speaker": "system", 
+        "ts": "1561460598.006300", 
+        "type": "exit-message"
+    }
+]

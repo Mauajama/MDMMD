@@ -1,0 +1,159 @@
+[
+    {
+        "text": "<@user> has joined the channel", 
+        "subtype": "channel_join", 
+        "speaker": "user", 
+        "ts": "1561457710.000200", 
+        "type": "message"
+    }, 
+    {
+        "type": "message", 
+        "ts": "1561457711.000400", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@system> has joined the channel", 
+        "inviter": "user"
+    }, 
+    {
+        "client_msg_id": "c7f4402b-dea0-49b6-85d5-66766a6720fa", 
+        "text": "Good morning bot. I am looking for something in particular, so I was thinking if you could help me. ", 
+        "speaker": "user", 
+        "ts": "1561462961.000700", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "b385246d-7958-4650-89a5-d56bb7d7cd06", 
+        "text": "Good morning How can I support you. I have hotel/food/furniture/electronics for you.", 
+        "speaker": "system", 
+        "ts": "1561463042.000800", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "f6632bdd-c03f-4819-8b32-d62750f7b163", 
+        "text": "I intend to look for an earphone that can go in the ear and particularly I am looking for a colour in blue.", 
+        "speaker": "user", 
+        "ts": "1561463062.001200", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "1f196026-f180-4747-8725-0a527da87a97", 
+        "text": "Let me know about the brand information please!", 
+        "speaker": "system", 
+        "ts": "1561463213.001600", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "24c303db-1a3f-4dd4-b46b-d13555a0e25d", 
+        "text": "I don't think I have any brand preference. Any brand is fine, the only thing matters to me is the colour blue.", 
+        "speaker": "user", 
+        "ts": "1561463431.001800", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "de6b02af-e865-4523-beda-981f0ebf9623", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k6nxrbk0/headphone/q/p/8/boat-bassheads-172-original-imafp2f3wpfmgjux.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k6nxrbk0/headphone/v/p/q/boat-bassheads-182-original-imafp2f4zfhpe32g.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k5lcvbk0pkrrdj/headphone/m/d/c/jbl-t160-original-imafhyzxsdmkffk2.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k5ihzm80/headphone/z/7/t/brumal-b-upn-level-u-neckband-headphone-bluetooth-headset-with-original-imafhzfnma4g4my6.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jzn0tjk0/headphone/n/6/a/boat-bassheads-103-blue-original-imafjm236xnhke5e.jpeg"
+            ]
+        }, 
+        "text": "Kindly consider these items from the database. I think they are suitable for you:  1)   boAt BassHeads 172 Wired Headset (Blue, Wired in the ear),  2)   boAt BassHeads 182 Wired Headset (Jazzy Blue, Wired in the ear),  3)   JBL T160 Wired Headset (Blue, Wired in the ear),  4)   Welrock Wireless Bluetooth Headset with Mic Bluetooth Headset (Blue, Wireless in the ear),  5)   boAt Bassheads 103 Blue Wired Headset (Blue, Wired in the ear), ", 
+        "ts": "1561463719.002500", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "ce588f3b-6e43-440e-8ead-360a5c715d78", 
+        "text": "Can you show me more images of the first one?", 
+        "speaker": "user", 
+        "ts": "1561463795.003000", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "c815758b-c83d-4b07-80b9-466610a9b989", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k6nxrbk0/headphone/q/p/8/boat-bassheads-172-original-imafp2f3wpfmgjux.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k6nxrbk0/headphone/q/p/8/boat-bassheads-172-original-imafp2f3wpfmgjux.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k6nxrbk0/headphone/q/p/8/boat-bassheads-172-original-imafp2f4pkmj76nu.jpeg"
+            ]
+        }, 
+        "text": "I can find these orientations for you", 
+        "ts": "1561464061.003500", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "d2059602-73ba-47a9-94dc-47933a94b6c1", 
+        "text": "Can you tell me what different colors are available?", 
+        "speaker": "user", 
+        "ts": "1561464157.004100", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "7217870a-281a-48b3-a031-3883a549c0d6", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/144/144/k6nxrbk0/headphone/h/h/z/boat-bassheads-172-original-imafp2f3jqd3u3hz.jpeg", 
+                "https://rukminim1.flixcart.com/image/144/144/k6nxrbk0/headphone/q/p/8/boat-bassheads-172-original-imafp2f3wpfmgjux.jpeg", 
+                "https://rukminim1.flixcart.com/image/144/144/k7285u80/headphone/g/n/m/boat-bassheads-172-original-imafpdq2nf68rggt.jpeg"
+            ]
+        }, 
+        "text": "the colored images that are available are.  Black, Blue, Raging Red", 
+        "ts": "1561464432.004600", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "eda9fce3-14fc-48a5-813a-02d621152f5a", 
+        "text": "Can you show me more images of it?", 
+        "speaker": "user", 
+        "ts": "1561464534.005100", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "e3c14e68-8789-4517-b341-04a456bc90f5", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/k6nxrbk0/headphone/v/p/q/boat-bassheads-182-original-imafp2f4zfhpe32g.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k6nxrbk0/headphone/v/p/q/boat-bassheads-182-original-imafp2f4zfhpe32g.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k6nxrbk0/headphone/v/p/q/boat-bassheads-182-original-imafp2f4pmtdbzcc.jpeg"
+            ]
+        }, 
+        "text": "I can find these orientations of the images for you", 
+        "ts": "1561464653.005500", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "9e0103e5-2cc9-4434-acd4-2834ccbb10bb", 
+        "text": "'is it support redmi note 7pro?'", 
+        "speaker": "user", 
+        "ts": "1561464692.006000", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "1736adf4-cd16-40c3-9558-330d982072ac", 
+        "text": " 'it has 3.5mm golden jack and ite universal jack. so  that is really astounding by the Foldable/Collapsible of the product.", 
+        "speaker": "system", 
+        "ts": "1561465018.006200", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "09b63d80-2ffc-4c12-ac89-4aa960419d24", 
+        "text": "Thanks for the information. Thank you for sharing your opinion. I value your honesty and will respond as quickly as possible.", 
+        "speaker": "user", 
+        "ts": "1561465058.006500", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "a4233056-0c08-474f-b911-d14391e8a5cc", 
+        "text": "Thank you visit again You got it", 
+        "speaker": "system", 
+        "ts": "1561465333.006700", 
+        "type": "exit-message"
+    }
+]

@@ -1,0 +1,171 @@
+[
+    {
+        "text": "<@user> has joined the channel", 
+        "speaker": "user", 
+        "type": "message", 
+        "ts": "1561655244.000200", 
+        "subtype": "channel_join"
+    }, 
+    {
+        "type": "message", 
+        "ts": "1561655245.000400", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@system> has joined the channel", 
+        "inviter": "user"
+    }, 
+    {
+        "client_msg_id": "061eb4e7-92c3-463d-b163-d4ae0aa2127c", 
+        "text": "Good evening! Need some support from you.", 
+        "ts": "1561659077.000500", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "fafd1dc2-e557-4110-bc1f-f3ac858a3ef3", 
+        "text": "Very good evening dear. please tell what kind of support do you want?", 
+        "ts": "1561659107.001000", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "994bd636-c057-4c71-9266-66f980f98fb0", 
+        "text": "The screen of my phone is damaged becase of that I want to buy a new one. show me some Android ones na please that too samsung.", 
+        "ts": "1561659144.001400", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "eb7a4f67-cfc8-4c1d-a49b-ba77fa9ef236", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jeiukcw0/mobile/9/y/y/samsung-galaxy-s9-plus-sm-g965fzkdins-original-imaf372g5zukw8wr.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k62i5jk0/mobile/y/k/s/samsung-galaxy-a51-sm-a515fzkhins-original-imafzhr399hrsbzb.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k8ddoy80/mobile/d/v/n/samsung-galaxy-j2-core-sm-j260gzkiins-original-imafqeamntxh8nks.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k8ddoy80/mobile/b/c/b/samsung-galaxy-j2-core-sm-j260gzdiins-original-imafqeapr7mgrxz8.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k2jbyq80pkrrdj/mobile-refurbished/f/z/r/galaxy-a50s-128-gb-b-sm-a507fzkvins-samsung-4-original-imafk8h5pchaezfy.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jsyyufk0/mobile/b/w/f/samsung-galaxy-a50-sm-a505fzwdins-original-imafefghh95xxr6d.jpeg"
+            ]
+        }, 
+        "text": " Would you mind looking at those items: ['  Samsung Galaxy S9 Plus (Midnight Black, 64 GB) (6 GB RAM)']['  Samsung Galaxy A51 (Prism Crush Black, 128 GB) (6 GB RAM)']['  Samsung Galaxy J2 Core (Black, 16 GB) (1 GB RAM)']['  Samsung Galaxy J2 Core (Gold, 16 GB) (1 GB RAM)']['  Samsung Galaxy A50s (Prism Crush Black, 128 GB) (4 GB RAM)']['  Samsung Galaxy A50 (White, 64 GB) (4 GB RAM)']", 
+        "ts": "1561659344.002100", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "3c9a1a37-abfa-47de-b517-b34fb7c8fba8", 
+        "text": "These are some good options. please show some basic info of the fouth one", 
+        "ts": "1561659376.002700", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "2d701d2e-40a8-409d-bf50-ce8a7c81089d", 
+        "text": "the features are as follows: [[' 6 GB RAM | 64 GB ROM | Expandable Upto 400 GB', '15.75 cm (6.2 inch) Quad HD+ Display', '12MP + 12MP | 8MP Front Camera', '3500 mAh Battery', 'Exynos 9810 Processor']]", 
+        "ts": "1561659538.003100", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "36e5ab83-6e1d-4c12-8b46-4fe2f965deff", 
+        "text": "How does this phone looks from different orientAtions", 
+        "ts": "1561659599.003200", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "a5a84cc1-52e2-4bad-8805-a3e641aeabdb", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jeiukcw0/mobile/9/y/y/samsung-galaxy-s9-plus-sm-g965fzkdins-original-imaf372g5zukw8wr.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jeiukcw0/mobile/9/y/y/samsung-galaxy-s9-plus-sm-g965fzkdins-original-imaf372g5zukw8wr.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jeiukcw0/mobile/9/y/y/samsung-galaxy-s9-plus-sm-g965fzkdins-original-imaf372uzz3adyqm.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jeiukcw0/mobile/9/y/y/samsung-galaxy-s9-plus-sm-g965fzkdins-original-imaf372ggpmhxuzp.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k16qzrk0/mobile/9/y/y/samsung-galaxy-s9-plus-sm-g965fzkdins-original-imafkt2vjqz4hjha.jpeg"
+            ]
+        }, 
+        "text": "You must fall in love with this phone! No wonder they are still in the market.", 
+        "ts": "1561659677.004000", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "eab2f06b-5372-4819-a0c6-9c4adcb8d9d8", 
+        "text": "Yeah I'm in love with it. Can you tell me the price?", 
+        "ts": "1561659787.004200", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "7cd94809-417a-4773-aaac-fc048b48068b", 
+        "text": "for this one has to pay:  \u20b929,999", 
+        "ts": "1561659857.004800", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "5fc4c785-6cc0-499b-bb2c-37a21a2d71f2", 
+        "text": "Do you mind telling me about the  amp Storage please?", 
+        "ts": "1561659872.004900", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "6dc03403-28b9-44f0-a404-dbd0772f9e71", 
+        "text": "Yes please, They are mentioned below [{'Memory &amp; Storage Features': {'Internal Storage': '64 GB', 'RAM': '6 GB', 'Expandable Storage': '400 GB', 'Supported Memory Card Type': 'microSD', 'Memory Card Slot Type': 'Hybrid Slot'}}]", 
+        "ts": "1561659933.005400", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "25c864bc-c428-463c-abad-0f6ce5647948", 
+        "text": "Can you tell me about the camera features?", 
+        "ts": "1561660071.005500", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "1914db80-c8a9-4647-a6f1-59e7810f17b1", 
+        "text": "the features are as follows: [[' 6 GB RAM | 64 GB ROM | Expandable Upto 400 GB', '15.75 cm (6.2 inch) Quad HD+ Display', '12MP + 12MP | 8MP Front Camera', '3500 mAh Battery', 'Exynos 9810 Processor']]", 
+        "ts": "1561660113.005700", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "38c287a4-939e-4568-a841-6345632b94f0", 
+        "text": "It was a great help. I think, The last one is best for me. I'm done for today.", 
+        "ts": "1561660125.006100", 
+        "speaker": "user", 
+        "team": "TJEDE5P7T", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "afb18c4c-245f-4686-a02d-ad0484c7e841", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jeiukcw0/mobile/9/y/y/samsung-galaxy-s9-plus-sm-g965fzkdins-original-imaf372g5zukw8wr.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jeiukcw0/mobile/9/y/y/samsung-galaxy-s9-plus-sm-g965fzkdins-original-imaf372g5zukw8wr.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jeiukcw0/mobile/9/y/y/samsung-galaxy-s9-plus-sm-g965fzkdins-original-imaf372uzz3adyqm.jpeg"
+            ]
+        }, 
+        "text": "Awesome! Bye dear. Have a great day!", 
+        "ts": "1561660142.006300", 
+        "speaker": "system", 
+        "team": "TJEDE5P7T", 
+        "type": "exit-message"
+    }
+]

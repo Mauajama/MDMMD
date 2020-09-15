@@ -1,0 +1,159 @@
+[
+    {
+        "text": "<@user> has joined the channel", 
+        "type": "message", 
+        "speaker": "user", 
+        "ts": "1561457674.000200", 
+        "subtype": "channel_join"
+    }, 
+    {
+        "type": "message", 
+        "ts": "1561457675.000400", 
+        "subtype": "channel_join", 
+        "speaker": "system", 
+        "text": "<@system> has joined the channel", 
+        "inviter": "user"
+    }, 
+    {
+        "client_msg_id": "8da3c9a8-2d9d-442a-9f45-46fb67749a05", 
+        "text": "Good afternoon. Can you help me. ", 
+        "speaker": "user", 
+        "ts": "1561460729.000700", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "ecf5453f-6bdc-4b49-90d2-a28272833ba3", 
+        "text": "Good afternoon. Ofcourse I can help you.", 
+        "speaker": "system", 
+        "ts": "1561460869.001100", 
+        "type": "greeting"
+    }, 
+    {
+        "client_msg_id": "7112740f-03cc-4f40-a6da-ea56743462d8", 
+        "text": "I am here to shop for a 4 star and above in rating comfortable Matresses.", 
+        "speaker": "user", 
+        "ts": "1561460989.001200", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "eb3c69ef-96cb-483d-b3ec-b5f02bb074c9", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jqy3dzk0/bed-mattress/b/g/m/queen-4-72-60-bonded-foam-bonded-foam-springtek-original-imafcazgzazrwksg.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jt395zk0/bed-mattress/4/u/t/double-4-42-78-memory-foam-orthopaedic-coir-springtek-original-imafcuqbmfqc4e3z.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/k2w6xe80/bed-mattress/y/w/y/double-6-78-60-orthopedic-medium-firm-mattress-high-density-hd-original-imafm5aspd3vnfsa.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jlb6v0w0/bed-mattress/x/p/6/single-4-5-42-72-magic-coir-coirfit-original-imaf8h6fkhctqeg8.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jqy3dzk0/bed-mattress/f/p/y/single-6-75-36-posturepaedic-coir-coir-springtek-original-imafcupwamhd3avz.jpeg"
+            ]
+        }, 
+        "text": " Would you mind looking at those Please:  1)   Springtek Bonded Foam 4 inch Double Bonded Foam Mattress,  2)   Springtek Memory Foam Orthopaedic 6 inch Double Bonded Foam Mattress,  3)   Arihant Mattress Orthopedic Medium Firm Mattress,(78x42x6) 6 inch Double High Density (HD) Foam Mattress,  4)   Coirfit Magic 4.5 inch Single Coir Mattress,  5)   Springtek Posturepaedic Coir 6 inch Double Coir Mattress, ", 
+        "ts": "1561461202.001800", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "deab1794-3d21-46d5-aee6-5e955e70b44e", 
+        "text": "Can you tell me which has the highest rating?", 
+        "speaker": "user", 
+        "ts": "1561461246.002300", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "efd29e07-1b17-4f71-b4f0-cd26a1513e25", 
+        "text": "Current ratings are: 1)  4.2. 2)  4.2. 3)  No rating yet. 4)  3.7. 5)  4.3. The most extremely rated is the :5 one.", 
+        "speaker": "system", 
+        "ts": "1561461643.002500", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "3f8f3a4e-6c93-4359-b61f-6527d4ba27ee", 
+        "text": "Can you show me more images of this comfortable Matresses?", 
+        "speaker": "user", 
+        "ts": "1561461732.003000", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "2f83a826-526d-47f4-9886-ee2a5132b2a4", 
+        "text": "Sure!", 
+        "speaker": "system", 
+        "ts": "1561461841.003200", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "1e128ade-a10b-4090-b41b-d13eaaa80a5e", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jqy3dzk0/bed-mattress/f/p/y/single-6-75-36-posturepaedic-coir-coir-springtek-original-imafcupwamhd3avz.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jqy3dzk0/bed-mattress/f/p/y/single-6-75-36-posturepaedic-coir-coir-springtek-original-imafcupw4pbyxshz.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jqy3dzk0/bed-mattress/f/p/y/single-6-75-36-posturepaedic-coir-coir-springtek-original-imafcupwejk5bdvv.jpeg"
+            ]
+        }, 
+        "text": "These image orientations I can find for you", 
+        "ts": "1561461892.003600", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "5a72ef19-de9a-446a-8282-62f7efc68fc3", 
+        "text": "Have me understand this Orthopaedic Support, Quilted Cover, Reinforced Edges,  features please?  It does not tickle my fancy  by the Width of the product.", 
+        "speaker": "user", 
+        "ts": "1561462007.004000", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "ab3d0a28-c7d6-48ec-95a7-1410d48bf33d", 
+        "attachments": {
+            "image_url": [
+                "https://rukminim1.flixcart.com/image/512/512/jqy3dzk0/bed-mattress/f/p/y/single-6-75-36-posturepaedic-coir-coir-springtek-original-imafcupwamhd3avz.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jqy3dzk0/bed-mattress/f/p/y/single-6-75-36-posturepaedic-coir-coir-springtek-original-imafcupw4pbyxshz.jpeg", 
+                "https://rukminim1.flixcart.com/image/512/512/jqy3dzk0/bed-mattress/f/p/y/single-6-75-36-posturepaedic-coir-coir-springtek-original-imafcupwejk5bdvv.jpeg"
+            ]
+        }, 
+        "text": "The components you recommended are as described in the following  Orthopaedic Support: Yes,  Quilted Cover: Yes,  Reinforced Edges: Yes,  .", 
+        "ts": "1561462288.004200", 
+        "speaker": "system", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "68475149-1bf6-4f5d-bd3a-999a02e72a29", 
+        "text": "Can you tell me what apps are pre-installed?", 
+        "speaker": "user", 
+        "ts": "1561462506.004700", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "7eb9c208-db36-4e9a-a5e0-a78d2f0a4456", 
+        "text": "fea", 
+        "speaker": "system", 
+        "ts": "1561462649.005000", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "8dfa6cb2-b183-45d1-9025-986b028da37a", 
+        "text": "certainly bot, I have a question in my mind tell me about this info  features of both 1 and 2 please?  you know what I am just staggered by the by the Length of the product.", 
+        "speaker": "user", 
+        "ts": "1561462738.005400", 
+        "type": "question"
+    }, 
+    {
+        "client_msg_id": "754fe7a9-6672-40d3-8331-ffe379effe68", 
+        "text": "certainly bot, I have a question in my mind tell me about this info   In The Box: , General: Brand: Springtek, Support Layer: Coir, Comfort Layer: Bonded Foam, Size: Double, Color: White, Mattress Top: Normal Top, Mattress Features: Europedic Mattress, Comfort Level: Firm, Upholstery Material: Quilted Knitted, Removable Cover: No, Care Instructions: Do not fold. Rotate AND TURN as per Instructions mentioned on the mattress, Orthopaedic Support: Yes, Reinforced Edges: Yes, Model Series Name: Posturepaedic Coir, Adjustable Bed: No, Quilted Cover: Yes, Dimensions: Thickness: 152 mm, Width: 1066 mm, Length: 1828 mm, Weight: 24 kg, Warranty: Warranty Summary: This product comes with 17 years warranty., Service Type: Please contact Springtek for any service related issue. Write mail to namit@ashokafoam.com, Covered in Warranty: Warranty of the product is limited to manufacturing defects and damage in transit only, Not Covered in Warranty: Warranty does not cover any wear and tear, damages due to improper care, bugs, and improper handling, Disclaimer:  and  In The Box: , General: Brand: Springtek, Support Layer: Bonnell Spring, Comfort Layer: PU Foam, Size: Double, Color: Grey, Mattress Top: Normal Top, Mattress Features: Sag Resistant Mattress, Comfort Level: Medium Soft, Upholstery Material: Quilted Woven, Removable Cover: No, Care Instructions: Do not Fold or turn , Rotate Every 3 Months. Single Side Usable, Reinforced Edges: Yes, Model Series Name: Dreamer Bonnell, Dimensions: Thickness: 254 mm, Width: 1066 mm, Length: 1905 mm, Weight: 24.3054 kg, Warranty: Warranty Summary: 6 Years Warranty, Service Type: PLS EMAIL CUSTOMER CARE ON 278@ASHOKAFOAM.COM, Covered in Warranty: WARRANTY COVERS DEPRESSION OF SPRINGS, Not Covered in Warranty: IT DOESN\\xe2\\x80\\x99T COVER WEAR AND TEAR OF MATTRESS, Disclaimer:  respectively.", 
+        "speaker": "system", 
+        "ts": "1561462830.005700", 
+        "type": "answer"
+    }, 
+    {
+        "client_msg_id": "ecf00063-ea21-4aa4-8fb0-2c132a1cc38b", 
+        "text": "Thanks for the information. How did I get so lucky? I am so grateful you choose to be with me.", 
+        "speaker": "user", 
+        "ts": "1561462832.005800", 
+        "type": "exit-message"
+    }, 
+    {
+        "client_msg_id": "d8434a56-0773-484b-8c7e-539828b6ba6e", 
+        "text": "Thank you for visiting us. It was nothing", 
+        "speaker": "system", 
+        "ts": "1561462859.006000", 
+        "type": "exit-message"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1569481082.000200",
+        "user": "UJ5UQPN21",
+        "text": "<@UJ5UQPN21> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1569481083.000400",
+        "user": "UJ7RN7BQF",
+        "text": "<@UJ7RN7BQF> has joined the channel",
+        "inviter": "UJ5UQPN21"
+    },
+    {
+        "client_msg_id": "9870516a-b4b3-45e0-b6b5-11a21aed417e",
+        "type": "message",
+        "text": "Hello good morning :slightly_smiling_face:, I am looking for some cheap hotels in Pune.",
+        "user": "UJ7RN7BQF",
+        "ts": "1569481136.001300",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        }
+    }
+]

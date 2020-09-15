@@ -1,0 +1,1714 @@
+[
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1578125866.000200",
+        "user": "UJ5UQPN21",
+        "text": "<@UJ5UQPN21> has joined the channel"
+    },
+    {
+        "type": "message",
+        "subtype": "channel_join",
+        "ts": "1578125876.000400",
+        "user": "UJ7RN7BQF",
+        "text": "<@UJ7RN7BQF> has joined the channel",
+        "inviter": "UJ5UQPN21"
+    },
+    {
+        "client_msg_id": "41c88efc-ef6a-491f-91ff-047e5b4add44",
+        "type": "message",
+        "text": "Hello, bot! I am off for a vacation!!!! :slightly_smiling_face:",
+        "user": "UJ7RN7BQF",
+        "ts": "1578126047.001100",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "f6Cr9",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello, bot! I am off for a vacation!!!! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "0e3c7253-b225-439d-9b6b-42d2eb0a050c",
+        "type": "message",
+        "text": "Hello! Oh, I'm happy to hear that. So what are you looking for? :slightly_smiling_face:",
+        "user": "UJ5UQPN21",
+        "ts": "1578126101.001900",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jVhx",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Hello! Oh, I'm happy to hear that. So what are you looking for? "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "7963de8f-7473-43bc-8d40-a81c99a05d4a",
+        "type": "message",
+        "text": "I am focused with the location not sure whether to go for hilly area or beaches, what would you prefer?",
+        "user": "UJ7RN7BQF",
+        "ts": "1578126153.002700",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hwwn",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am focused with the location not sure whether to go for hilly area or beaches, what would you prefer?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "30455b8a-74a9-497a-af17-9f18e56fee54",
+        "type": "message",
+        "text": "In that case! I would like to know whether you are traveling with your friends and family or you are traveling alone.",
+        "user": "UJ5UQPN21",
+        "ts": "1578126459.004100",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "c+K",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "In that case! I would like to know whether you are traveling with your friends and family or you are traveling alone."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "f3750d84-5c87-42a1-b664-7bfa221672f1",
+        "type": "message",
+        "text": "I am going with my college friends for a week.:grin:",
+        "user": "UJ7RN7BQF",
+        "ts": "1578126544.005000",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HF5b\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I am going with my college friends for a week."
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "grin"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b6cace8c-7755-4eb3-a15f-dd58803ba78e",
+        "type": "message",
+        "text": "Oh now it is actually chilly weather and you are traveling with your friends I would suggest you travel in some hilly areas so you can enjoy snowfall. :slightly_smiling_face:",
+        "user": "UJ5UQPN21",
+        "ts": "1578126737.006600",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ5UQPN21",
+            "ts": "1578126827.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "UV=U+",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh now it is actually chilly weather and you are traveling with your friends I would suggest you travel in some hilly areas so you can enjoy snowfall. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5039af09-7ce2-4b18-8526-3df647131efa",
+        "type": "message",
+        "text": "Can you show some good hotels then in Shimla or Manali. :wink:",
+        "user": "UJ7RN7BQF",
+        "ts": "1578126833.007500",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kiS",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you show some good hotels then in Shimla or Manali. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "wink"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Yup! I would love to. Here are some good hotels in Shimla and Manali",
+        "files": [
+            {
+                "id": "FS98MCUBX",
+                "created": 1578127146,
+                "timestamp": 1578127146,
+                "name": "3.86116166.jpg",
+                "title": "3.86116166.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 175838,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS98MCUBX\/3.86116166.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS98MCUBX\/download\/3.86116166.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98MCUBX-44b9b94545\/3.86116166_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98MCUBX-44b9b94545\/3.86116166_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98MCUBX-44b9b94545\/3.86116166_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 250,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98MCUBX-44b9b94545\/3.86116166_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 334,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98MCUBX-44b9b94545\/3.86116166_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98MCUBX-44b9b94545\/3.86116166_720.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720_w": 720,
+                "thumb_720_h": 501,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98MCUBX-44b9b94545\/3.86116166_800.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_800_w": 800,
+                "thumb_800_h": 556,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98MCUBX-44b9b94545\/3.86116166_960.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_960_w": 960,
+                "thumb_960_h": 668,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 712,
+                "thumb_tiny": "AwAhADCieTRigDJp6xsxJAOKQDcdMVP9kbcKURDK4Bx9at7xjkNSKsUmjUE5GcGmOmRwBUlwxzwDg81W3Eev0piZLGCJF4OMjtV8xqoJUkd+Kz4nBcDcRmtFpUSHleMYyDSAAnGQxHGajlfymyOfXmoPthD4x8uMYzURlOc8g+1AXJJ3DJkEdexqEOA3Iz9aaWwcDpTM5PWmIfB9+rEnU1Xg+\/ViTqaTGVF++tPPX8aYv31p56\/jTEIOp+lA+8aB1P0oH3jQB\/\/Z",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FS98MCUBX\/3.86116166.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FS98MCUBX-0ea35ef9cd",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FRXPZ8BT5",
+                "created": 1578127146,
+                "timestamp": 1578127146,
+                "name": "4.satyam-paradise-hotel.jpg",
+                "title": "4.satyam-paradise-hotel.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 67559,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRXPZ8BT5\/4.satyam-paradise-hotel.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRXPZ8BT5\/download\/4.satyam-paradise-hotel.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRXPZ8BT5-7f00eb4be4\/4.satyam-paradise-hotel_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRXPZ8BT5-7f00eb4be4\/4.satyam-paradise-hotel_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRXPZ8BT5-7f00eb4be4\/4.satyam-paradise-hotel_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRXPZ8BT5-7f00eb4be4\/4.satyam-paradise-hotel_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRXPZ8BT5-7f00eb4be4\/4.satyam-paradise-hotel_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "image_exif_rotation": 1,
+                "original_w": 550,
+                "original_h": 412,
+                "thumb_tiny": "AwAjADCRDx8x59etSCfaMbhx6io2K+SwU4J6GomVuNrgAdadwLLXDMuFHPcgULO6jDDPpmonUOvyOM9zmhVCIAWBP1pXAka4f0UfjUEs7yDDMAKTy1L53CnOI3BG8DnNFwHSIsiABgOSc0scaojgsMmoZHVwqsGXB4JHFSpCVhZRg7uc0ARGHcoVWGR3pxARQucmhbd1xgAn1qJyQxUjoaTBgrdec4pxCup6KfeokI\/LpTnQY47+9AixEqyIu8A59qjjYpJIikhQeB6VLbfdX6VCP9fL9asRZDErkmqLk7up5NXV+5VJ\/vfjUspbCRng\/WiY\/vKSPofrSzf6ykI\/\/9k=",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FRXPZ8BT5\/4.satyam-paradise-hotel.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FRXPZ8BT5-d685343450",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "lG67",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup! I would love to. Here are some good hotels in Shimla and Manali"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UJ5UQPN21",
+        "ts": "1578127150.008600",
+        "client_msg_id": "ebbccb2a-befa-491a-98d8-d0472d697576"
+    },
+    {
+        "type": "message",
+        "text": "",
+        "files": [
+            {
+                "id": "FS8Q9K25S",
+                "created": 1578127164,
+                "timestamp": 1578127164,
+                "name": "1.front-pic.jpg",
+                "title": "1.front-pic.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 49448,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS8Q9K25S\/1.front-pic.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS8Q9K25S\/download\/1.front-pic.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8Q9K25S-39b4091d38\/1.front-pic_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8Q9K25S-39b4091d38\/1.front-pic_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8Q9K25S-39b4091d38\/1.front-pic_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 246,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8Q9K25S-39b4091d38\/1.front-pic_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 328,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8Q9K25S-39b4091d38\/1.front-pic_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "image_exif_rotation": 1,
+                "original_w": 550,
+                "original_h": 376,
+                "thumb_tiny": "AwAgADCz58gVflyTz6cU77Qc8L8uBmoUMmzKruPTk1IAwU4Xr70wRJ5x3fd+Xpmk88jqvJ6c9aZhsYxxnrnmmbpSTmIDHTkc0gJvtIwDtPv7UyS6OTs6DvQFbkEDBx+FV5X2ArgK3cjvRcAgkQjDsVI\/KpSYxwZD0FUbfcZhsUv6irzb9wxAD059KBgPL8w\/vGyT0qNGh+ciZjxzz0qUF\/M\/1Shc\/e4ppLqp+RASPbk+lAC7owV+ZjwMf0qtNgtuQ55709pJvNAyAOMgAU6YMy8MCc9AaQj\/2Q==",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FS8Q9K25S\/1.front-pic.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FS8Q9K25S-bb53c513a7",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FRZ1GSZ17",
+                "created": 1578127164,
+                "timestamp": 1578127164,
+                "name": "2.50a0a3eb_z.jpg",
+                "title": "2.50a0a3eb_z.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 30177,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRZ1GSZ17\/2.50a0a3eb_z.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRZ1GSZ17\/download\/2.50a0a3eb_z.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1GSZ17-218ea01882\/2.50a0a3eb_z_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1GSZ17-218ea01882\/2.50a0a3eb_z_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1GSZ17-218ea01882\/2.50a0a3eb_z_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 240,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1GSZ17-218ea01882\/2.50a0a3eb_z_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 320,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1GSZ17-218ea01882\/2.50a0a3eb_z_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "image_exif_rotation": 1,
+                "original_w": 582,
+                "original_h": 388,
+                "thumb_tiny": "AwAgADDNoqaKHzFyXVcHHNSraowx5gz7ClcdipT0jZ22qCT6VaFusRHJYn26VKifNzu+oGPwpcw7FdbVs9VAxnk0ySIK2FYMe+KtNDFuPyOfpVadVV8IpUY6Gi4D7V1VSGdVJPdc1YVxjIfP0XFZwJznOcUEn1xQ1cVzXyOMsRnpSBl6byDmsne394\/nSbiO5o5R3NNmXP8AriPwqncnD5DFuOpqDcfU0FiepJoSFc\/\/2Q==",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FRZ1GSZ17\/2.50a0a3eb_z.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FRZ1GSZ17-f90bf345cb",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "user": "UJ5UQPN21",
+        "ts": "1578127165.009100",
+        "client_msg_id": "d54400ed-3075-4970-b3ed-223ebf880d58"
+    },
+    {
+        "client_msg_id": "81ffc3f3-db3d-46df-96e5-e3175196c9b1",
+        "type": "message",
+        "text": "The 1st image looks really cool amidst the hills, can you show some rooms in this hotel?",
+        "user": "UJ7RN7BQF",
+        "ts": "1578127225.010200",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "E6tR",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The 1st image looks really cool amidst the hills, can you show some rooms in this hotel?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Yup! Let me show you some from the 1st hotel. I can find this one for you!",
+        "files": [
+            {
+                "id": "FS98PJC13",
+                "created": 1578127522,
+                "timestamp": 1578127522,
+                "name": "30.PH-new3.jpg",
+                "title": "30.PH-new3.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 624348,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS98PJC13\/30.ph-new3.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS98PJC13\/download\/30.ph-new3.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98PJC13-090563dd75\/30.ph-new3_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98PJC13-090563dd75\/30.ph-new3_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98PJC13-090563dd75\/30.ph-new3_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 217,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98PJC13-090563dd75\/30.ph-new3_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 289,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98PJC13-090563dd75\/30.ph-new3_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98PJC13-090563dd75\/30.ph-new3_720.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720_w": 720,
+                "thumb_720_h": 433,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98PJC13-090563dd75\/30.ph-new3_800.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_800_w": 800,
+                "thumb_800_h": 482,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98PJC13-090563dd75\/30.ph-new3_960.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_960_w": 960,
+                "thumb_960_h": 578,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98PJC13-090563dd75\/30.ph-new3_1024.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 616,
+                "image_exif_rotation": 1,
+                "original_w": 1030,
+                "original_h": 620,
+                "thumb_tiny": "AwAcADCp8vbNBUDocirBjMyBgqD6U1YiOqn05paj0IBmlIIXJIqXyduPmXBOAc02TCjHBz6c0WC5DsJYZBOamWB2Vs\/KAu7FL5gVk4ztOTilSV3Vs8Ajbx6U0hNjYrtg2GGRT0ucZ3fMT2qJkUjOOfaoc\/NTUwcUWJJjJw3IHbsKYx4ptIetSUBGDkcUB2XkUDpTTQhH\/9k=",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FS98PJC13\/30.ph-new3.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FS98PJC13-7feb5626df",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "hJ3D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yup! Let me show you some from the 1st hotel. I can find this one for you!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UJ5UQPN21",
+        "display_as_bot": false,
+        "ts": "1578127525.010600",
+        "client_msg_id": "e0faa5e9-61b0-4451-9f62-bc91563bb46b"
+    },
+    {
+        "client_msg_id": "638c774f-a400-41a0-9bdf-7feef2dd935f",
+        "type": "message",
+        "text": "Can you specify the price of the room?",
+        "user": "UJ7RN7BQF",
+        "ts": "1578127565.011300",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "zs\/D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Can you specify the price of the room?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "9fe54b1c-20a5-4c8f-b2b2-c575b95e6808",
+        "type": "message",
+        "text": "This room is for 2700\/- per night. :slightly_smiling_face: It is very spacious and lavishing and huge, isn't it!",
+        "user": "UJ5UQPN21",
+        "ts": "1578127730.012500",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "edited": {
+            "user": "UJ5UQPN21",
+            "ts": "1578127738.000000"
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "DmRCQ",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "This room is for 2700\/- per night. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": " It is very spacious and lavishing and huge, isn't it!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c68dc836-aa9a-48bf-90fa-f5e2a3d86651",
+        "type": "message",
+        "text": "It's really expensive:disappointed:. We have a budget of 2000 only.",
+        "user": "UJ7RN7BQF",
+        "ts": "1578127885.013200",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "8Bm7",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "It's really expensive"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". We have a budget of 2000 only."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "a7a21a4e-aff2-4a5e-9d18-39413d9d33e3",
+        "type": "message",
+        "text": "Oh! I'm sorry. I don't have any hotel with this budget in this location! do you want me to try at some other place!",
+        "user": "UJ5UQPN21",
+        "ts": "1578127982.014900",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "rJsV",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Oh! I'm sorry. I don't have any hotel with this budget in this location! do you want me to try at some other place!"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "14f03047-0a06-45c6-8b6b-a2cab9a631c5",
+        "type": "message",
+        "text": "That's really frustrating :slightly_frowning_face:. Show me some good hotels in Pondicherry within my budget.",
+        "user": "UJ7RN7BQF",
+        "ts": "1578128101.015900",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7dE",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That's really frustrating "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_frowning_face"
+                            },
+                            {
+                                "type": "text",
+                                "text": ". Show me some good hotels in Pondicherry within my budget."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "I apologize! Here are some hotels from Pondicherry for you! I hope that you will like them.",
+        "files": [
+            {
+                "id": "FS98HKKFA",
+                "created": 1578128252,
+                "timestamp": 1578128252,
+                "name": "3.118088690.jpg",
+                "title": "3.118088690.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 89762,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS98HKKFA\/3.118088690.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS98HKKFA\/download\/3.118088690.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98HKKFA-614609cad0\/3.118088690_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98HKKFA-614609cad0\/3.118088690_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98HKKFA-614609cad0\/3.118088690_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 240,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98HKKFA-614609cad0\/3.118088690_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 320,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98HKKFA-614609cad0\/3.118088690_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98HKKFA-614609cad0\/3.118088690_720.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720_w": 720,
+                "thumb_720_h": 480,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98HKKFA-614609cad0\/3.118088690_800.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_800_w": 800,
+                "thumb_800_h": 534,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98HKKFA-614609cad0\/3.118088690_960.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_960_w": 960,
+                "thumb_960_h": 640,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 683,
+                "thumb_tiny": "AwAgADCnS9qQsDSqM1tzK5nZgBk4pzYDBVOR3PrTxFjdu4KgnFMVCzAAZNZzlfY0jGwSQlW+XkVCRir0i96qyjBzTjK4mrDAuelW4I1ABbr1poYsfmx+XSpAqjDbzwelQhj3UCN37nvUMPE\/4U55f3ew8+9Nt8mZckVLKJXI9arTjGauuowQWwfpVV4wDgPv\/CmnYln\/2Q==",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FS98HKKFA\/3.118088690.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FS98HKKFA-72e7a3e2b0",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FS98TLPA9",
+                "created": 1578128252,
+                "timestamp": 1578128252,
+                "name": "5.hotel-seasons.jpg",
+                "title": "5.hotel-seasons.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 43126,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS98TLPA9\/5.hotel-seasons.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS98TLPA9\/download\/5.hotel-seasons.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98TLPA9-f3ba34140c\/5.hotel-seasons_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98TLPA9-f3ba34140c\/5.hotel-seasons_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98TLPA9-f3ba34140c\/5.hotel-seasons_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98TLPA9-f3ba34140c\/5.hotel-seasons_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS98TLPA9-f3ba34140c\/5.hotel-seasons_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "image_exif_rotation": 1,
+                "original_w": 550,
+                "original_h": 413,
+                "thumb_tiny": "AwAkADBIiPN+ZsYA5P0p8w342EMB6GmNCHk4cL8vVu9PEMicqEP0NADAvYj86kQkcBiB6Z4p26QfeiP4c0eYgPzKR9RTuKwPgxurdhkY4\/SoJRcLGVfcVBHPWp90TZG\/G4YqL7Q8gMbADIxkUhle4kzGMAjB4zUAkIHBNTybHiUA81XK7Tgn9KAJFnkHRyPxp4uZ88SEj3qDBp+SsSspIOT0oAmF3KOG2H6rT0uRsALLkdMrVQZYHOSaULlSQeQelADl647Yps\/+spw+8PoKbP8A6ykBJC5UYGKVsBsbQRnODTE6U9\/v0wI+rEYxg9qcvBX3po++31p38SfWgD\/\/2Q==",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FS98TLPA9\/5.hotel-seasons.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FS98TLPA9-167444a5a5",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FRWEVMTNW",
+                "created": 1578128252,
+                "timestamp": 1578128252,
+                "name": "6.8695729.jpg",
+                "title": "6.8695729.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 116970,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRWEVMTNW\/6.8695729.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRWEVMTNW\/download\/6.8695729.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEVMTNW-01b10c46a2\/6.8695729_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEVMTNW-01b10c46a2\/6.8695729_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEVMTNW-01b10c46a2\/6.8695729_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 240,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEVMTNW-01b10c46a2\/6.8695729_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 320,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEVMTNW-01b10c46a2\/6.8695729_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEVMTNW-01b10c46a2\/6.8695729_720.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720_w": 720,
+                "thumb_720_h": 480,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEVMTNW-01b10c46a2\/6.8695729_800.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_800_w": 800,
+                "thumb_800_h": 534,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEVMTNW-01b10c46a2\/6.8695729_960.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_960_w": 960,
+                "thumb_960_h": 640,
+                "image_exif_rotation": 1,
+                "original_w": 1024,
+                "original_h": 683,
+                "thumb_tiny": "AwAgADCkLWQ9Nv505bKQn5sAeuc1NtKxgnzFyeeecVMoaQO4YpkYXJ4HvU6sbstyEWkaR\/vD0\/izihrNGQGIjPqTkVI8fmWm0zAkHljSiJ4rTajZbOQVFFmLmRT+xy5I4wO+etNa3kUZIB+hrQUl+jt93B44zUcnGAX6jHTqfWjUehGJEICIrAjpz2zUscwZXGcbeOlRbHkcsoFW4QUi2sozVJWIbuMX+FzjOOppTKcZytN8mU\/xcY6ZqQKRb7CBuxjNMRXaXZn0J4xUUjAOS5JA6bTUvkuGUkqcUk678YAHFIasf\/\/Z",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FRWEVMTNW\/6.8695729.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FRWEVMTNW-a4aea3d870",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FSBELEH9U",
+                "created": 1578128252,
+                "timestamp": 1578128252,
+                "name": "7.pondicherry.jpg",
+                "title": "7.pondicherry.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 23719,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FSBELEH9U\/7.pondicherry.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FSBELEH9U\/download\/7.pondicherry.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSBELEH9U-ace9a886be\/7.pondicherry_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSBELEH9U-ace9a886be\/7.pondicherry_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSBELEH9U-ace9a886be\/7.pondicherry_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 270,
+                "thumb_360_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSBELEH9U-ace9a886be\/7.pondicherry_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "image_exif_rotation": 1,
+                "original_w": 337,
+                "original_h": 450,
+                "thumb_tiny": "AwAwACN8UKxjjr6mpCPfFLjNNw2\/AAxVMhCkADBJOfejPoKGRieDge1OC4Az1pDEoooqyRy03Dl85+XNQ2rbQWY5yOMCpFbEm4sxX0qLlj3QseCacowoHpUcjBzkZH4UqyKqgYJxSAUjBopplXPejzFq7isZ0bNsPzEenNKGfB+Zqk8sDIGNvpQke0njj0qChiM5cDcakJJB5I\/GngMp4VCPc0BD1J\/lQAqhiM0u1vQUZ9OKMn1\/SgD\/2Q==",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FSBELEH9U\/7.pondicherry.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FSBELEH9U-40edd801a4",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "oTChs",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I apologize! Here are some hotels from Pondicherry for you! I hope that you will like them."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UJ5UQPN21",
+        "ts": "1578128255.016300",
+        "client_msg_id": "5ac1a01a-ea62-4565-82cf-bd5697ad43d3"
+    },
+    {
+        "client_msg_id": "490d6741-9fd9-46da-8d79-75f30da3cd2d",
+        "type": "message",
+        "text": "The 3rd image looks nice, are the rooms in my budget available here?",
+        "user": "UJ7RN7BQF",
+        "ts": "1578128306.017800",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "cP2D",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The 3rd image looks nice, are the rooms in my budget available here?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "ce69353b-f9f1-4636-9bbe-291d9b787d50",
+        "type": "message",
+        "text": "Yeah! There is a discount on booking a room in this hotel! The rooms here are for 2500\/- per night but when you book 3 rooms you get a discount of Rs 500 on each room. :slightly_smiling_face:",
+        "user": "UJ5UQPN21",
+        "ts": "1578128531.020000",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "=TmU=",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Yeah! There is a discount on booking a room in this hotel! The rooms here are for 2500\/- per night but when you book 3 rooms you get a discount of Rs 500 on each room. "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "5b04b8ef-64d6-41e1-bbc1-b63ab502aab9",
+        "type": "message",
+        "text": "Thats great to hear can you show some images of the rooms?",
+        "user": "UJ7RN7BQF",
+        "ts": "1578128602.020500",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "kKmD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Thats great to hear can you show some images of the rooms?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "Here are three rooms which are available! Do you like these?",
+        "files": [
+            {
+                "id": "FSBEPTAPQ",
+                "created": 1578128793,
+                "timestamp": 1578128793,
+                "name": "3.cheap-mykonos-greece-hotel-matina.jpg",
+                "title": "3.cheap-mykonos-greece-hotel-matina.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 22940,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FSBEPTAPQ\/3.cheap-mykonos-greece-hotel-matina.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FSBEPTAPQ\/download\/3.cheap-mykonos-greece-hotel-matina.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSBEPTAPQ-1bbc468879\/3.cheap-mykonos-greece-hotel-matina_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSBEPTAPQ-1bbc468879\/3.cheap-mykonos-greece-hotel-matina_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSBEPTAPQ-1bbc468879\/3.cheap-mykonos-greece-hotel-matina_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 257,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSBEPTAPQ-1bbc468879\/3.cheap-mykonos-greece-hotel-matina_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 343,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FSBEPTAPQ-1bbc468879\/3.cheap-mykonos-greece-hotel-matina_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "image_exif_rotation": 1,
+                "original_w": 695,
+                "original_h": 496,
+                "thumb_tiny": "AwAiADBm3FPVeaWpUClSSelDGhgWnBOKcBzT8AZFICs681FIvyGrTLUbjigBP4c05H4xjg1AsueDViNQwyDVMlC88EHHNSZo2EUhpWGNZqjZhnH40SuFHHWqy7h1NVsIi7Vbtid4qofu1btv9YKkZeFRTdalFRTdapCZRf8A1n40p6Uj\/wCs\/E0p6UAf\/9k=",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FSBEPTAPQ\/3.cheap-mykonos-greece-hotel-matina.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FSBEPTAPQ-0afc7db84e",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FRZ1SGV17",
+                "created": 1578128793,
+                "timestamp": 1578128793,
+                "name": "4.marquis-room-56ab15355f9b58b7d0093f48.jpg",
+                "title": "4.marquis-room-56ab15355f9b58b7d0093f48.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 94791,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRZ1SGV17\/4.marquis-room-56ab15355f9b58b7d0093f48.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRZ1SGV17\/download\/4.marquis-room-56ab15355f9b58b7d0093f48.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1SGV17-68865b68df\/4.marquis-room-56ab15355f9b58b7d0093f48_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1SGV17-68865b68df\/4.marquis-room-56ab15355f9b58b7d0093f48_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1SGV17-68865b68df\/4.marquis-room-56ab15355f9b58b7d0093f48_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 270,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1SGV17-68865b68df\/4.marquis-room-56ab15355f9b58b7d0093f48_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1SGV17-68865b68df\/4.marquis-room-56ab15355f9b58b7d0093f48_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1SGV17-68865b68df\/4.marquis-room-56ab15355f9b58b7d0093f48_720.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720_w": 720,
+                "thumb_720_h": 540,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRZ1SGV17-68865b68df\/4.marquis-room-56ab15355f9b58b7d0093f48_800.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_800_w": 800,
+                "thumb_800_h": 600,
+                "image_exif_rotation": 1,
+                "original_w": 960,
+                "original_h": 720,
+                "thumb_tiny": "AwAkADCFXHepkIPSqwYHFW4zuJBAAA4xU2KuJkFsKaAW9TTYuZcfWnxbTcKuDncc+9IBwLe9PAY+tSSJgJgD7wFMk4cLu2gjrQ0CZUXbjgClKhjnJFVVkI71Ksp4zTAkEbBiVk5IPaomZ4XHOD1yDTzLgHPGKiaTecmhAaNtIsqCRwN+etVLidkmZXXOCdv0qEPjoajky3zZz2piGZp6mo6etAIGJLHNFIeppaACkyfWlpp60Af\/2Q==",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FRZ1SGV17\/4.marquis-room-56ab15355f9b58b7d0093f48.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FRZ1SGV17-508ce2f01b",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FRWEZ58PL",
+                "created": 1578128793,
+                "timestamp": 1578128793,
+                "name": "7.affordable-rooms-knotts-berry-farm.jpg",
+                "title": "7.affordable-rooms-knotts-berry-farm.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 89295,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRWEZ58PL\/7.affordable-rooms-knotts-berry-farm.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRWEZ58PL\/download\/7.affordable-rooms-knotts-berry-farm.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEZ58PL-8a3a12357d\/7.affordable-rooms-knotts-berry-farm_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEZ58PL-8a3a12357d\/7.affordable-rooms-knotts-berry-farm_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEZ58PL-8a3a12357d\/7.affordable-rooms-knotts-berry-farm_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEZ58PL-8a3a12357d\/7.affordable-rooms-knotts-berry-farm_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 270,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEZ58PL-8a3a12357d\/7.affordable-rooms-knotts-berry-farm_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEZ58PL-8a3a12357d\/7.affordable-rooms-knotts-berry-farm_720.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_720_w": 720,
+                "thumb_720_h": 405,
+                "thumb_800": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEZ58PL-8a3a12357d\/7.affordable-rooms-knotts-berry-farm_800.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_800_w": 800,
+                "thumb_800_h": 450,
+                "thumb_960": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEZ58PL-8a3a12357d\/7.affordable-rooms-knotts-berry-farm_960.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_960_w": 960,
+                "thumb_960_h": 540,
+                "thumb_1024": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWEZ58PL-8a3a12357d\/7.affordable-rooms-knotts-berry-farm_1024.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_1024_w": 1024,
+                "thumb_1024_h": 576,
+                "image_exif_rotation": 1,
+                "original_w": 1200,
+                "original_h": 675,
+                "thumb_tiny": "AwAbADBC4Uc1LA6yDK9M1RmclscYoSVkGFOB7CosWa8igLmq8rlSuD2qr9rkLDexKjtjGaDOrkZPT2osFixH+8cbs7e59KkkWFeAT71BBKquADwffrTJCS54AzjAzSH1KrnefSlUU0U4VQhwTcckkD2o8sBhhvrmgGkB+Y0FWJACvIIonjfcMjt1zTR3+lWH5t1J64FITP\/Z",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FRWEZ58PL\/7.affordable-rooms-knotts-berry-farm.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FRWEZ58PL-5458b89f4c",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Dwj",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Here are three rooms which are available! Do you like these?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UJ5UQPN21",
+        "ts": "1578128803.020600",
+        "client_msg_id": "e99852ba-b3ad-435b-a72a-0113e6ae28e1"
+    },
+    {
+        "client_msg_id": "65fb75d0-4a54-4247-a2d8-457ff8174df4",
+        "type": "message",
+        "text": "The 2nd room is better than the rest, I would also like to see the washrooms.",
+        "user": "UJ7RN7BQF",
+        "ts": "1578128924.022100",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "J+wEU",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The 2nd room is better than the rest, I would also like to see the washrooms."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "type": "message",
+        "text": "The washroom for this hotel room looks like this :slightly_smiling_face:",
+        "files": [
+            {
+                "id": "FS8QLJUH2",
+                "created": 1578129036,
+                "timestamp": 1578129036,
+                "name": "5.fully-furnished-bathroom.jpg",
+                "title": "5.fully-furnished-bathroom.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 23543,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS8QLJUH2\/5.fully-furnished-bathroom.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FS8QLJUH2\/download\/5.fully-furnished-bathroom.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8QLJUH2-0342d73f3b\/5.fully-furnished-bathroom_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8QLJUH2-0342d73f3b\/5.fully-furnished-bathroom_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8QLJUH2-0342d73f3b\/5.fully-furnished-bathroom_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 360,
+                "thumb_360_h": 203,
+                "thumb_480": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8QLJUH2-0342d73f3b\/5.fully-furnished-bathroom_480.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_480_w": 480,
+                "thumb_480_h": 271,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FS8QLJUH2-0342d73f3b\/5.fully-furnished-bathroom_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "image_exif_rotation": 1,
+                "original_w": 550,
+                "original_h": 310,
+                "thumb_tiny": "AwAbADCwFoPFPjXaTnJpZUXGc7TQIyhn+7gr1rWhOLZO3y1j55Nam7Fso\/2RSKY0HLGhulRock04t8tMQz7QzdD+VG\/uetQQ9aWkA2JFZCSMnJqyxJQADpVaH7p+pqyhIwB0pLcp7CxqMHd1pshCjg06XgcVA5PlmqJP\/9k=",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FS8QLJUH2\/5.fully-furnished-bathroom.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FS8QLJUH2-27c4c00b9f",
+                "is_starred": false,
+                "has_rich_preview": false
+            },
+            {
+                "id": "FRWF0HE3U",
+                "created": 1578129036,
+                "timestamp": 1578129036,
+                "name": "16.2da0196937a1658464c1dfad9fcebb98.jpg",
+                "title": "16.2da0196937a1658464c1dfad9fcebb98.jpg",
+                "mimetype": "image\/jpeg",
+                "filetype": "jpg",
+                "pretty_type": "JPEG",
+                "user": "UJ5UQPN21",
+                "editable": false,
+                "size": 21720,
+                "mode": "hosted",
+                "is_external": false,
+                "external_type": "",
+                "is_public": true,
+                "public_url_shared": false,
+                "display_as_bot": false,
+                "username": "",
+                "url_private": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRWF0HE3U\/16.2da0196937a1658464c1dfad9fcebb98.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "url_private_download": "https:\/\/files.slack.com\/files-pri\/THUJ3FZGA-FRWF0HE3U\/download\/16.2da0196937a1658464c1dfad9fcebb98.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_64": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWF0HE3U-45f832c382\/16.2da0196937a1658464c1dfad9fcebb98_64.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_80": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWF0HE3U-45f832c382\/16.2da0196937a1658464c1dfad9fcebb98_80.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWF0HE3U-45f832c382\/16.2da0196937a1658464c1dfad9fcebb98_360.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "thumb_360_w": 240,
+                "thumb_360_h": 360,
+                "thumb_160": "https:\/\/files.slack.com\/files-tmb\/THUJ3FZGA-FRWF0HE3U-45f832c382\/16.2da0196937a1658464c1dfad9fcebb98_160.jpg?t=xoxe-606615543554-932059950978-934704059249-fc45c6ecd2114f196dcc1482941df874",
+                "image_exif_rotation": 1,
+                "original_w": 283,
+                "original_h": 425,
+                "thumb_tiny": "AwAwAB+ypIPvThURf5zilElIZKxx0pFGOT1pm8L16\/ypUO5mPsKAIUqUAZqFMAc9\/SknmKR5TIb1oAlaNi2QCacGEZ+c9e1Ul1CYdlJ9cVYUmdFdwMkUAM5LE54pJE3KRnmlU8UpNAFW2hWS48uViox271rJAkaBUyAPfNZswx8w6imif5fvHHpmgD\/\/2Q==",
+                "permalink": "https:\/\/nidhiheadquarters.slack.com\/files\/UJ5UQPN21\/FRWF0HE3U\/16.2da0196937a1658464c1dfad9fcebb98.jpg",
+                "permalink_public": "https:\/\/slack-files.com\/THUJ3FZGA-FRWF0HE3U-fde6d9119a",
+                "is_starred": false,
+                "has_rich_preview": false
+            }
+        ],
+        "upload": true,
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "HxC\/",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The washroom for this hotel room looks like this "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "user": "UJ5UQPN21",
+        "ts": "1578129037.022200",
+        "client_msg_id": "4add03e5-5744-4798-97e5-76eadea8459b"
+    },
+    {
+        "client_msg_id": "29af778a-7202-450c-915c-e0bdae6709b9",
+        "type": "message",
+        "text": "The 1st one is too small and in the second one, there is a bathtub which I don't prefer. Do you have anything else?",
+        "user": "UJ7RN7BQF",
+        "ts": "1578129105.023500",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "7VD",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "The 1st one is too small and in the second one, there is a bathtub which I don't prefer. Do you have anything else?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "646c4155-f4e2-468d-98a2-2d6ccfe0ca03",
+        "type": "message",
+        "text": "I'm sorry! I don't have anything else for you! :disappointed:",
+        "user": "UJ5UQPN21",
+        "ts": "1578129220.024500",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "Mz6Z6",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I'm sorry! I don't have anything else for you! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "disappointed"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "b78ab452-9a3d-4a88-85a5-3fb5f8064321",
+        "type": "message",
+        "text": "That really sad. Anyways thanks:pensive:",
+        "user": "UJ7RN7BQF",
+        "ts": "1578129244.024900",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "5JXL",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "That really sad. Anyways thanks"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "pensive"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "d418ae3e-6587-4f7f-8966-4bb62d53b87d",
+        "type": "message",
+        "text": "I apologize for the inconvenience for caused! Can I help with anything else?",
+        "user": "UJ5UQPN21",
+        "ts": "1578129454.026300",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "jb9xl",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "I apologize for the inconvenience for caused! Can I help with anything else?"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "c56733c9-e537-42b1-8835-7b92671ac0d9",
+        "type": "message",
+        "text": "No thanks,:unamused: I don't need anything else today.",
+        "user": "UJ7RN7BQF",
+        "ts": "1578129503.026900",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g684d30c04b1",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/9684d30c04b11aed6c96b3fef38f0e8c.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0000-72.png",
+            "first_name": "Mauzama",
+            "real_name": "Mauzama",
+            "display_name": "User",
+            "team": "THUJ3FZGA",
+            "name": "mauzama.03",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "aASsw",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "No thanks,"
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "unamused"
+                            },
+                            {
+                                "type": "text",
+                                "text": " I don't need anything else today."
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "client_msg_id": "04d95936-061e-46cf-8fc9-82b0ba00a32a",
+        "type": "message",
+        "text": "Okay! Have a nice day dear! :slightly_smiling_face:",
+        "user": "UJ5UQPN21",
+        "ts": "1578129550.027500",
+        "team": "THUJ3FZGA",
+        "user_team": "THUJ3FZGA",
+        "source_team": "THUJ3FZGA",
+        "user_profile": {
+            "avatar_hash": "g8da4636b506",
+            "image_72": "https:\/\/secure.gravatar.com\/avatar\/68da4636b506c129f2c40a1a2983c339.jpg?s=72&d=https%3A%2F%2Fa.slack-edge.com%2Fdf10d%2Fimg%2Favatars%2Fava_0009-72.png",
+            "first_name": "System",
+            "real_name": "System",
+            "display_name": "System",
+            "team": "THUJ3FZGA",
+            "name": "thakurnidhi503",
+            "is_restricted": false,
+            "is_ultra_restricted": false
+        },
+        "blocks": [
+            {
+                "type": "rich_text",
+                "block_id": "n3eky",
+                "elements": [
+                    {
+                        "type": "rich_text_section",
+                        "elements": [
+                            {
+                                "type": "text",
+                                "text": "Okay! Have a nice day dear! "
+                            },
+                            {
+                                "type": "emoji",
+                                "name": "slightly_smiling_face"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+]
